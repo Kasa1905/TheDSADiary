@@ -125,3 +125,15 @@ Every commit represents another step toward becoming a better software engineer.
 If you're also learning DSA, feel free to explore the solutions, compare approaches, and learn alongside me.
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0021-merge-two-sorted-lists) |
+<!---LeetCode Topics End-->
