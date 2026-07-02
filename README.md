@@ -160,4 +160,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
