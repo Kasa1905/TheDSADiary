@@ -139,6 +139,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
 |  |
@@ -172,4 +173,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0022-generate-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
