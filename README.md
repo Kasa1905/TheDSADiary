@@ -140,6 +140,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [3033-modify-the-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/3033-modify-the-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
 |  |
@@ -156,6 +157,7 @@ Happy Coding! 🚀
 ## Matrix
 |  |
 | ------- |
+| [3033-modify-the-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/3033-modify-the-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
