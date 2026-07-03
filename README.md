@@ -209,4 +209,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Kasa1905/TheDSADiary/tree/master/3620-network-recovery-pathways) |
+## Hash Table
+|  |
+| ------- |
+| [1399-count-largest-group](https://github.com/Kasa1905/TheDSADiary/tree/master/1399-count-largest-group) |
+## Math
+|  |
+| ------- |
+| [1399-count-largest-group](https://github.com/Kasa1905/TheDSADiary/tree/master/1399-count-largest-group) |
+## Counting
+|  |
+| ------- |
+| [1399-count-largest-group](https://github.com/Kasa1905/TheDSADiary/tree/master/1399-count-largest-group) |
 <!---LeetCode Topics End-->
