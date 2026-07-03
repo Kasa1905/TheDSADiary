@@ -144,6 +144,7 @@ Happy Coding! 🚀
 | [3028-ant-on-the-boundary](https://github.com/Kasa1905/TheDSADiary/tree/master/3028-ant-on-the-boundary) |
 | [3033-modify-the-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/3033-modify-the-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Kasa1905/TheDSADiary/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -152,10 +153,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Kasa1905/TheDSADiary/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Kasa1905/TheDSADiary/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -165,6 +168,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Kasa1905/TheDSADiary/tree/master/3620-network-recovery-pathways) |
 ## String
 |  |
 | ------- |
@@ -174,6 +178,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0022-generate-parentheses) |
+| [3620-network-recovery-pathways](https://github.com/Kasa1905/TheDSADiary/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
 | ------- |
@@ -196,4 +201,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Kasa1905/TheDSADiary/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Kasa1905/TheDSADiary/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
