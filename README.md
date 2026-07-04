@@ -142,6 +142,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0027-remove-element) |
+| [1732-find-the-highest-altitude](https://github.com/Kasa1905/TheDSADiary/tree/master/1732-find-the-highest-altitude) |
 | [3028-ant-on-the-boundary](https://github.com/Kasa1905/TheDSADiary/tree/master/3028-ant-on-the-boundary) |
 | [3033-modify-the-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/3033-modify-the-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -197,6 +198,7 @@ Happy Coding! 🚀
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Kasa1905/TheDSADiary/tree/master/1732-find-the-highest-altitude) |
 | [3028-ant-on-the-boundary](https://github.com/Kasa1905/TheDSADiary/tree/master/3028-ant-on-the-boundary) |
 ## String Matching
 |  |
