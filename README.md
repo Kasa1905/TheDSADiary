@@ -218,6 +218,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0009-palindrome-number) |
 | [1399-count-largest-group](https://github.com/Kasa1905/TheDSADiary/tree/master/1399-count-largest-group) |
 ## Counting
 |  |
