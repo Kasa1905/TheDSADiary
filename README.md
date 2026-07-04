@@ -143,6 +143,7 @@ Happy Coding! 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Kasa1905/TheDSADiary/tree/master/0035-search-insert-position) |
+| [0059-spiral-matrix-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0059-spiral-matrix-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Kasa1905/TheDSADiary/tree/master/1732-find-the-highest-altitude) |
 | [3028-ant-on-the-boundary](https://github.com/Kasa1905/TheDSADiary/tree/master/3028-ant-on-the-boundary) |
 | [3033-modify-the-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/3033-modify-the-matrix) |
@@ -167,6 +168,7 @@ Happy Coding! 🚀
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0059-spiral-matrix-ii) |
 | [3033-modify-the-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/3033-modify-the-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -199,6 +201,7 @@ Happy Coding! 🚀
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0059-spiral-matrix-ii) |
 | [3028-ant-on-the-boundary](https://github.com/Kasa1905/TheDSADiary/tree/master/3028-ant-on-the-boundary) |
 ## Prefix Sum
 |  |
