@@ -139,6 +139,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0027-remove-element) |
 | [3028-ant-on-the-boundary](https://github.com/Kasa1905/TheDSADiary/tree/master/3028-ant-on-the-boundary) |
@@ -212,6 +213,7 @@ Happy Coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0001-two-sum) |
 | [1399-count-largest-group](https://github.com/Kasa1905/TheDSADiary/tree/master/1399-count-largest-group) |
 ## Math
 |  |
