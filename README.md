@@ -144,6 +144,7 @@ Happy Coding! 🚀
 | [0027-remove-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Kasa1905/TheDSADiary/tree/master/0035-search-insert-position) |
 | [0059-spiral-matrix-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/Kasa1905/TheDSADiary/tree/master/0066-plus-one) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kasa1905/TheDSADiary/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/Kasa1905/TheDSADiary/tree/master/1732-find-the-highest-altitude) |
 | [3028-ant-on-the-boundary](https://github.com/Kasa1905/TheDSADiary/tree/master/3028-ant-on-the-boundary) |
@@ -235,6 +236,7 @@ Happy Coding! 🚀
 | ------- |
 | [0009-palindrome-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Kasa1905/TheDSADiary/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Kasa1905/TheDSADiary/tree/master/0066-plus-one) |
 | [1399-count-largest-group](https://github.com/Kasa1905/TheDSADiary/tree/master/1399-count-largest-group) |
 ## Counting
 |  |
