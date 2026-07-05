@@ -144,6 +144,7 @@ Happy Coding! 🚀
 | [0027-remove-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Kasa1905/TheDSADiary/tree/master/0035-search-insert-position) |
 | [0059-spiral-matrix-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0059-spiral-matrix-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/Kasa1905/TheDSADiary/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/Kasa1905/TheDSADiary/tree/master/1732-find-the-highest-altitude) |
 | [3028-ant-on-the-boundary](https://github.com/Kasa1905/TheDSADiary/tree/master/3028-ant-on-the-boundary) |
 | [3033-modify-the-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/3033-modify-the-matrix) |
@@ -169,6 +170,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0059-spiral-matrix-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/Kasa1905/TheDSADiary/tree/master/1301-number-of-paths-with-max-score) |
 | [3033-modify-the-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/3033-modify-the-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -187,6 +189,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0022-generate-parentheses) |
+| [1301-number-of-paths-with-max-score](https://github.com/Kasa1905/TheDSADiary/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Kasa1905/TheDSADiary/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
