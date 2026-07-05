@@ -186,6 +186,7 @@ Happy Coding! 🚀
 | [0022-generate-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Kasa1905/TheDSADiary/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Kasa1905/TheDSADiary/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,6 +207,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Kasa1905/TheDSADiary/tree/master/0067-add-binary) |
 | [3028-ant-on-the-boundary](https://github.com/Kasa1905/TheDSADiary/tree/master/3028-ant-on-the-boundary) |
 ## Prefix Sum
 |  |
@@ -237,6 +239,7 @@ Happy Coding! 🚀
 | [0009-palindrome-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Kasa1905/TheDSADiary/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Kasa1905/TheDSADiary/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Kasa1905/TheDSADiary/tree/master/0067-add-binary) |
 | [1399-count-largest-group](https://github.com/Kasa1905/TheDSADiary/tree/master/1399-count-largest-group) |
 ## Counting
 |  |
@@ -250,4 +253,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kasa1905/TheDSADiary/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Kasa1905/TheDSADiary/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
