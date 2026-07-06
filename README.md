@@ -148,6 +148,7 @@ Happy Coding! 🚀
 | [0066-plus-one](https://github.com/Kasa1905/TheDSADiary/tree/master/0066-plus-one) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kasa1905/TheDSADiary/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/Kasa1905/TheDSADiary/tree/master/1732-find-the-highest-altitude) |
+| [1840-maximum-building-height](https://github.com/Kasa1905/TheDSADiary/tree/master/1840-maximum-building-height) |
 | [3028-ant-on-the-boundary](https://github.com/Kasa1905/TheDSADiary/tree/master/3028-ant-on-the-boundary) |
 | [3033-modify-the-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/3033-modify-the-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -245,6 +246,7 @@ Happy Coding! 🚀
 | [0067-add-binary](https://github.com/Kasa1905/TheDSADiary/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Kasa1905/TheDSADiary/tree/master/0069-sqrtx) |
 | [1399-count-largest-group](https://github.com/Kasa1905/TheDSADiary/tree/master/1399-count-largest-group) |
+| [1840-maximum-building-height](https://github.com/Kasa1905/TheDSADiary/tree/master/1840-maximum-building-height) |
 ## Counting
 |  |
 | ------- |
@@ -265,4 +267,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kasa1905/TheDSADiary/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [1840-maximum-building-height](https://github.com/Kasa1905/TheDSADiary/tree/master/1840-maximum-building-height) |
 <!---LeetCode Topics End-->
