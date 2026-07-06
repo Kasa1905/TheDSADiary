@@ -192,6 +192,7 @@ Happy Coding! 🚀
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kasa1905/TheDSADiary/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Kasa1905/TheDSADiary/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Kasa1905/TheDSADiary/tree/master/0058-length-of-last-word) |
@@ -302,4 +303,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Kasa1905/TheDSADiary/tree/master/1833-maximum-ice-cream-bars) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
