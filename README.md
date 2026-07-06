@@ -160,6 +160,7 @@ Happy Coding! 🚀
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Kasa1905/TheDSADiary/tree/master/0127-word-ladder) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kasa1905/TheDSADiary/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -194,6 +195,7 @@ Happy Coding! 🚀
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Kasa1905/TheDSADiary/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Kasa1905/TheDSADiary/tree/master/0067-add-binary) |
+| [0127-word-ladder](https://github.com/Kasa1905/TheDSADiary/tree/master/0127-word-ladder) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -241,6 +243,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Kasa1905/TheDSADiary/tree/master/0013-roman-to-integer) |
+| [0127-word-ladder](https://github.com/Kasa1905/TheDSADiary/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/Kasa1905/TheDSADiary/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0219-contains-duplicate-ii) |
 | [1399-count-largest-group](https://github.com/Kasa1905/TheDSADiary/tree/master/1399-count-largest-group) |
