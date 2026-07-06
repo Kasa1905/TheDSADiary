@@ -200,6 +200,7 @@ Happy Coding! 🚀
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Kasa1905/TheDSADiary/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Kasa1905/TheDSADiary/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Kasa1905/TheDSADiary/tree/master/0127-word-ladder) |
 | [1189-maximum-number-of-balloons](https://github.com/Kasa1905/TheDSADiary/tree/master/1189-maximum-number-of-balloons) |
 ## Dynamic Programming
@@ -221,6 +222,7 @@ Happy Coding! 🚀
 | [0027-remove-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0125-valid-palindrome) |
 | [1089-duplicate-zeros](https://github.com/Kasa1905/TheDSADiary/tree/master/1089-duplicate-zeros) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Simulation
