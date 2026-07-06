@@ -147,6 +147,7 @@ Happy Coding! 🚀
 | [0059-spiral-matrix-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Kasa1905/TheDSADiary/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Kasa1905/TheDSADiary/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0219-contains-duplicate-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kasa1905/TheDSADiary/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/Kasa1905/TheDSADiary/tree/master/1732-find-the-highest-altitude) |
 | [1840-maximum-building-height](https://github.com/Kasa1905/TheDSADiary/tree/master/1840-maximum-building-height) |
@@ -238,6 +239,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Kasa1905/TheDSADiary/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Kasa1905/TheDSADiary/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0219-contains-duplicate-ii) |
 | [1399-count-largest-group](https://github.com/Kasa1905/TheDSADiary/tree/master/1399-count-largest-group) |
 ## Math
 |  |
@@ -274,4 +276,8 @@ Happy Coding! 🚀
 | ------- |
 | [0217-contains-duplicate](https://github.com/Kasa1905/TheDSADiary/tree/master/0217-contains-duplicate) |
 | [1840-maximum-building-height](https://github.com/Kasa1905/TheDSADiary/tree/master/1840-maximum-building-height) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
