@@ -205,6 +205,7 @@ Happy Coding! 🚀
 | [0022-generate-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0022-generate-parentheses) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kasa1905/TheDSADiary/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Kasa1905/TheDSADiary/tree/master/3620-network-recovery-pathways) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -228,6 +229,7 @@ Happy Coding! 🚀
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Kasa1905/TheDSADiary/tree/master/1732-find-the-highest-altitude) |
 | [3028-ant-on-the-boundary](https://github.com/Kasa1905/TheDSADiary/tree/master/3028-ant-on-the-boundary) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3699-number-of-zigzag-arrays-i) |
 ## String Matching
 |  |
 | ------- |
