@@ -273,6 +273,7 @@ Happy Coding! 🚀
 | [0070-climbing-stairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0070-climbing-stairs) |
 | [1399-count-largest-group](https://github.com/Kasa1905/TheDSADiary/tree/master/1399-count-largest-group) |
 | [1840-maximum-building-height](https://github.com/Kasa1905/TheDSADiary/tree/master/1840-maximum-building-height) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Counting
 |  |
 | ------- |
