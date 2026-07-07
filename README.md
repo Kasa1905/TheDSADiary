@@ -167,6 +167,7 @@ Happy Coding! 🚀
 | [1840-maximum-building-height](https://github.com/Kasa1905/TheDSADiary/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kasa1905/TheDSADiary/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3024-type-of-triangle](https://github.com/Kasa1905/TheDSADiary/tree/master/3024-type-of-triangle) |
 | [3028-ant-on-the-boundary](https://github.com/Kasa1905/TheDSADiary/tree/master/3028-ant-on-the-boundary) |
 | [3033-modify-the-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/3033-modify-the-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -317,6 +318,7 @@ Happy Coding! 🚀
 | [0070-climbing-stairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0070-climbing-stairs) |
 | [1399-count-largest-group](https://github.com/Kasa1905/TheDSADiary/tree/master/1399-count-largest-group) |
 | [1840-maximum-building-height](https://github.com/Kasa1905/TheDSADiary/tree/master/1840-maximum-building-height) |
+| [3024-type-of-triangle](https://github.com/Kasa1905/TheDSADiary/tree/master/3024-type-of-triangle) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Counting
@@ -360,6 +362,7 @@ Happy Coding! 🚀
 | [1840-maximum-building-height](https://github.com/Kasa1905/TheDSADiary/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kasa1905/TheDSADiary/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3024-type-of-triangle](https://github.com/Kasa1905/TheDSADiary/tree/master/3024-type-of-triangle) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Kasa1905/TheDSADiary/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sliding Window
 |  |
