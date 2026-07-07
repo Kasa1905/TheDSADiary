@@ -232,6 +232,7 @@ Happy Coding! 🚀
 | [1189-maximum-number-of-balloons](https://github.com/Kasa1905/TheDSADiary/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Kasa1905/TheDSADiary/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3019-number-of-changing-keys](https://github.com/Kasa1905/TheDSADiary/tree/master/3019-number-of-changing-keys) |
 ## Dynamic Programming
 |  |
 | ------- |
