@@ -167,6 +167,7 @@ Happy Coding! 🚀
 | [1840-maximum-building-height](https://github.com/Kasa1905/TheDSADiary/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kasa1905/TheDSADiary/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kasa1905/TheDSADiary/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Kasa1905/TheDSADiary/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -381,6 +382,7 @@ Happy Coding! 🚀
 | [1840-maximum-building-height](https://github.com/Kasa1905/TheDSADiary/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kasa1905/TheDSADiary/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kasa1905/TheDSADiary/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/Kasa1905/TheDSADiary/tree/master/3024-type-of-triangle) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Kasa1905/TheDSADiary/tree/master/3634-minimum-removals-to-balance-array) |
@@ -389,6 +391,7 @@ Happy Coding! 🚀
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kasa1905/TheDSADiary/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Kasa1905/TheDSADiary/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
 |  |
