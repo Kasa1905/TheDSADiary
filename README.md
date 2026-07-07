@@ -167,6 +167,7 @@ Happy Coding! 🚀
 | [1840-maximum-building-height](https://github.com/Kasa1905/TheDSADiary/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kasa1905/TheDSADiary/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kasa1905/TheDSADiary/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kasa1905/TheDSADiary/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Kasa1905/TheDSADiary/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -243,6 +244,7 @@ Happy Coding! 🚀
 | [1189-maximum-number-of-balloons](https://github.com/Kasa1905/TheDSADiary/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Kasa1905/TheDSADiary/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kasa1905/TheDSADiary/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Kasa1905/TheDSADiary/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/Kasa1905/TheDSADiary/tree/master/3019-number-of-changing-keys) |
