@@ -167,6 +167,7 @@ Happy Coding! 🚀
 | [1840-maximum-building-height](https://github.com/Kasa1905/TheDSADiary/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kasa1905/TheDSADiary/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kasa1905/TheDSADiary/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3024-type-of-triangle](https://github.com/Kasa1905/TheDSADiary/tree/master/3024-type-of-triangle) |
 | [3028-ant-on-the-boundary](https://github.com/Kasa1905/TheDSADiary/tree/master/3028-ant-on-the-boundary) |
@@ -370,6 +371,7 @@ Happy Coding! 🚀
 | [1840-maximum-building-height](https://github.com/Kasa1905/TheDSADiary/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kasa1905/TheDSADiary/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/Kasa1905/TheDSADiary/tree/master/3024-type-of-triangle) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Kasa1905/TheDSADiary/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sliding Window
@@ -444,5 +446,6 @@ Happy Coding! 🚀
 ## Enumeration
 |  |
 | ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kasa1905/TheDSADiary/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
