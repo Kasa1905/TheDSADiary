@@ -171,6 +171,7 @@ Happy Coding! 🚀
 | [3033-modify-the-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/3033-modify-the-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Kasa1905/TheDSADiary/tree/master/3620-network-recovery-pathways) |
+| [3637-trionic-array-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3637-trionic-array-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Breadth-First Search
