@@ -152,6 +152,7 @@ Happy Coding! 🚀
 | [0136-single-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Kasa1905/TheDSADiary/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0219-contains-duplicate-ii) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Kasa1905/TheDSADiary/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/Kasa1905/TheDSADiary/tree/master/0748-shortest-completing-word) |
 | [1089-duplicate-zeros](https://github.com/Kasa1905/TheDSADiary/tree/master/1089-duplicate-zeros) |
 | [1288-remove-covered-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/1288-remove-covered-intervals) |
@@ -315,6 +316,7 @@ Happy Coding! 🚀
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Kasa1905/TheDSADiary/tree/master/0217-contains-duplicate) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Kasa1905/TheDSADiary/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1288-remove-covered-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kasa1905/TheDSADiary/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Kasa1905/TheDSADiary/tree/master/1840-maximum-building-height) |
