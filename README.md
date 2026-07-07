@@ -186,11 +186,13 @@ Happy Coding! 🚀
 | [0127-word-ladder](https://github.com/Kasa1905/TheDSADiary/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kasa1905/TheDSADiary/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kasa1905/TheDSADiary/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Kasa1905/TheDSADiary/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Kasa1905/TheDSADiary/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -272,6 +274,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Kasa1905/TheDSADiary/tree/master/1732-find-the-highest-altitude) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3028-ant-on-the-boundary](https://github.com/Kasa1905/TheDSADiary/tree/master/3028-ant-on-the-boundary) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3737-count-subarrays-with-majority-element-i) |
