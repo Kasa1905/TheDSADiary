@@ -152,6 +152,7 @@ Happy Coding! 🚀
 | [0136-single-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Kasa1905/TheDSADiary/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0219-contains-duplicate-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Kasa1905/TheDSADiary/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/Kasa1905/TheDSADiary/tree/master/0661-image-smoother) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kasa1905/TheDSADiary/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -214,6 +215,7 @@ Happy Coding! 🚀
 | [0067-add-binary](https://github.com/Kasa1905/TheDSADiary/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Kasa1905/TheDSADiary/tree/master/0127-word-ladder) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/Kasa1905/TheDSADiary/tree/master/0657-robot-return-to-origin) |
 | [0748-shortest-completing-word](https://github.com/Kasa1905/TheDSADiary/tree/master/0748-shortest-completing-word) |
 | [1189-maximum-number-of-balloons](https://github.com/Kasa1905/TheDSADiary/tree/master/1189-maximum-number-of-balloons) |
@@ -279,6 +281,7 @@ Happy Coding! 🚀
 | [0141-linked-list-cycle](https://github.com/Kasa1905/TheDSADiary/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Kasa1905/TheDSADiary/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0219-contains-duplicate-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0748-shortest-completing-word](https://github.com/Kasa1905/TheDSADiary/tree/master/0748-shortest-completing-word) |
 | [1189-maximum-number-of-balloons](https://github.com/Kasa1905/TheDSADiary/tree/master/1189-maximum-number-of-balloons) |
