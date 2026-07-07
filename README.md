@@ -166,6 +166,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0101-symmetric-tree) |
 | [0127-word-ladder](https://github.com/Kasa1905/TheDSADiary/tree/master/0127-word-ladder) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kasa1905/TheDSADiary/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -285,6 +286,7 @@ Happy Coding! 🚀
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0110-balanced-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kasa1905/TheDSADiary/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
@@ -336,11 +338,13 @@ Happy Coding! 🚀
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
