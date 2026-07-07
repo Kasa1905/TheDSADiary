@@ -167,6 +167,7 @@ Happy Coding! 🚀
 | [1840-maximum-building-height](https://github.com/Kasa1905/TheDSADiary/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kasa1905/TheDSADiary/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kasa1905/TheDSADiary/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3024-type-of-triangle](https://github.com/Kasa1905/TheDSADiary/tree/master/3024-type-of-triangle) |
 | [3028-ant-on-the-boundary](https://github.com/Kasa1905/TheDSADiary/tree/master/3028-ant-on-the-boundary) |
 | [3033-modify-the-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/3033-modify-the-matrix) |
@@ -305,6 +306,7 @@ Happy Coding! 🚀
 | [1189-maximum-number-of-balloons](https://github.com/Kasa1905/TheDSADiary/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1399-count-largest-group](https://github.com/Kasa1905/TheDSADiary/tree/master/1399-count-largest-group) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kasa1905/TheDSADiary/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
@@ -432,4 +434,8 @@ Happy Coding! 🚀
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kasa1905/TheDSADiary/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
