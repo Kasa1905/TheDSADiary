@@ -234,6 +234,7 @@ Happy Coding! 🚀
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Kasa1905/TheDSADiary/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3620-network-recovery-pathways](https://github.com/Kasa1905/TheDSADiary/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -308,6 +309,7 @@ Happy Coding! 🚀
 | [0070-climbing-stairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0070-climbing-stairs) |
 | [1399-count-largest-group](https://github.com/Kasa1905/TheDSADiary/tree/master/1399-count-largest-group) |
 | [1840-maximum-building-height](https://github.com/Kasa1905/TheDSADiary/tree/master/1840-maximum-building-height) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Counting
 |  |
