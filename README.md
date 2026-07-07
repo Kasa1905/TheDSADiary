@@ -167,6 +167,7 @@ Happy Coding! 🚀
 | [1840-maximum-building-height](https://github.com/Kasa1905/TheDSADiary/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kasa1905/TheDSADiary/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Kasa1905/TheDSADiary/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kasa1905/TheDSADiary/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -188,6 +189,7 @@ Happy Coding! 🚀
 | [0127-word-ladder](https://github.com/Kasa1905/TheDSADiary/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kasa1905/TheDSADiary/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -202,6 +204,7 @@ Happy Coding! 🚀
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Kasa1905/TheDSADiary/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Kasa1905/TheDSADiary/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -211,6 +214,7 @@ Happy Coding! 🚀
 | [0059-spiral-matrix-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0059-spiral-matrix-ii) |
 | [0661-image-smoother](https://github.com/Kasa1905/TheDSADiary/tree/master/0661-image-smoother) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kasa1905/TheDSADiary/tree/master/1301-number-of-paths-with-max-score) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3033-modify-the-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/3033-modify-the-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -295,6 +299,7 @@ Happy Coding! 🚀
 | [0035-search-insert-position](https://github.com/Kasa1905/TheDSADiary/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kasa1905/TheDSADiary/tree/master/0069-sqrtx) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kasa1905/TheDSADiary/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Kasa1905/TheDSADiary/tree/master/3620-network-recovery-pathways) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Kasa1905/TheDSADiary/tree/master/3634-minimum-removals-to-balance-array) |
 ## Topological Sort
@@ -355,6 +360,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kasa1905/TheDSADiary/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
