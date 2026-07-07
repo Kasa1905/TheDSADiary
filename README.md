@@ -133,6 +133,7 @@ Happy Coding! 🚀
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Kasa1905/TheDSADiary/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -226,6 +227,7 @@ Happy Coding! 🚀
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Kasa1905/TheDSADiary/tree/master/0141-linked-list-cycle) |
 | [1089-duplicate-zeros](https://github.com/Kasa1905/TheDSADiary/tree/master/1089-duplicate-zeros) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Simulation
@@ -260,6 +262,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Kasa1905/TheDSADiary/tree/master/0013-roman-to-integer) |
 | [0127-word-ladder](https://github.com/Kasa1905/TheDSADiary/tree/master/0127-word-ladder) |
+| [0141-linked-list-cycle](https://github.com/Kasa1905/TheDSADiary/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Kasa1905/TheDSADiary/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0219-contains-duplicate-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Kasa1905/TheDSADiary/tree/master/1189-maximum-number-of-balloons) |
