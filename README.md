@@ -220,6 +220,7 @@ Happy Coding! 🚀
 | [0748-shortest-completing-word](https://github.com/Kasa1905/TheDSADiary/tree/master/0748-shortest-completing-word) |
 | [1189-maximum-number-of-balloons](https://github.com/Kasa1905/TheDSADiary/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Kasa1905/TheDSADiary/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -227,6 +228,7 @@ Happy Coding! 🚀
 | [0070-climbing-stairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0070-climbing-stairs) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0746-min-cost-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kasa1905/TheDSADiary/tree/master/1301-number-of-paths-with-max-score) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Kasa1905/TheDSADiary/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3620-network-recovery-pathways](https://github.com/Kasa1905/TheDSADiary/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Backtracking
@@ -361,6 +363,7 @@ Happy Coding! 🚀
 | [0094-binary-tree-inorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0145-binary-tree-postorder-traversal) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Kasa1905/TheDSADiary/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Memoization
 |  |
 | ------- |
