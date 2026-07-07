@@ -170,6 +170,7 @@ Happy Coding! 🚀
 | [3028-ant-on-the-boundary](https://github.com/Kasa1905/TheDSADiary/tree/master/3028-ant-on-the-boundary) |
 | [3033-modify-the-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/3033-modify-the-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3379-transformed-array](https://github.com/Kasa1905/TheDSADiary/tree/master/3379-transformed-array) |
 | [3620-network-recovery-pathways](https://github.com/Kasa1905/TheDSADiary/tree/master/3620-network-recovery-pathways) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Kasa1905/TheDSADiary/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3637-trionic-array-i) |
@@ -263,6 +264,7 @@ Happy Coding! 🚀
 | [0067-add-binary](https://github.com/Kasa1905/TheDSADiary/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Kasa1905/TheDSADiary/tree/master/0657-robot-return-to-origin) |
 | [3028-ant-on-the-boundary](https://github.com/Kasa1905/TheDSADiary/tree/master/3028-ant-on-the-boundary) |
+| [3379-transformed-array](https://github.com/Kasa1905/TheDSADiary/tree/master/3379-transformed-array) |
 ## Prefix Sum
 |  |
 | ------- |
