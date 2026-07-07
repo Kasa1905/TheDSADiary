@@ -152,6 +152,7 @@ Happy Coding! 🚀
 | [0136-single-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Kasa1905/TheDSADiary/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0219-contains-duplicate-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Kasa1905/TheDSADiary/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kasa1905/TheDSADiary/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/Kasa1905/TheDSADiary/tree/master/0748-shortest-completing-word) |
@@ -256,6 +257,7 @@ Happy Coding! 🚀
 | ------- |
 | [0035-search-insert-position](https://github.com/Kasa1905/TheDSADiary/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kasa1905/TheDSADiary/tree/master/0069-sqrtx) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Kasa1905/TheDSADiary/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3620-network-recovery-pathways](https://github.com/Kasa1905/TheDSADiary/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
