@@ -183,6 +183,7 @@ Happy Coding! 🚀
 | [3637-trionic-array-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3637-trionic-array-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3838-weighted-word-mapping](https://github.com/Kasa1905/TheDSADiary/tree/master/3838-weighted-word-mapping) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -249,6 +250,7 @@ Happy Coding! 🚀
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/Kasa1905/TheDSADiary/tree/master/3019-number-of-changing-keys) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3838-weighted-word-mapping](https://github.com/Kasa1905/TheDSADiary/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -284,6 +286,7 @@ Happy Coding! 🚀
 | [0657-robot-return-to-origin](https://github.com/Kasa1905/TheDSADiary/tree/master/0657-robot-return-to-origin) |
 | [3028-ant-on-the-boundary](https://github.com/Kasa1905/TheDSADiary/tree/master/3028-ant-on-the-boundary) |
 | [3379-transformed-array](https://github.com/Kasa1905/TheDSADiary/tree/master/3379-transformed-array) |
+| [3838-weighted-word-mapping](https://github.com/Kasa1905/TheDSADiary/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |
 | ------- |
