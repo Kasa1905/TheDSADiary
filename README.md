@@ -192,6 +192,7 @@ Happy Coding! 🚀
 | [0100-same-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Kasa1905/TheDSADiary/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kasa1905/TheDSADiary/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -369,6 +370,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0145-binary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -442,6 +444,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0145-binary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -453,6 +456,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0145-binary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0653-two-sum-iv-input-is-a-bst) |
