@@ -156,6 +156,7 @@ Happy Coding! 🚀
 | [0136-single-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Kasa1905/TheDSADiary/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0219-contains-duplicate-ii) |
+| [0307-range-sum-query-mutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0307-range-sum-query-mutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Kasa1905/TheDSADiary/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Kasa1905/TheDSADiary/tree/master/0605-can-place-flowers) |
@@ -497,11 +498,13 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0307-range-sum-query-mutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0307-range-sum-query-mutable) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0307-range-sum-query-mutable) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -514,4 +517,12 @@ Happy Coding! 🚀
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kasa1905/TheDSADiary/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
