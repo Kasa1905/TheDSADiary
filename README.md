@@ -178,6 +178,7 @@ Happy Coding! 🚀
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kasa1905/TheDSADiary/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kasa1905/TheDSADiary/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2104-sum-of-subarray-ranges](https://github.com/Kasa1905/TheDSADiary/tree/master/2104-sum-of-subarray-ranges) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kasa1905/TheDSADiary/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Kasa1905/TheDSADiary/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Kasa1905/TheDSADiary/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -360,6 +361,7 @@ Happy Coding! 🚀
 | [1189-maximum-number-of-balloons](https://github.com/Kasa1905/TheDSADiary/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1399-count-largest-group](https://github.com/Kasa1905/TheDSADiary/tree/master/1399-count-largest-group) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kasa1905/TheDSADiary/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kasa1905/TheDSADiary/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -441,6 +443,7 @@ Happy Coding! 🚀
 | [0219-contains-duplicate-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kasa1905/TheDSADiary/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kasa1905/TheDSADiary/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Kasa1905/TheDSADiary/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
 |  |
