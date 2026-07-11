@@ -156,6 +156,7 @@ Happy Coding! 🚀
 | [0136-single-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Kasa1905/TheDSADiary/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0219-contains-duplicate-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0307-range-sum-query-mutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Kasa1905/TheDSADiary/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -311,6 +312,7 @@ Happy Coding! 🚀
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Kasa1905/TheDSADiary/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/Kasa1905/TheDSADiary/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Kasa1905/TheDSADiary/tree/master/2574-left-and-right-sum-differences) |
@@ -520,6 +522,7 @@ Happy Coding! 🚀
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0307-range-sum-query-mutable) |
 ## Binary Indexed Tree
 |  |
