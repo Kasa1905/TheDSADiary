@@ -169,6 +169,7 @@ Happy Coding! 🚀
 | [1089-duplicate-zeros](https://github.com/Kasa1905/TheDSADiary/tree/master/1089-duplicate-zeros) |
 | [1288-remove-covered-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kasa1905/TheDSADiary/tree/master/1301-number-of-paths-with-max-score) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/1310-xor-queries-of-a-subarray) |
 | [1732-find-the-highest-altitude](https://github.com/Kasa1905/TheDSADiary/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kasa1905/TheDSADiary/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Kasa1905/TheDSADiary/tree/master/1840-maximum-building-height) |
@@ -314,6 +315,7 @@ Happy Coding! 🚀
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Kasa1905/TheDSADiary/tree/master/0560-subarray-sum-equals-k) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/1310-xor-queries-of-a-subarray) |
 | [1732-find-the-highest-altitude](https://github.com/Kasa1905/TheDSADiary/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Kasa1905/TheDSADiary/tree/master/2574-left-and-right-sum-differences) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
@@ -410,6 +412,7 @@ Happy Coding! 🚀
 | ------- |
 | [0067-add-binary](https://github.com/Kasa1905/TheDSADiary/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0136-single-number) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/1310-xor-queries-of-a-subarray) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
 |  |
