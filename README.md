@@ -177,6 +177,7 @@ Happy Coding! 🚀
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kasa1905/TheDSADiary/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kasa1905/TheDSADiary/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2104-sum-of-subarray-ranges](https://github.com/Kasa1905/TheDSADiary/tree/master/2104-sum-of-subarray-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/Kasa1905/TheDSADiary/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Kasa1905/TheDSADiary/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -462,6 +463,7 @@ Happy Coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0145-binary-tree-postorder-traversal) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Kasa1905/TheDSADiary/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2104-sum-of-subarray-ranges](https://github.com/Kasa1905/TheDSADiary/tree/master/2104-sum-of-subarray-ranges) |
 ## Memoization
 |  |
 | ------- |
@@ -531,4 +533,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0307-range-sum-query-mutable) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/Kasa1905/TheDSADiary/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
