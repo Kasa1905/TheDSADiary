@@ -209,6 +209,7 @@ Happy Coding! 🚀
 | [0127-word-ladder](https://github.com/Kasa1905/TheDSADiary/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Kasa1905/TheDSADiary/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kasa1905/TheDSADiary/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kasa1905/TheDSADiary/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -283,6 +284,7 @@ Happy Coding! 🚀
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kasa1905/TheDSADiary/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0746-min-cost-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kasa1905/TheDSADiary/tree/master/1301-number-of-paths-with-max-score) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Kasa1905/TheDSADiary/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Kasa1905/TheDSADiary/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Kasa1905/TheDSADiary/tree/master/3620-network-recovery-pathways) |
@@ -338,6 +340,7 @@ Happy Coding! 🚀
 | [0035-search-insert-position](https://github.com/Kasa1905/TheDSADiary/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kasa1905/TheDSADiary/tree/master/0069-sqrtx) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kasa1905/TheDSADiary/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Kasa1905/TheDSADiary/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -406,6 +409,7 @@ Happy Coding! 🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0145-binary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Kasa1905/TheDSADiary/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kasa1905/TheDSADiary/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kasa1905/TheDSADiary/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -421,6 +425,7 @@ Happy Coding! 🚀
 | [0067-add-binary](https://github.com/Kasa1905/TheDSADiary/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0136-single-number) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/1310-xor-queries-of-a-subarray) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Kasa1905/TheDSADiary/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
 |  |
@@ -492,6 +497,7 @@ Happy Coding! 🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0145-binary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Kasa1905/TheDSADiary/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -540,6 +546,7 @@ Happy Coding! 🚀
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0307-range-sum-query-mutable) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Kasa1905/TheDSADiary/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Indexed Tree
 |  |
 | ------- |
