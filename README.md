@@ -170,6 +170,7 @@ Happy Coding! 🚀
 | [1288-remove-covered-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kasa1905/TheDSADiary/tree/master/1301-number-of-paths-with-max-score) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/1310-xor-queries-of-a-subarray) |
+| [1331-rank-transform-of-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Kasa1905/TheDSADiary/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kasa1905/TheDSADiary/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Kasa1905/TheDSADiary/tree/master/1840-maximum-building-height) |
@@ -359,6 +360,7 @@ Happy Coding! 🚀
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0748-shortest-completing-word](https://github.com/Kasa1905/TheDSADiary/tree/master/0748-shortest-completing-word) |
 | [1189-maximum-number-of-balloons](https://github.com/Kasa1905/TheDSADiary/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1399-count-largest-group](https://github.com/Kasa1905/TheDSADiary/tree/master/1399-count-largest-group) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kasa1905/TheDSADiary/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -428,6 +430,7 @@ Happy Coding! 🚀
 | [0217-contains-duplicate](https://github.com/Kasa1905/TheDSADiary/tree/master/0217-contains-duplicate) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kasa1905/TheDSADiary/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1288-remove-covered-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kasa1905/TheDSADiary/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Kasa1905/TheDSADiary/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kasa1905/TheDSADiary/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
