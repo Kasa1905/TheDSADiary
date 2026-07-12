@@ -210,6 +210,7 @@ Happy Coding! 🚀
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Kasa1905/TheDSADiary/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Kasa1905/TheDSADiary/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kasa1905/TheDSADiary/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kasa1905/TheDSADiary/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -368,6 +369,7 @@ Happy Coding! 🚀
 | [1331-rank-transform-of-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1399-count-largest-group](https://github.com/Kasa1905/TheDSADiary/tree/master/1399-count-largest-group) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Kasa1905/TheDSADiary/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kasa1905/TheDSADiary/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kasa1905/TheDSADiary/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -394,6 +396,7 @@ Happy Coding! 🚀
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Kasa1905/TheDSADiary/tree/master/1189-maximum-number-of-balloons) |
 | [1399-count-largest-group](https://github.com/Kasa1905/TheDSADiary/tree/master/1399-count-largest-group) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Kasa1905/TheDSADiary/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Depth-First Search
 |  |
@@ -410,6 +413,7 @@ Happy Coding! 🚀
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Kasa1905/TheDSADiary/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Kasa1905/TheDSADiary/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kasa1905/TheDSADiary/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kasa1905/TheDSADiary/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -498,6 +502,7 @@ Happy Coding! 🚀
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Kasa1905/TheDSADiary/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Kasa1905/TheDSADiary/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Binary Tree
 |  |
 | ------- |
