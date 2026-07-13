@@ -179,6 +179,7 @@ Happy Coding! 🚀
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kasa1905/TheDSADiary/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kasa1905/TheDSADiary/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2104-sum-of-subarray-ranges](https://github.com/Kasa1905/TheDSADiary/tree/master/2104-sum-of-subarray-ranges) |
+| [2421-number-of-good-paths](https://github.com/Kasa1905/TheDSADiary/tree/master/2421-number-of-good-paths) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kasa1905/TheDSADiary/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Kasa1905/TheDSADiary/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -219,6 +220,7 @@ Happy Coding! 🚀
 ## Graph Theory
 |  |
 | ------- |
+| [2421-number-of-good-paths](https://github.com/Kasa1905/TheDSADiary/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kasa1905/TheDSADiary/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kasa1905/TheDSADiary/tree/master/2685-count-the-number-of-complete-components) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Kasa1905/TheDSADiary/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -370,6 +372,7 @@ Happy Coding! 🚀
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1399-count-largest-group](https://github.com/Kasa1905/TheDSADiary/tree/master/1399-count-largest-group) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Kasa1905/TheDSADiary/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [2421-number-of-good-paths](https://github.com/Kasa1905/TheDSADiary/tree/master/2421-number-of-good-paths) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kasa1905/TheDSADiary/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kasa1905/TheDSADiary/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -419,6 +422,7 @@ Happy Coding! 🚀
 ## Union-Find
 |  |
 | ------- |
+| [2421-number-of-good-paths](https://github.com/Kasa1905/TheDSADiary/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kasa1905/TheDSADiary/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kasa1905/TheDSADiary/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -448,6 +452,7 @@ Happy Coding! 🚀
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kasa1905/TheDSADiary/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kasa1905/TheDSADiary/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2421-number-of-good-paths](https://github.com/Kasa1905/TheDSADiary/tree/master/2421-number-of-good-paths) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/Kasa1905/TheDSADiary/tree/master/3024-type-of-triangle) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -503,6 +508,7 @@ Happy Coding! 🚀
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Kasa1905/TheDSADiary/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Kasa1905/TheDSADiary/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [2421-number-of-good-paths](https://github.com/Kasa1905/TheDSADiary/tree/master/2421-number-of-good-paths) |
 ## Binary Tree
 |  |
 | ------- |
