@@ -166,6 +166,7 @@ Happy Coding! 🚀
 | [0746-min-cost-climbing-stairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kasa1905/TheDSADiary/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/Kasa1905/TheDSADiary/tree/master/0748-shortest-completing-word) |
+| [0994-rotting-oranges](https://github.com/Kasa1905/TheDSADiary/tree/master/0994-rotting-oranges) |
 | [1089-duplicate-zeros](https://github.com/Kasa1905/TheDSADiary/tree/master/1089-duplicate-zeros) |
 | [1288-remove-covered-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kasa1905/TheDSADiary/tree/master/1301-number-of-paths-with-max-score) |
@@ -210,6 +211,7 @@ Happy Coding! 🚀
 | [0127-word-ladder](https://github.com/Kasa1905/TheDSADiary/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Kasa1905/TheDSADiary/tree/master/0994-rotting-oranges) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Kasa1905/TheDSADiary/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Kasa1905/TheDSADiary/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kasa1905/TheDSADiary/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -242,6 +244,7 @@ Happy Coding! 🚀
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0059-spiral-matrix-ii) |
 | [0661-image-smoother](https://github.com/Kasa1905/TheDSADiary/tree/master/0661-image-smoother) |
+| [0994-rotting-oranges](https://github.com/Kasa1905/TheDSADiary/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kasa1905/TheDSADiary/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3033-modify-the-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/3033-modify-the-matrix) |
