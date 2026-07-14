@@ -2,192 +2,112 @@
 
 # 🧠 The DSA Diary
 
-### 💻 Solving Problems • 🧩 Understanding Patterns • 🚀 Becoming a Better Engineer
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=The%20DSA%20Diary&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+### Building stronger problem-solving instincts, one LeetCode solution at a time.
 
 <p>
-  <b>A living archive of my Data Structures & Algorithms journey</b>
+  <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/Sync-LeetHub_v2-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="LeetHub v2" />
 </p>
 
-<p>
-  <i>"Consistency beats intensity."</i>
-</p>
-
-<br/>
-
-<img src="https://img.shields.io/github/stars/Kasa1905/TheDSADiary?style=for-the-badge&color=yellow"/>
-<img src="https://img.shields.io/github/forks/Kasa1905/TheDSADiary?style=for-the-badge"/>
-<img src="https://img.shields.io/github/last-commit/Kasa1905/TheDSADiary?style=for-the-badge"/>
+> A living archive of my Data Structures & Algorithms journey — focused on patterns, clarity, and consistent practice.
 
 </div>
 
-# 👋 About The Repository
-
-Welcome to **The DSA Diary** — my personal collection of solved **LeetCode problems**, automatically synced using **LeetHub v2**.
-
-This repository is not just a collection of solutions.
-
-It represents:
-
-* 🧠 patterns discovered while solving problems
-* 📝 concepts reinforced through practice
-* ⚡ optimization techniques learned
-* 📈 continuous growth as a problem solver
-
-Every accepted submission becomes another entry in my DSA journey.
-
 ---
 
-# 📊 DSA Progress Dashboard
+## 📊 Progress dashboard
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kasa1905&repo=TheDSADiary&theme=tokyonight"/>
+| 🧩 Problems solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
+| :---: | :---: | :---: | :---: |
+| **102** | **63** | **29** | **10** |
+
+![Journey to 500](https://img.shields.io/badge/Journey_to_500-102%20%2F%20500%20(20.4%25)-0EA5E9?style=for-the-badge&labelColor=0F172A)
 
 </div>
-
-## 🏆 Current Journey
-
-| Category        | Progress                |
-| --------------- | ----------------------- |
-| Problems Solved | 🚀 Continuously Growing |
-| Language        | ☕ Java                  |
-| Platform        | 💻 LeetCode             |
-| Sync Automation | 🔄 LeetHub v2           |
-| Goal            | 🎯 Master DSA Patterns  |
-
----
-
-# 🧩 Topics Covered
-
-<div align="center">
-
-| Topic                     | Status |
-| ------------------------- | ------ |
-| Arrays                    | ✅      |
-| Strings                   | ✅      |
-| Hash Maps                 | ✅      |
-| Linked Lists              | ✅      |
-| Stack                     | ✅      |
-| Queue                     | ✅      |
-| Trees                     | ✅      |
-| Graphs                    | ✅      |
-| Heap / Priority Queue     | ✅      |
-| Binary Search             | ✅      |
-| Recursion                 | ✅      |
-| Backtracking              | ✅      |
-| Greedy                    | ✅      |
-| Dynamic Programming       | 🚧     |
-| Advanced Graph Algorithms | 🚧     |
-
-</div>
-
----
-
-# 🗂️ Repository Structure
-
-Each LeetCode submission is automatically organized into its own folder.
-
-```
-TheDSADiary
-│
-├── README.md
-│
-├── 0001-two-sum
-│   ├── README.md
-│   └── 0001-two-sum.java
-│
-├── 0020-valid-parentheses
-│   ├── README.md
-│   └── 0020-valid-parentheses.java
-│
-└── ...
-```
-
-Each problem contains:
-
-```
-📄 Problem explanation
-💡 Approach
-⌛ Complexity analysis
-✅ Accepted Java solution
-🏷️ Related concepts
-```
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode"/>
-
-</div>
-
----
-
-# 🎯 Goals
-
-* [x] Build consistency with daily DSA practice
-* [x] Learn algorithmic patterns
-* [x] Improve problem-solving ability
-* [ ] Solve 500+ LeetCode problems
-* [ ] Master advanced algorithms
-* [ ] Become interview-ready
-
----
-
-# 💭 Learning Philosophy
-
-```
-Don't memorize solutions.
-
-Understand the pattern.
-
-Practice consistently.
-
-Improve the approach.
-
-Repeat.
-```
-
----
-
-# 📈 My DSA Roadmap
 
 ```mermaid
-graph LR
+pie showData
+    title Difficulty distribution
+    "Easy" : 63
+    "Medium" : 29
+    "Hard" : 10
+```
 
-A[Arrays & Strings] --> B[Linked Lists]
-B --> C[Trees]
-C --> D[Graphs]
-D --> E[Dynamic Programming]
-E --> F[Advanced Algorithms]
+<sub>Snapshot sourced from <a href="./stats.json">stats.json</a> · updated whenever this README is refreshed.</sub>
 
+---
+
+## ✨ What lives here
+
+Every accepted LeetCode submission is synced into its own folder through **LeetHub v2**. Each solution is a small checkpoint in a larger habit: recognize the pattern, choose the right tool, and improve the approach.
+
+| What I practice | What I’m building |
+| --- | --- |
+| Arrays, strings, hash maps, linked lists, stacks, queues | Strong fundamentals and clean implementation habits |
+| Trees, graphs, heaps, binary search, recursion | Pattern recognition and structured reasoning |
+| Backtracking, greedy, dynamic programming | Confidence with higher-complexity interview problems |
+
+---
+
+## 🗺️ Learning roadmap
+
+```mermaid
+flowchart LR
+    A["🟢 Foundations<br/>Arrays · Strings · Hashing"] --> B["🟢 Core patterns<br/>Linked Lists · Stacks · Queues"]
+    B --> C["🟢 Data structures<br/>Trees · Heaps · Binary Search"]
+    C --> D["🟡 In progress<br/>Graphs · Backtracking · Greedy"]
+    D --> E["🟠 Next up<br/>Dynamic Programming"]
+    E --> F["🔴 Advanced<br/>Graph algorithms · Optimization"]
+
+    classDef done fill:#dcfce7,stroke:#16a34a,color:#14532d;
+    classDef progress fill:#fef3c7,stroke:#d97706,color:#78350f;
+    classDef next fill:#ffedd5,stroke:#ea580c,color:#7c2d12;
+    classDef advanced fill:#fee2e2,stroke:#dc2626,color:#7f1d1d;
+
+    class A,B,C done;
+    class D progress;
+    class E next;
+    class F advanced;
 ```
 
 ---
 
-# 🤝 Join The Journey
+## 🗂️ Repository structure
 
-If you are also learning DSA:
+```text
+TheDSADiary/
+├── 0001-two-sum/
+│   ├── 0001-two-sum.java
+│   └── README.md
+├── 0020-valid-parentheses/
+│   ├── 0020-valid-parentheses.java
+│   └── README.md
+├── stats.json
+└── README.md
+```
 
-⭐ Explore the solutions
-🧠 Compare approaches
-🚀 Learn patterns
-📚 Keep practicing
-
-<div align="center">
-
-## Happy Coding! 🚀
-
-</div>
+Each problem folder typically includes the accepted Java solution, problem notes, approach, and complexity details.
 
 ---
 
-# 📚 LeetCode Topics & Solutions
+## 🎯 Current mission
 
-> The following section is automatically generated by LeetHub v2.
+- [x] Build a sustainable DSA practice habit
+- [x] Learn and connect core algorithmic patterns
+- [x] Solve across Easy, Medium, and Hard difficulty levels
+- [ ] Reach **500 solved problems**
+- [ ] Strengthen dynamic programming and advanced graph skills
+- [ ] Turn practice into interview confidence
+
+> **Don’t memorize answers. Learn the pattern, practice deliberately, then revisit and improve.**
+
+---
+
+## 📚 LeetCode topics & solutions
+
+> The section below is maintained automatically by LeetHub v2.
 
 <!-- KEEP YOUR CURRENT AUTO GENERATED TOPIC LIST BELOW THIS LINE -->
