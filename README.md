@@ -120,6 +120,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0033-search-in-rotated-sorted-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Kasa1905/TheDSADiary/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Kasa1905/TheDSADiary/tree/master/0049-group-anagrams) |
 | [0134-gas-station](https://github.com/Kasa1905/TheDSADiary/tree/master/0134-gas-station) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -151,6 +152,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Kasa1905/TheDSADiary/tree/master/0049-group-anagrams) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bit Manipulation
 |  |
@@ -168,10 +170,12 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Kasa1905/TheDSADiary/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Kasa1905/TheDSADiary/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
