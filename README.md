@@ -180,6 +180,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Kasa1905/TheDSADiary/tree/master/0049-group-anagrams) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -201,6 +202,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kasa1905/TheDSADiary/tree/master/0042-trapping-rain-water) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0160-intersection-of-two-linked-lists) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -214,4 +216,8 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
