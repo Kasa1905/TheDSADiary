@@ -226,6 +226,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Kasa1905/TheDSADiary/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Kasa1905/TheDSADiary/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/Kasa1905/TheDSADiary/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Kasa1905/TheDSADiary/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/Kasa1905/TheDSADiary/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/Kasa1905/TheDSADiary/tree/master/0168-excel-sheet-column-title) |
