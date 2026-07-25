@@ -160,6 +160,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kasa1905/TheDSADiary/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Kasa1905/TheDSADiary/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kasa1905/TheDSADiary/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
@@ -237,6 +238,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0010-regular-expression-matching](https://github.com/Kasa1905/TheDSADiary/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Kasa1905/TheDSADiary/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/Kasa1905/TheDSADiary/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0171-excel-sheet-column-number) |
@@ -272,6 +274,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kasa1905/TheDSADiary/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
