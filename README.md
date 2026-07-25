@@ -239,6 +239,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Kasa1905/TheDSADiary/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Kasa1905/TheDSADiary/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/Kasa1905/TheDSADiary/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0171-excel-sheet-column-number) |
