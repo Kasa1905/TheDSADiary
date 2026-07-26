@@ -143,6 +143,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/Kasa1905/TheDSADiary/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0263-ugly-number) |
@@ -243,6 +244,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Kasa1905/TheDSADiary/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Kasa1905/TheDSADiary/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/Kasa1905/TheDSADiary/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0171-excel-sheet-column-number) |
@@ -287,6 +289,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
