@@ -165,6 +165,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0010-regular-expression-matching](https://github.com/Kasa1905/TheDSADiary/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kasa1905/TheDSADiary/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Kasa1905/TheDSADiary/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -180,6 +181,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Kasa1905/TheDSADiary/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Kasa1905/TheDSADiary/tree/master/0134-gas-station) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
@@ -245,6 +247,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0032-longest-valid-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Kasa1905/TheDSADiary/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Kasa1905/TheDSADiary/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Kasa1905/TheDSADiary/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/Kasa1905/TheDSADiary/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0171-excel-sheet-column-number) |
@@ -325,6 +328,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Kasa1905/TheDSADiary/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/Kasa1905/TheDSADiary/tree/master/0044-wildcard-matching) |
 | [0326-power-of-three](https://github.com/Kasa1905/TheDSADiary/tree/master/0326-power-of-three) |
 ## Enumeration
 |  |
