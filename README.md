@@ -204,6 +204,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kasa1905/TheDSADiary/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kasa1905/TheDSADiary/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -255,6 +256,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0171-excel-sheet-column-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0171-excel-sheet-column-number) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -318,6 +320,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
 |  |
 | ------- |
