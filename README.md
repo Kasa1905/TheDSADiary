@@ -170,6 +170,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0042-trapping-rain-water](https://github.com/Kasa1905/TheDSADiary/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Kasa1905/TheDSADiary/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/Kasa1905/TheDSADiary/tree/master/0072-edit-distance) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kasa1905/TheDSADiary/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -258,6 +259,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0065-valid-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Kasa1905/TheDSADiary/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Kasa1905/TheDSADiary/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Kasa1905/TheDSADiary/tree/master/0072-edit-distance) |
 | [0168-excel-sheet-column-title](https://github.com/Kasa1905/TheDSADiary/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0171-excel-sheet-column-number) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3499-maximize-active-section-with-trade-i) |
