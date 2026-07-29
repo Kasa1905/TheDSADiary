@@ -124,6 +124,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0055-jump-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Kasa1905/TheDSADiary/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/Kasa1905/TheDSADiary/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/Kasa1905/TheDSADiary/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
@@ -227,6 +228,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Kasa1905/TheDSADiary/tree/master/0079-word-search) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Hash Table
 |  |
@@ -260,6 +262,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0068-text-justification](https://github.com/Kasa1905/TheDSADiary/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Kasa1905/TheDSADiary/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Kasa1905/TheDSADiary/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Kasa1905/TheDSADiary/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/Kasa1905/TheDSADiary/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0171-excel-sheet-column-number) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -286,6 +289,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/Kasa1905/TheDSADiary/tree/master/0079-word-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -341,6 +345,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Kasa1905/TheDSADiary/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
 ## Recursion
 |  |
