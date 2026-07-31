@@ -149,6 +149,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/Kasa1905/TheDSADiary/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0171-excel-sheet-column-number) |
@@ -331,6 +332,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0002-add-two-numbers) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0160-intersection-of-two-linked-lists) |
 ## Combinatorics
 |  |
@@ -367,6 +369,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Kasa1905/TheDSADiary/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Kasa1905/TheDSADiary/tree/master/0044-wildcard-matching) |
 | [0326-power-of-three](https://github.com/Kasa1905/TheDSADiary/tree/master/0326-power-of-three) |
