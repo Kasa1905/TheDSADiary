@@ -117,6 +117,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Kasa1905/TheDSADiary/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0033-search-in-rotated-sorted-array) |
@@ -304,6 +305,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
@@ -373,6 +375,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 ## Matrix
 |  |
