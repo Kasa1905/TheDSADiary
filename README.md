@@ -120,6 +120,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0004-median-of-two-sorted-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Kasa1905/TheDSADiary/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Kasa1905/TheDSADiary/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Kasa1905/TheDSADiary/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Kasa1905/TheDSADiary/tree/master/0037-sudoku-solver) |
@@ -221,6 +222,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Kasa1905/TheDSADiary/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Kasa1905/TheDSADiary/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
@@ -330,6 +332,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0005-longest-palindromic-substring](https://github.com/Kasa1905/TheDSADiary/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Kasa1905/TheDSADiary/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Kasa1905/TheDSADiary/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Kasa1905/TheDSADiary/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0160-intersection-of-two-linked-lists) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/3867-sum-of-gcd-of-formed-pairs) |
