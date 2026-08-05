@@ -363,6 +363,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0024-swap-nodes-in-pairs) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0160-intersection-of-two-linked-lists) |
 ## Combinatorics
 |  |
@@ -402,6 +403,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Kasa1905/TheDSADiary/tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Kasa1905/TheDSADiary/tree/master/0044-wildcard-matching) |
 | [0326-power-of-three](https://github.com/Kasa1905/TheDSADiary/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
