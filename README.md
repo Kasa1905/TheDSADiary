@@ -162,6 +162,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0002-add-two-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Kasa1905/TheDSADiary/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Kasa1905/TheDSADiary/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Kasa1905/TheDSADiary/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/Kasa1905/TheDSADiary/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0171-excel-sheet-column-number) |
@@ -245,6 +246,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Kasa1905/TheDSADiary/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
