@@ -127,6 +127,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0036-valid-sudoku](https://github.com/Kasa1905/TheDSADiary/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Kasa1905/TheDSADiary/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Kasa1905/TheDSADiary/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Kasa1905/TheDSADiary/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Kasa1905/TheDSADiary/tree/master/0049-group-anagrams) |
@@ -331,6 +332,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Kasa1905/TheDSADiary/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Kasa1905/TheDSADiary/tree/master/0079-word-search) |
 ## Two Pointers
 |  |
