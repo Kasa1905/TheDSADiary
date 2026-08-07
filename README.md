@@ -132,6 +132,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0042-trapping-rain-water](https://github.com/Kasa1905/TheDSADiary/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Kasa1905/TheDSADiary/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Kasa1905/TheDSADiary/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0056-merge-intervals) |
@@ -236,6 +237,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0015-3sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kasa1905/TheDSADiary/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Kasa1905/TheDSADiary/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
@@ -344,6 +346,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0039-combination-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kasa1905/TheDSADiary/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Kasa1905/TheDSADiary/tree/master/0079-word-search) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
