@@ -131,6 +131,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0041-first-missing-positive](https://github.com/Kasa1905/TheDSADiary/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Kasa1905/TheDSADiary/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Kasa1905/TheDSADiary/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Kasa1905/TheDSADiary/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0056-merge-intervals) |
@@ -342,6 +343,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0037-sudoku-solver](https://github.com/Kasa1905/TheDSADiary/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Kasa1905/TheDSADiary/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Kasa1905/TheDSADiary/tree/master/0079-word-search) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
