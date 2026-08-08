@@ -133,6 +133,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0045-jump-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Kasa1905/TheDSADiary/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Kasa1905/TheDSADiary/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Kasa1905/TheDSADiary/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0056-merge-intervals) |
@@ -167,6 +168,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0012-integer-to-roman](https://github.com/Kasa1905/TheDSADiary/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Kasa1905/TheDSADiary/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Kasa1905/TheDSADiary/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/Kasa1905/TheDSADiary/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0263-ugly-number) |
@@ -421,6 +423,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0036-valid-sudoku](https://github.com/Kasa1905/TheDSADiary/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Kasa1905/TheDSADiary/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Kasa1905/TheDSADiary/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Kasa1905/TheDSADiary/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
 ## Recursion
