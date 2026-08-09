@@ -136,6 +136,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0047-permutations-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Kasa1905/TheDSADiary/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Kasa1905/TheDSADiary/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Kasa1905/TheDSADiary/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Kasa1905/TheDSADiary/tree/master/0068-text-justification) |
@@ -357,6 +358,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0040-combination-sum-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kasa1905/TheDSADiary/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Kasa1905/TheDSADiary/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Kasa1905/TheDSADiary/tree/master/0079-word-search) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
@@ -489,4 +491,8 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Kasa1905/TheDSADiary/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
