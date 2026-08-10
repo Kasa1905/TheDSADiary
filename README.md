@@ -137,6 +137,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0048-rotate-image](https://github.com/Kasa1905/TheDSADiary/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Kasa1905/TheDSADiary/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Kasa1905/TheDSADiary/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Kasa1905/TheDSADiary/tree/master/0068-text-justification) |
@@ -205,6 +206,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0042-trapping-rain-water](https://github.com/Kasa1905/TheDSADiary/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Kasa1905/TheDSADiary/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Kasa1905/TheDSADiary/tree/master/0072-edit-distance) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
@@ -429,6 +431,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 ## Matrix
 |  |
