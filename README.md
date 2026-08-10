@@ -183,6 +183,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Kasa1905/TheDSADiary/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kasa1905/TheDSADiary/tree/master/3312-sorted-gcd-pair-queries) |
@@ -211,6 +212,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Kasa1905/TheDSADiary/tree/master/1510-stone-game-iv) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kasa1905/TheDSADiary/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -476,6 +478,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Kasa1905/TheDSADiary/tree/master/1510-stone-game-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -488,13 +491,23 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Kasa1905/TheDSADiary/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Kasa1905/TheDSADiary/tree/master/1510-stone-game-iv) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Kasa1905/TheDSADiary/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0052-n-queens-ii) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Kasa1905/TheDSADiary/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Kasa1905/TheDSADiary/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
