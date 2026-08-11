@@ -176,6 +176,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0043-multiply-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Kasa1905/TheDSADiary/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Kasa1905/TheDSADiary/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0060-permutation-sequence) |
 | [0168-excel-sheet-column-title](https://github.com/Kasa1905/TheDSADiary/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0263-ugly-number) |
@@ -456,6 +457,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0025-reverse-nodes-in-k-group](https://github.com/Kasa1905/TheDSADiary/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Kasa1905/TheDSADiary/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Kasa1905/TheDSADiary/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0060-permutation-sequence) |
 | [0326-power-of-three](https://github.com/Kasa1905/TheDSADiary/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 ## Enumeration
