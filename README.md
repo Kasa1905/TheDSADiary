@@ -159,6 +159,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kasa1905/TheDSADiary/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kasa1905/TheDSADiary/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kasa1905/TheDSADiary/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -263,6 +264,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kasa1905/TheDSADiary/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kasa1905/TheDSADiary/tree/master/3536-maximum-product-of-two-digits) |
@@ -303,6 +305,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kasa1905/TheDSADiary/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3518-smallest-palindromic-rearrangement-ii) |
