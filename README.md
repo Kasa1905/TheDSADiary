@@ -141,6 +141,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0054-spiral-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/Kasa1905/TheDSADiary/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/Kasa1905/TheDSADiary/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/Kasa1905/TheDSADiary/tree/master/0134-gas-station) |
@@ -213,6 +214,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0053-maximum-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Kasa1905/TheDSADiary/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Kasa1905/TheDSADiary/tree/master/0072-edit-distance) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
@@ -451,6 +453,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0037-sudoku-solver](https://github.com/Kasa1905/TheDSADiary/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Kasa1905/TheDSADiary/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Kasa1905/TheDSADiary/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
 ## Recursion
