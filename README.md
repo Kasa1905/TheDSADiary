@@ -387,6 +387,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0047-permutations-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Kasa1905/TheDSADiary/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0052-n-queens-ii) |
+| [0077-combinations](https://github.com/Kasa1905/TheDSADiary/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Kasa1905/TheDSADiary/tree/master/0079-word-search) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
