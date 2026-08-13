@@ -146,6 +146,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0064-minimum-path-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Kasa1905/TheDSADiary/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Kasa1905/TheDSADiary/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Kasa1905/TheDSADiary/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/Kasa1905/TheDSADiary/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
@@ -366,6 +367,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0004-median-of-two-sorted-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Kasa1905/TheDSADiary/tree/master/0278-first-bad-version) |
@@ -466,6 +468,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0063-unique-paths-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Kasa1905/TheDSADiary/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Kasa1905/TheDSADiary/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
 ## Recursion
