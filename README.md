@@ -148,6 +148,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0073-set-matrix-zeroes](https://github.com/Kasa1905/TheDSADiary/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Kasa1905/TheDSADiary/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Kasa1905/TheDSADiary/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Kasa1905/TheDSADiary/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/Kasa1905/TheDSADiary/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
@@ -287,6 +288,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Kasa1905/TheDSADiary/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Kasa1905/TheDSADiary/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
@@ -391,6 +393,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0051-n-queens](https://github.com/Kasa1905/TheDSADiary/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Kasa1905/TheDSADiary/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Kasa1905/TheDSADiary/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Kasa1905/TheDSADiary/tree/master/0079-word-search) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
