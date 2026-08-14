@@ -150,6 +150,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0075-sort-colors](https://github.com/Kasa1905/TheDSADiary/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Kasa1905/TheDSADiary/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Kasa1905/TheDSADiary/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0134-gas-station](https://github.com/Kasa1905/TheDSADiary/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
@@ -409,6 +410,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0042-trapping-rain-water](https://github.com/Kasa1905/TheDSADiary/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Kasa1905/TheDSADiary/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0160-intersection-of-two-linked-lists) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/3867-sum-of-gcd-of-formed-pairs) |
