@@ -191,6 +191,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0050-powx-n](https://github.com/Kasa1905/TheDSADiary/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Kasa1905/TheDSADiary/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/Kasa1905/TheDSADiary/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Kasa1905/TheDSADiary/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0263-ugly-number) |
@@ -295,6 +296,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0029-divide-two-integers](https://github.com/Kasa1905/TheDSADiary/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Kasa1905/TheDSADiary/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Kasa1905/TheDSADiary/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
@@ -403,6 +405,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0077-combinations](https://github.com/Kasa1905/TheDSADiary/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Kasa1905/TheDSADiary/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Kasa1905/TheDSADiary/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Kasa1905/TheDSADiary/tree/master/0089-gray-code) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
