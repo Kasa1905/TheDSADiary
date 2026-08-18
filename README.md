@@ -235,6 +235,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0063-unique-paths-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Kasa1905/TheDSADiary/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0087-scramble-string) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -364,6 +365,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0071-simplify-path](https://github.com/Kasa1905/TheDSADiary/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Kasa1905/TheDSADiary/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Kasa1905/TheDSADiary/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0087-scramble-string) |
 | [0168-excel-sheet-column-title](https://github.com/Kasa1905/TheDSADiary/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0171-excel-sheet-column-number) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kasa1905/TheDSADiary/tree/master/2213-longest-substring-of-one-repeating-character) |
