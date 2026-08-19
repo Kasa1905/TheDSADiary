@@ -163,6 +163,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Kasa1905/TheDSADiary/tree/master/1563-stone-game-v) |
@@ -264,6 +265,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0055-jump-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Kasa1905/TheDSADiary/tree/master/0134-gas-station) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
+| [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Kasa1905/TheDSADiary/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kasa1905/TheDSADiary/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -306,6 +308,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
+| [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -337,6 +340,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
+| [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kasa1905/TheDSADiary/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
