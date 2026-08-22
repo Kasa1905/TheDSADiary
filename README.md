@@ -199,6 +199,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0060-permutation-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Kasa1905/TheDSADiary/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/Kasa1905/TheDSADiary/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Kasa1905/TheDSADiary/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Kasa1905/TheDSADiary/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0263-ugly-number) |
@@ -243,6 +244,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0072-edit-distance](https://github.com/Kasa1905/TheDSADiary/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Kasa1905/TheDSADiary/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/Kasa1905/TheDSADiary/tree/master/0096-unique-binary-search-trees) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -325,6 +327,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Kasa1905/TheDSADiary/tree/master/0096-unique-binary-search-trees) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Depth-First Search
@@ -550,6 +553,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Kasa1905/TheDSADiary/tree/master/0096-unique-binary-search-trees) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
 ## Interactive
 |  |
@@ -624,4 +628,8 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kasa1905/TheDSADiary/tree/master/0084-largest-rectangle-in-histogram) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Kasa1905/TheDSADiary/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
