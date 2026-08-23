@@ -212,6 +212,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [1406-stone-game-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kasa1905/TheDSADiary/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Kasa1905/TheDSADiary/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Kasa1905/TheDSADiary/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Kasa1905/TheDSADiary/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -276,6 +277,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0134-gas-station](https://github.com/Kasa1905/TheDSADiary/tree/master/0134-gas-station) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Kasa1905/TheDSADiary/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Kasa1905/TheDSADiary/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kasa1905/TheDSADiary/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -390,6 +392,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0097-interleaving-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0097-interleaving-string) |
 | [0168-excel-sheet-column-title](https://github.com/Kasa1905/TheDSADiary/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0171-excel-sheet-column-number) |
+| [1927-sum-game](https://github.com/Kasa1905/TheDSADiary/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kasa1905/TheDSADiary/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -582,6 +585,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [1406-stone-game-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kasa1905/TheDSADiary/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Kasa1905/TheDSADiary/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Kasa1905/TheDSADiary/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Kasa1905/TheDSADiary/tree/master/2029-stone-game-ix) |
 ## Breadth-First Search
 |  |
