@@ -332,6 +332,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Kasa1905/TheDSADiary/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0098-validate-binary-search-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0102-binary-tree-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Depth-First Search
@@ -562,6 +563,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Kasa1905/TheDSADiary/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0098-validate-binary-search-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0102-binary-tree-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
 ## Interactive
 |  |
@@ -590,6 +592,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0102-binary-tree-level-order-traversal) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
