@@ -344,6 +344,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Depth-First Search
@@ -351,6 +352,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0079-word-search](https://github.com/Kasa1905/TheDSADiary/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0098-validate-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0113-path-sum-ii) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
 ## Hash Table
@@ -457,6 +459,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0089-gray-code](https://github.com/Kasa1905/TheDSADiary/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Kasa1905/TheDSADiary/tree/master/0093-restore-ip-addresses) |
+| [0113-path-sum-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0113-path-sum-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
@@ -588,6 +591,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
 ## Interactive
 |  |
