@@ -345,6 +345,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Depth-First Search
@@ -353,6 +354,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0079-word-search](https://github.com/Kasa1905/TheDSADiary/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
 ## Hash Table
@@ -487,6 +489,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0042-trapping-rain-water](https://github.com/Kasa1905/TheDSADiary/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Kasa1905/TheDSADiary/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kasa1905/TheDSADiary/tree/master/0084-largest-rectangle-in-histogram) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -513,6 +516,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0086-partition-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0160-intersection-of-two-linked-lists) |
 ## Combinatorics
 |  |
@@ -592,6 +596,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
 ## Interactive
 |  |
