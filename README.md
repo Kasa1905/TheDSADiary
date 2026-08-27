@@ -349,6 +349,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0113-path-sum-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Kasa1905/TheDSADiary/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Depth-First Search
@@ -359,6 +360,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0113-path-sum-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Kasa1905/TheDSADiary/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
 ## Hash Table
@@ -527,6 +529,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Kasa1905/TheDSADiary/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0160-intersection-of-two-linked-lists) |
 ## Combinatorics
 |  |
@@ -610,6 +613,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0113-path-sum-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Kasa1905/TheDSADiary/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
 ## Interactive
 |  |
@@ -643,6 +647,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Kasa1905/TheDSADiary/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
