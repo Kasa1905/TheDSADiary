@@ -156,6 +156,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0090-subsets-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/Kasa1905/TheDSADiary/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/Kasa1905/TheDSADiary/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
@@ -253,6 +254,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0096-unique-binary-search-trees](https://github.com/Kasa1905/TheDSADiary/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/Kasa1905/TheDSADiary/tree/master/0120-triangle) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
