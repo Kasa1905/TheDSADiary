@@ -1,33 +1,29 @@
 class Solution {
     public int[] lexicographicallySmallestArray(int[] nums, int limit) {
-        int n=nums.length;
-        int [] res=new int[n];
-        int[][] numsSort=new int[n][];
-        for(int i=0;i<n;i++){
-            numsSort[i]=new int[]{nums[i],i};
-        }
-        Arrays.sort(numsSort,(a,b)->a[0]-b[0]);
-        Map<Integer,Deque<Integer>> map=new HashMap<>();
-        int[] grpArr= new int[n];
-        int grpNo=0;
-        grpArr[numsSort[0][1]]=grpNo;
-        map.put(grpNo,new ArrayDeque<>());
-        map.get(grpNo).addLast(numsSort[0][0]);
-        for(int i=1;i<n;i++){
-            if(numsSort[i][0]-map.get(grpNo).getLast()<=limit){
-                map.get(grpNo).addLast(numsSort[i][0]);
-                grpArr[numsSort[i][1]]=grpNo;
-            }else{
-                grpNo++;
-                map.put(grpNo,new ArrayDeque<>());
-                map.get(grpNo).addLast(numsSort[i][0]);
-                grpArr[numsSort[i][1]]=grpNo;
+        int[] numsSorted = nums.clone();
+        Arrays.sort(numsSorted);
+
+        int grpCurr = 0;
+        HashMap<Integer, Integer> ntog = new HashMap<>();
+        HashMap<Integer, LinkedList<Integer>> gtol = new HashMap<>();
+        ntog.put(numsSorted[0], grpCurr);
+        gtol.put(grpCurr, new LinkedList<>(List.of(numsSorted[0])));
+
+        for (int i = 1; i < numsSorted.length; i++) {
+            if (numsSorted[i] - numsSorted[i - 1] <= limit) {
+                gtol.get(grpCurr).add(numsSorted[i]);
+                ntog.put(numsSorted[i], grpCurr);
+            } else {
+                grpCurr++;
+                gtol.put(grpCurr, new LinkedList<>(List.of(numsSorted[i])));
+                ntog.put(numsSorted[i], grpCurr);
             }
         }
-        for(int i=0;i<n;i++){
-            res[i]=map.get(grpArr[i]).pollFirst();
+
+        for (int i = 0; i < nums.length; i++) {
+            nums[i] = gtol.get(ntog.get(nums[i])).remove();
         }
-        return res;
-            
+
+        return nums;
     }
 }
