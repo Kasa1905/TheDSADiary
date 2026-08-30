@@ -159,6 +159,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0120-triangle](https://github.com/Kasa1905/TheDSADiary/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Kasa1905/TheDSADiary/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
@@ -305,6 +306,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0128-longest-consecutive-sequence) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
@@ -390,6 +392,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0126-word-ladder-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
