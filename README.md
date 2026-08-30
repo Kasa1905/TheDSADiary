@@ -389,6 +389,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0073-set-matrix-zeroes](https://github.com/Kasa1905/TheDSADiary/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0126-word-ladder-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
@@ -429,6 +430,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0093-restore-ip-addresses](https://github.com/Kasa1905/TheDSADiary/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0126-word-ladder-ii) |
 | [0168-excel-sheet-column-title](https://github.com/Kasa1905/TheDSADiary/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0171-excel-sheet-column-number) |
 | [1927-sum-game](https://github.com/Kasa1905/TheDSADiary/tree/master/1927-sum-game) |
@@ -486,6 +488,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0090-subsets-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Kasa1905/TheDSADiary/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0113-path-sum-ii) |
+| [0126-word-ladder-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0126-word-ladder-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
@@ -664,6 +667,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Kasa1905/TheDSADiary/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0126-word-ladder-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0126-word-ladder-ii) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -723,4 +727,8 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0124-binary-tree-maximum-path-sum) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
