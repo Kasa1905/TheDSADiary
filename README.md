@@ -160,6 +160,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Kasa1905/TheDSADiary/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Kasa1905/TheDSADiary/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
@@ -307,6 +308,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Kasa1905/TheDSADiary/tree/master/0130-surrounded-regions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
@@ -377,6 +379,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Kasa1905/TheDSADiary/tree/master/0130-surrounded-regions) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
 ## Hash Table
@@ -602,6 +605,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0073-set-matrix-zeroes](https://github.com/Kasa1905/TheDSADiary/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Kasa1905/TheDSADiary/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/Kasa1905/TheDSADiary/tree/master/0130-surrounded-regions) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
 ## Recursion
 |  |
@@ -675,6 +679,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Kasa1905/TheDSADiary/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0126-word-ladder-ii) |
+| [0130-surrounded-regions](https://github.com/Kasa1905/TheDSADiary/tree/master/0130-surrounded-regions) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
