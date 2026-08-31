@@ -264,6 +264,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Kasa1905/TheDSADiary/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0132-palindrome-partitioning-ii) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -441,6 +442,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0115-distinct-subsequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Kasa1905/TheDSADiary/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0132-palindrome-partitioning-ii) |
 | [0168-excel-sheet-column-title](https://github.com/Kasa1905/TheDSADiary/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0171-excel-sheet-column-number) |
 | [1927-sum-game](https://github.com/Kasa1905/TheDSADiary/tree/master/1927-sum-game) |
