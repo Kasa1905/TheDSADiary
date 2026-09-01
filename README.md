@@ -162,6 +162,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0128-longest-consecutive-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Kasa1905/TheDSADiary/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Kasa1905/TheDSADiary/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Kasa1905/TheDSADiary/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
@@ -296,6 +297,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0055-jump-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Kasa1905/TheDSADiary/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Kasa1905/TheDSADiary/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Kasa1905/TheDSADiary/tree/master/1927-sum-game) |
