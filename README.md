@@ -384,6 +384,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Kasa1905/TheDSADiary/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/Kasa1905/TheDSADiary/tree/master/0133-clone-graph) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
 ## Hash Table
@@ -402,6 +403,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/Kasa1905/TheDSADiary/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
@@ -689,11 +691,13 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0126-word-ladder-ii) |
 | [0130-surrounded-regions](https://github.com/Kasa1905/TheDSADiary/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/Kasa1905/TheDSADiary/tree/master/0133-clone-graph) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kasa1905/TheDSADiary/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Kasa1905/TheDSADiary/tree/master/0133-clone-graph) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
 ## Minimax
 |  |
