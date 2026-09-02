@@ -164,6 +164,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0134-gas-station](https://github.com/Kasa1905/TheDSADiary/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Kasa1905/TheDSADiary/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Kasa1905/TheDSADiary/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
@@ -270,6 +271,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Kasa1905/TheDSADiary/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Kasa1905/TheDSADiary/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -411,6 +413,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0128-longest-consecutive-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Kasa1905/TheDSADiary/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Kasa1905/TheDSADiary/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Kasa1905/TheDSADiary/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
@@ -455,6 +458,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0126-word-ladder-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Kasa1905/TheDSADiary/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Kasa1905/TheDSADiary/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Kasa1905/TheDSADiary/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0171-excel-sheet-column-number) |
 | [1927-sum-game](https://github.com/Kasa1905/TheDSADiary/tree/master/1927-sum-game) |
@@ -765,4 +769,16 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0126-word-ladder-ii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Kasa1905/TheDSADiary/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Kasa1905/TheDSADiary/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Kasa1905/TheDSADiary/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
