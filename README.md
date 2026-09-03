@@ -419,6 +419,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0138-copy-list-with-random-pointer](https://github.com/Kasa1905/TheDSADiary/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Kasa1905/TheDSADiary/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0140-word-break-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
@@ -542,6 +543,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0086-partition-list) |
+| [0142-linked-list-cycle-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0160-intersection-of-two-linked-lists) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kasa1905/TheDSADiary/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -584,6 +586,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Kasa1905/TheDSADiary/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Kasa1905/TheDSADiary/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0160-intersection-of-two-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kasa1905/TheDSADiary/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Combinatorics
@@ -790,4 +793,8 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Kasa1905/TheDSADiary/tree/master/0139-word-break) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
