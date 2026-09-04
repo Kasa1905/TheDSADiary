@@ -336,6 +336,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0056-merge-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Kasa1905/TheDSADiary/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
@@ -548,6 +549,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0086-partition-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0160-intersection-of-two-linked-lists) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kasa1905/TheDSADiary/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -595,6 +597,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0143-reorder-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Kasa1905/TheDSADiary/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0160-intersection-of-two-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kasa1905/TheDSADiary/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Combinatorics
@@ -633,6 +636,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 ## Matrix
 |  |
@@ -815,4 +819,8 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Kasa1905/TheDSADiary/tree/master/0146-lru-cache) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
