@@ -335,6 +335,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0049-group-anagrams](https://github.com/Kasa1905/TheDSADiary/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Kasa1905/TheDSADiary/tree/master/0075-sort-colors) |
+| [0147-insertion-sort-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
@@ -593,6 +594,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0142-linked-list-cycle-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Kasa1905/TheDSADiary/tree/master/0146-lru-cache) |
+| [0147-insertion-sort-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0160-intersection-of-two-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kasa1905/TheDSADiary/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Combinatorics
