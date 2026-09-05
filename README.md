@@ -166,6 +166,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0137-single-number-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Kasa1905/TheDSADiary/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/Kasa1905/TheDSADiary/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
@@ -219,6 +220,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0062-unique-paths](https://github.com/Kasa1905/TheDSADiary/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/Kasa1905/TheDSADiary/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Kasa1905/TheDSADiary/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/Kasa1905/TheDSADiary/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/Kasa1905/TheDSADiary/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0263-ugly-number) |
@@ -425,6 +427,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0140-word-break-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Kasa1905/TheDSADiary/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/Kasa1905/TheDSADiary/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
@@ -825,4 +828,16 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0148-sort-list) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Kasa1905/TheDSADiary/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Kasa1905/TheDSADiary/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Kasa1905/TheDSADiary/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
