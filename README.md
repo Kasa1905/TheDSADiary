@@ -167,6 +167,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0139-word-break](https://github.com/Kasa1905/TheDSADiary/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Kasa1905/TheDSADiary/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kasa1905/TheDSADiary/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
@@ -221,6 +222,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0089-gray-code](https://github.com/Kasa1905/TheDSADiary/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Kasa1905/TheDSADiary/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Kasa1905/TheDSADiary/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kasa1905/TheDSADiary/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Kasa1905/TheDSADiary/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0263-ugly-number) |
@@ -567,6 +569,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0084-largest-rectangle-in-histogram](https://github.com/Kasa1905/TheDSADiary/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kasa1905/TheDSADiary/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
