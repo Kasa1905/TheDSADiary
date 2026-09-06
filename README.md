@@ -168,6 +168,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0140-word-break-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Kasa1905/TheDSADiary/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kasa1905/TheDSADiary/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
@@ -282,6 +283,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0132-palindrome-partitioning-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Kasa1905/TheDSADiary/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
