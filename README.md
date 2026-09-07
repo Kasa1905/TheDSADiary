@@ -170,6 +170,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kasa1905/TheDSADiary/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
@@ -515,6 +516,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0074-search-a-2d-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Kasa1905/TheDSADiary/tree/master/0278-first-bad-version) |
