@@ -580,6 +580,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kasa1905/TheDSADiary/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Kasa1905/TheDSADiary/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -833,6 +834,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Kasa1905/TheDSADiary/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Kasa1905/TheDSADiary/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
