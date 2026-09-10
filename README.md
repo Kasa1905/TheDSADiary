@@ -403,6 +403,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -598,6 +599,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0143-reorder-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kasa1905/TheDSADiary/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Kasa1905/TheDSADiary/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0173-binary-search-tree-iterator) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -727,6 +729,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Interactive
@@ -822,6 +825,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0096-unique-binary-search-trees](https://github.com/Kasa1905/TheDSADiary/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0173-binary-search-tree-iterator) |
 ## DP on Trees
 |  |
 | ------- |
@@ -853,6 +857,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0146-lru-cache](https://github.com/Kasa1905/TheDSADiary/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Kasa1905/TheDSADiary/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0173-binary-search-tree-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -885,4 +890,8 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Kasa1905/TheDSADiary/tree/master/0164-maximum-gap) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
