@@ -897,4 +897,8 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Kasa1905/TheDSADiary/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
