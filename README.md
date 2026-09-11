@@ -381,6 +381,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0089-gray-code](https://github.com/Kasa1905/TheDSADiary/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
@@ -454,6 +455,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0160-intersection-of-two-linked-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Kasa1905/TheDSADiary/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -504,6 +506,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0168-excel-sheet-column-title](https://github.com/Kasa1905/TheDSADiary/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0187-repeated-dna-sequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Kasa1905/TheDSADiary/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kasa1905/TheDSADiary/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -524,6 +527,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0187-repeated-dna-sequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0187-repeated-dna-sequences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kasa1905/TheDSADiary/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kasa1905/TheDSADiary/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kasa1905/TheDSADiary/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -905,4 +909,20 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Kasa1905/TheDSADiary/tree/master/0176-second-highest-salary) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
