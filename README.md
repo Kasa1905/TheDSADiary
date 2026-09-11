@@ -177,6 +177,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0179-largest-number) |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Kasa1905/TheDSADiary/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
@@ -296,6 +297,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0140-word-break-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0174-dungeon-game) |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Kasa1905/TheDSADiary/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
