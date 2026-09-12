@@ -389,6 +389,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0090-subsets-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0187-repeated-dna-sequences) |
+| [0191-number-of-1-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
@@ -695,6 +696,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0191-number-of-1-bits) |
 ## Matrix
 |  |
 | ------- |
