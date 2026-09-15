@@ -317,6 +317,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [1510-stone-game-iv](https://github.com/Kasa1905/TheDSADiary/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Kasa1905/TheDSADiary/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Kasa1905/TheDSADiary/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kasa1905/TheDSADiary/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -349,6 +350,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [2029-stone-game-ix](https://github.com/Kasa1905/TheDSADiary/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kasa1905/TheDSADiary/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kasa1905/TheDSADiary/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -532,6 +534,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Kasa1905/TheDSADiary/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kasa1905/TheDSADiary/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kasa1905/TheDSADiary/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -620,6 +623,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kasa1905/TheDSADiary/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0202-happy-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kasa1905/TheDSADiary/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/3867-sum-of-gcd-of-formed-pairs) |
