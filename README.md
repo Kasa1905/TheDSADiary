@@ -678,6 +678,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0148-sort-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kasa1905/TheDSADiary/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Combinatorics
 |  |
@@ -749,6 +750,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0060-permutation-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Kasa1905/TheDSADiary/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 ## Enumeration
