@@ -480,6 +480,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -531,6 +532,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0171-excel-sheet-column-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/0205-isomorphic-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Kasa1905/TheDSADiary/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kasa1905/TheDSADiary/tree/master/2213-longest-substring-of-one-repeating-character) |
