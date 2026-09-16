@@ -453,6 +453,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0199-binary-tree-right-side-view](https://github.com/Kasa1905/TheDSADiary/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Kasa1905/TheDSADiary/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0210-course-schedule-ii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
@@ -833,6 +834,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0199-binary-tree-right-side-view](https://github.com/Kasa1905/TheDSADiary/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Kasa1905/TheDSADiary/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0210-course-schedule-ii) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kasa1905/TheDSADiary/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -840,6 +842,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0133-clone-graph](https://github.com/Kasa1905/TheDSADiary/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Kasa1905/TheDSADiary/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0210-course-schedule-ii) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
 ## Minimax
 |  |
@@ -999,6 +1002,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Kasa1905/TheDSADiary/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0210-course-schedule-ii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
