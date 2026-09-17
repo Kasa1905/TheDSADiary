@@ -184,6 +184,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0204-count-primes](https://github.com/Kasa1905/TheDSADiary/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
@@ -312,6 +313,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0174-dungeon-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Kasa1905/TheDSADiary/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Kasa1905/TheDSADiary/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
