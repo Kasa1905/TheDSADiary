@@ -185,6 +185,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0209-minimum-size-subarray-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
@@ -387,6 +388,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0164-maximum-gap](https://github.com/Kasa1905/TheDSADiary/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -749,6 +751,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0148-sort-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0215-kth-largest-element-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -825,6 +828,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Game Theory
 |  |
@@ -1043,4 +1047,8 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0214-shortest-palindrome) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
