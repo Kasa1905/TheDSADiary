@@ -186,6 +186,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0212-word-search-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
@@ -627,6 +628,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0131-palindrome-partitioning](https://github.com/Kasa1905/TheDSADiary/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0212-word-search-ii) |
+| [0216-combination-sum-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0216-combination-sum-iii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
