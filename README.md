@@ -255,6 +255,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0202-happy-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Kasa1905/TheDSADiary/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Kasa1905/TheDSADiary/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/Kasa1905/TheDSADiary/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Kasa1905/TheDSADiary/tree/master/0326-power-of-three) |
@@ -564,6 +565,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0211-design-add-and-search-words-data-structure](https://github.com/Kasa1905/TheDSADiary/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/Kasa1905/TheDSADiary/tree/master/0224-basic-calculator) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Kasa1905/TheDSADiary/tree/master/1927-sum-game) |
@@ -681,6 +683,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kasa1905/TheDSADiary/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Kasa1905/TheDSADiary/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/Kasa1905/TheDSADiary/tree/master/0224-basic-calculator) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -799,6 +802,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0143-reorder-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Kasa1905/TheDSADiary/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/Kasa1905/TheDSADiary/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 ## Enumeration
