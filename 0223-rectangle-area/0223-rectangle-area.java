@@ -1,0 +1,7 @@
+class Solution {
+    public int computeArea(int A, int B, int C, int D, int E, int F, int G, int H) {
+        int hOverlap = (H<=B || F>=D)? 0 : Math.min(D,H)-Math.max(F,B);
+        int vOverlap = (G<=A || E>=C)? 0 : Math.min(C,G)-Math.max(E,A);
+        return (C-A)*(D-B)+(G-E)*(H-F)-hOverlap*vOverlap;
+    }
+}
