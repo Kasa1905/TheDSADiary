@@ -190,6 +190,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0218-the-skyline-problem](https://github.com/Kasa1905/TheDSADiary/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/Kasa1905/TheDSADiary/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/Kasa1905/TheDSADiary/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
