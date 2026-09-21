@@ -457,6 +457,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0173-binary-search-tree-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Kasa1905/TheDSADiary/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0226-invert-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Depth-First Search
@@ -477,6 +478,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0207-course-schedule](https://github.com/Kasa1905/TheDSADiary/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Kasa1905/TheDSADiary/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0226-invert-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0226-invert-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
@@ -838,6 +840,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0173-binary-search-tree-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Kasa1905/TheDSADiary/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0226-invert-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Interactive
 |  |
@@ -882,6 +885,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0200-number-of-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Kasa1905/TheDSADiary/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0226-invert-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kasa1905/TheDSADiary/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
