@@ -257,6 +257,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0204-count-primes](https://github.com/Kasa1905/TheDSADiary/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Kasa1905/TheDSADiary/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Kasa1905/TheDSADiary/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Kasa1905/TheDSADiary/tree/master/0326-power-of-three) |
@@ -571,6 +572,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0212-word-search-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Kasa1905/TheDSADiary/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0227-basic-calculator-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Kasa1905/TheDSADiary/tree/master/1927-sum-game) |
@@ -690,6 +692,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0173-binary-search-tree-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Kasa1905/TheDSADiary/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Kasa1905/TheDSADiary/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0227-basic-calculator-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
