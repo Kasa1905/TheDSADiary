@@ -261,6 +261,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0223-rectangle-area](https://github.com/Kasa1905/TheDSADiary/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Kasa1905/TheDSADiary/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/Kasa1905/TheDSADiary/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Kasa1905/TheDSADiary/tree/master/0326-power-of-three) |
@@ -434,6 +435,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0191-number-of-1-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Kasa1905/TheDSADiary/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Kasa1905/TheDSADiary/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -821,6 +823,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0203-remove-linked-list-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Kasa1905/TheDSADiary/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Kasa1905/TheDSADiary/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Kasa1905/TheDSADiary/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 ## Enumeration
