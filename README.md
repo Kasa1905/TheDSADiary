@@ -263,6 +263,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0224-basic-calculator](https://github.com/Kasa1905/TheDSADiary/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Kasa1905/TheDSADiary/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Kasa1905/TheDSADiary/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Kasa1905/TheDSADiary/tree/master/0326-power-of-three) |
@@ -332,6 +333,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0198-house-robber](https://github.com/Kasa1905/TheDSADiary/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Kasa1905/TheDSADiary/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/Kasa1905/TheDSADiary/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -830,6 +832,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0206-reverse-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Kasa1905/TheDSADiary/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Kasa1905/TheDSADiary/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Kasa1905/TheDSADiary/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/Kasa1905/TheDSADiary/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 ## Enumeration
