@@ -192,6 +192,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0221-maximal-square](https://github.com/Kasa1905/TheDSADiary/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Kasa1905/TheDSADiary/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Kasa1905/TheDSADiary/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
@@ -780,6 +781,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Kasa1905/TheDSADiary/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kasa1905/TheDSADiary/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kasa1905/TheDSADiary/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
