@@ -417,6 +417,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0218-the-skyline-problem](https://github.com/Kasa1905/TheDSADiary/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Kasa1905/TheDSADiary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -536,6 +537,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0205-isomorphic-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Kasa1905/TheDSADiary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
@@ -599,6 +601,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0224-basic-calculator](https://github.com/Kasa1905/TheDSADiary/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/Kasa1905/TheDSADiary/tree/master/0242-valid-anagram) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
