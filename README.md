@@ -267,6 +267,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0227-basic-calculator-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Kasa1905/TheDSADiary/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Kasa1905/TheDSADiary/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Kasa1905/TheDSADiary/tree/master/0326-power-of-three) |
@@ -337,6 +338,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0213-house-robber-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Kasa1905/TheDSADiary/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/Kasa1905/TheDSADiary/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -596,6 +598,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0214-shortest-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Kasa1905/TheDSADiary/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0241-different-ways-to-add-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -855,6 +858,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0231-power-of-two](https://github.com/Kasa1905/TheDSADiary/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Kasa1905/TheDSADiary/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Kasa1905/TheDSADiary/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 ## Enumeration
@@ -1024,6 +1028,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0139-word-break](https://github.com/Kasa1905/TheDSADiary/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0241-different-ways-to-add-parentheses) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -1174,4 +1179,8 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kasa1905/TheDSADiary/tree/master/0239-sliding-window-maximum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
