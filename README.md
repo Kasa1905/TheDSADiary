@@ -195,6 +195,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0238-product-of-array-except-self](https://github.com/Kasa1905/TheDSADiary/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Kasa1905/TheDSADiary/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
@@ -447,6 +448,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0201-bitwise-and-of-numbers-range](https://github.com/Kasa1905/TheDSADiary/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Kasa1905/TheDSADiary/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
