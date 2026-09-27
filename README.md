@@ -199,6 +199,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Kasa1905/TheDSADiary/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/Kasa1905/TheDSADiary/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -731,6 +732,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0189-rotate-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Kasa1905/TheDSADiary/tree/master/0283-move-zeroes) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kasa1905/TheDSADiary/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
