@@ -198,6 +198,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0260-single-number-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Kasa1905/TheDSADiary/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0275-h-index-ii) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -667,6 +668,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0222-count-complete-tree-nodes](https://github.com/Kasa1905/TheDSADiary/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Kasa1905/TheDSADiary/tree/master/0278-first-bad-version) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
