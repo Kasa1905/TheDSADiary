@@ -197,6 +197,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0240-search-a-2d-matrix-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Kasa1905/TheDSADiary/tree/master/0274-h-index) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -424,6 +425,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0229-majority-element-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kasa1905/TheDSADiary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Kasa1905/TheDSADiary/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -823,6 +825,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Kasa1905/TheDSADiary/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
