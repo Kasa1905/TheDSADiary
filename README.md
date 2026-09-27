@@ -276,6 +276,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0264-ugly-number-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/Kasa1905/TheDSADiary/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Kasa1905/TheDSADiary/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -346,6 +347,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0233-number-of-digit-one](https://github.com/Kasa1905/TheDSADiary/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Kasa1905/TheDSADiary/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -968,6 +970,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0207-course-schedule](https://github.com/Kasa1905/TheDSADiary/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Kasa1905/TheDSADiary/tree/master/0279-perfect-squares) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kasa1905/TheDSADiary/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -1211,4 +1214,12 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0241-different-ways-to-add-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Kasa1905/TheDSADiary/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Kasa1905/TheDSADiary/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
