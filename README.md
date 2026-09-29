@@ -201,6 +201,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0275-h-index-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Kasa1905/TheDSADiary/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0284-peeking-iterator) |
+| [0287-find-the-duplicate-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -462,6 +463,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0231-power-of-two](https://github.com/Kasa1905/TheDSADiary/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -677,6 +679,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Kasa1905/TheDSADiary/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0287-find-the-duplicate-number) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kasa1905/TheDSADiary/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -737,6 +740,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0202-happy-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Kasa1905/TheDSADiary/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0287-find-the-duplicate-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kasa1905/TheDSADiary/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -1076,6 +1080,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
@@ -1122,6 +1127,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Kasa1905/TheDSADiary/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0287-find-the-duplicate-number) |
 ## Iterator
 |  |
 | ------- |
