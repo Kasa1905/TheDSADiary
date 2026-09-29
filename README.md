@@ -202,6 +202,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0283-move-zeroes](https://github.com/Kasa1905/TheDSADiary/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/Kasa1905/TheDSADiary/tree/master/0289-game-of-life) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -776,6 +777,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0043-multiply-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Kasa1905/TheDSADiary/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/Kasa1905/TheDSADiary/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/3498-reverse-degree-of-a-string) |
@@ -875,6 +877,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0212-word-search-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Kasa1905/TheDSADiary/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/Kasa1905/TheDSADiary/tree/master/0289-game-of-life) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kasa1905/TheDSADiary/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
