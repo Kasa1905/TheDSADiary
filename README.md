@@ -560,6 +560,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0242-valid-anagram](https://github.com/Kasa1905/TheDSADiary/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Kasa1905/TheDSADiary/tree/master/0290-word-pattern) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -626,6 +627,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0242-valid-anagram](https://github.com/Kasa1905/TheDSADiary/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Kasa1905/TheDSADiary/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0273-integer-to-english-words) |
+| [0290-word-pattern](https://github.com/Kasa1905/TheDSADiary/tree/master/0290-word-pattern) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
