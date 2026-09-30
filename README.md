@@ -282,6 +282,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Kasa1905/TheDSADiary/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Kasa1905/TheDSADiary/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -964,6 +965,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
@@ -1003,6 +1005,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Kasa1905/TheDSADiary/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Kasa1905/TheDSADiary/tree/master/1872-stone-game-viii) |
@@ -1022,6 +1025,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/Kasa1905/TheDSADiary/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Kasa1905/TheDSADiary/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
@@ -1248,4 +1252,12 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Kasa1905/TheDSADiary/tree/master/0279-perfect-squares) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
