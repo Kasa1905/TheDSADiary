@@ -436,6 +436,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0242-valid-anagram](https://github.com/Kasa1905/TheDSADiary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Kasa1905/TheDSADiary/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/Kasa1905/TheDSADiary/tree/master/0295-find-median-from-data-stream) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -746,6 +747,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0234-palindrome-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Kasa1905/TheDSADiary/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Kasa1905/TheDSADiary/tree/master/0295-find-median-from-data-stream) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kasa1905/TheDSADiary/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -961,6 +963,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0218-the-skyline-problem](https://github.com/Kasa1905/TheDSADiary/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/Kasa1905/TheDSADiary/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/Kasa1905/TheDSADiary/tree/master/0295-find-median-from-data-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Game Theory
 |  |
@@ -1103,6 +1106,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0225-implement-stack-using-queues](https://github.com/Kasa1905/TheDSADiary/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Kasa1905/TheDSADiary/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0284-peeking-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/Kasa1905/TheDSADiary/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1260,4 +1264,8 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0292-nim-game) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Kasa1905/TheDSADiary/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
