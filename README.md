@@ -204,6 +204,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0287-find-the-duplicate-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Kasa1905/TheDSADiary/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0304-range-sum-query-2d-immutable) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -852,6 +853,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Kasa1905/TheDSADiary/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0304-range-sum-query-2d-immutable) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kasa1905/TheDSADiary/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kasa1905/TheDSADiary/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -898,6 +900,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0221-maximal-square](https://github.com/Kasa1905/TheDSADiary/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Kasa1905/TheDSADiary/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0304-range-sum-query-2d-immutable) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kasa1905/TheDSADiary/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -1124,6 +1127,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0284-peeking-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/Kasa1905/TheDSADiary/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0304-range-sum-query-2d-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
