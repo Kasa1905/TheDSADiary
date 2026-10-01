@@ -638,6 +638,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0290-word-pattern](https://github.com/Kasa1905/TheDSADiary/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/Kasa1905/TheDSADiary/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0301-remove-invalid-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -726,6 +727,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0212-word-search-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Kasa1905/TheDSADiary/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
@@ -1008,6 +1010,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0226-invert-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Kasa1905/TheDSADiary/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kasa1905/TheDSADiary/tree/master/3568-minimum-moves-to-clean-the-classroom) |
