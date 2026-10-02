@@ -642,6 +642,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/Kasa1905/TheDSADiary/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0306-additive-number) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -732,6 +733,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0216-combination-sum-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Kasa1905/TheDSADiary/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0306-additive-number) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
