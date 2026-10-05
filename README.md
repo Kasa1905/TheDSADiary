@@ -209,6 +209,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0312-burst-balloons](https://github.com/Kasa1905/TheDSADiary/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kasa1905/TheDSADiary/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Kasa1905/TheDSADiary/tree/master/0318-maximum-product-of-word-lengths) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -482,6 +483,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0260-single-number-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Kasa1905/TheDSADiary/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -656,6 +658,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0301-remove-invalid-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/Kasa1905/TheDSADiary/tree/master/0316-remove-duplicate-letters) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Kasa1905/TheDSADiary/tree/master/0318-maximum-product-of-word-lengths) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
