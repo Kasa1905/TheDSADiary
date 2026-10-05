@@ -291,6 +291,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0279-perfect-squares](https://github.com/Kasa1905/TheDSADiary/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/Kasa1905/TheDSADiary/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Kasa1905/TheDSADiary/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1319,6 +1320,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Kasa1905/TheDSADiary/tree/master/0319-bulb-switcher) |
 ## Impartial Game
 |  |
 | ------- |
