@@ -407,6 +407,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0134-gas-station](https://github.com/Kasa1905/TheDSADiary/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Kasa1905/TheDSADiary/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0179-largest-number) |
+| [0316-remove-duplicate-letters](https://github.com/Kasa1905/TheDSADiary/tree/master/0316-remove-duplicate-letters) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -654,6 +655,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0299-bulls-and-cows](https://github.com/Kasa1905/TheDSADiary/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0306-additive-number) |
+| [0316-remove-duplicate-letters](https://github.com/Kasa1905/TheDSADiary/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
@@ -800,6 +802,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0227-basic-calculator-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Kasa1905/TheDSADiary/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0234-palindrome-linked-list) |
+| [0316-remove-duplicate-letters](https://github.com/Kasa1905/TheDSADiary/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -810,6 +813,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kasa1905/TheDSADiary/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kasa1905/TheDSADiary/tree/master/0084-largest-rectangle-in-histogram) |
+| [0316-remove-duplicate-letters](https://github.com/Kasa1905/TheDSADiary/tree/master/0316-remove-duplicate-letters) |
 ## Simulation
 |  |
 | ------- |
