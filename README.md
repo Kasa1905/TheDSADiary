@@ -532,6 +532,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Kasa1905/TheDSADiary/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Depth-First Search
@@ -674,6 +675,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0306-additive-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/Kasa1905/TheDSADiary/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Kasa1905/TheDSADiary/tree/master/0318-maximum-product-of-word-lengths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -825,6 +827,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0234-palindrome-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Kasa1905/TheDSADiary/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0321-create-maximum-number) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
@@ -1013,6 +1016,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Kasa1905/TheDSADiary/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Interactive
 |  |
