@@ -1,57 +1,86 @@
+import java.util.*;
+
 class Solution {
-public List<String> removeInvalidParentheses(String s) {
-    int left = 0, right = 0, count = 0;
-    for (int i = 0; i < s.length(); i++) {
-        if (s.charAt(i) == '(') {
-            left++;
-        } else if (s.charAt(i) == ')') {
-            if (left > 0)
-                left--;
-            else
-                right++;
-        }
-    }
-    count = left + right;
-    Set<String> res = new HashSet<>();
-    dfs(s, 0, res, new StringBuilder(""), count);
-    return new ArrayList<String>(res);
-}
-    
-boolean isValid(String s) {
-      int count = 0;
-    
-      for (int i = 0; i < s.length(); i++) {
-        char c = s.charAt(i);
-        if (c == '(') count++;
-        if (c == ')' && count-- == 0) return false;
-      }
-    
-      return count == 0;
-}
+    public List<String> removeInvalidParentheses(String s) {
+        return new AbstractList<String>() {
+            private int minRemoved;
+            private int[] temp;
+            private Set<String> ans;
+            private List<String> finalAns;
+            private int totalOpen;
+            private int totalClose;
 
-public void dfs(String s, int i, Set<String> res, StringBuilder sb, int count) {
-    if (count < 0) {
-        return;
-    }
-    if (i == s.length()) {
-        if (count == 0) {
-            if (isValid(sb.toString())) {
-                res.add(sb.toString());
+            public String get(int index) {
+                if (finalAns == null) solve(s);
+                return finalAns.get(index);
             }
-        }        
-        return;
+
+            public int size() {
+                if (finalAns == null) solve(s);
+                return finalAns.size();
+            }
+
+            private void solve(String s) {
+                ans = new HashSet<>();
+                totalOpen = 0;
+                totalClose = 0;
+                minRemoved = s.length();
+                temp = new int[s.length()];
+                for (int i = 0; i < s.length(); i++) {
+                    temp[i] = s.charAt(i);
+                    if (s.charAt(i) == '(') totalOpen++;
+                    else if (s.charAt(i) == ')') totalClose++;
+                }
+                find(totalOpen, totalClose, 0, 0);
+                finalAns = new ArrayList<>(ans);
+            }
+
+            private boolean valid() {
+                int o = 0, c = 0;
+                for (int num : temp) {
+                    if (num == -1) continue;
+                    char ch = (char) num;
+                    if (ch == '(') o++;
+                    if (ch == ')') c++;
+                    if (c > o) return false;
+                }
+                return o == c;
+            }
+
+            private void add(int removed) {
+                if (minRemoved < removed) return;
+                StringBuilder sb = new StringBuilder();
+                for (int num : temp) {
+                    if (num == -1) continue;
+                    sb.append((char) num);
+                }
+                if (minRemoved > removed) {
+                    ans.clear();
+                    minRemoved = removed;
+                }
+                ans.add(sb.toString());
+            }
+
+            private void find(int open, int close, int removed, int start) {
+                if (open < 0 || close < 0 || removed > minRemoved) return;
+                if (open == close && valid()) {
+                    add(removed);
+                    return;
+                }
+                for (int i = start; i < temp.length; i++) {
+                    if (temp[i] == -1) continue;
+                    char ch = (char) temp[i];
+                    if (ch == '(' && (i == 0 || (char) temp[i - 1] != '(' || temp[i - 1] == -1)) {
+                        temp[i] = -1;
+                        find(open - 1, close, removed + 1, i);
+                        temp[i] = ch;
+                    } else if (ch == ')' && (i == 0 || (char) temp[i - 1] != ')' || temp[i - 1] == -1)) {
+                        temp[i] = -1;
+                        find(open, close - 1, removed + 1, i);
+                        temp[i] = ch;
+                    }
+                }
+            }
+        };
     }
-
-    char c = s.charAt(i); 
-    int len = sb.length();
-
-    if (c == '(' || c == ')') {
-        dfs(s, i + 1, res, sb, count - 1);		  
-    	dfs(s, i + 1, res, sb.append(c), count);      
-    } else {
-        dfs(s, i + 1, res, sb.append(c), count);	
-    }
-
-    sb.setLength(len);        
-}
 }
