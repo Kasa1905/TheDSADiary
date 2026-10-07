@@ -214,6 +214,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0322-coin-change](https://github.com/Kasa1905/TheDSADiary/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0327-count-of-range-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -373,6 +374,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0312-burst-balloons](https://github.com/Kasa1905/TheDSADiary/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Kasa1905/TheDSADiary/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
@@ -555,6 +557,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0257-binary-tree-paths](https://github.com/Kasa1905/TheDSADiary/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Kasa1905/TheDSADiary/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
@@ -947,6 +950,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0240-search-a-2d-matrix-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Kasa1905/TheDSADiary/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kasa1905/TheDSADiary/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -1064,6 +1068,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0301-remove-invalid-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/Kasa1905/TheDSADiary/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Kasa1905/TheDSADiary/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kasa1905/TheDSADiary/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -1074,6 +1079,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0207-course-schedule](https://github.com/Kasa1905/TheDSADiary/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Kasa1905/TheDSADiary/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
 ## Minimax
 |  |
@@ -1157,6 +1163,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0139-word-break](https://github.com/Kasa1905/TheDSADiary/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0241-different-ways-to-add-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -1265,10 +1272,12 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0207-course-schedule](https://github.com/Kasa1905/TheDSADiary/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Kasa1905/TheDSADiary/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Kasa1905/TheDSADiary/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## String Matching
 |  |
 | ------- |
