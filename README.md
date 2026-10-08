@@ -219,6 +219,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0332-reconstruct-itinerary](https://github.com/Kasa1905/TheDSADiary/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/Kasa1905/TheDSADiary/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0336-palindrome-pairs) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -607,6 +608,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0268-missing-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Kasa1905/TheDSADiary/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Kasa1905/TheDSADiary/tree/master/0299-bulls-and-cows) |
+| [0336-palindrome-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0336-palindrome-pairs) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -684,6 +686,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0318-maximum-product-of-word-lengths](https://github.com/Kasa1905/TheDSADiary/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Kasa1905/TheDSADiary/tree/master/0332-reconstruct-itinerary) |
+| [0336-palindrome-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0336-palindrome-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -1175,6 +1178,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0208-implement-trie-prefix-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Kasa1905/TheDSADiary/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0336-palindrome-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -1264,6 +1268,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0214-shortest-palindrome) |
+| [0336-palindrome-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0336-palindrome-pairs) |
 ## Z Algorithm
 |  |
 | ------- |
