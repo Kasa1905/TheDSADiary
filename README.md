@@ -217,6 +217,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/Kasa1905/TheDSADiary/tree/master/0332-reconstruct-itinerary) |
+| [0334-increasing-triplet-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0334-increasing-triplet-subsequence) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -422,6 +423,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0321-create-maximum-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1384,6 +1386,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0334-increasing-triplet-subsequence) |
 ## Treap
 |  |
 | ------- |
