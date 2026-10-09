@@ -543,6 +543,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0341-flatten-nested-list-iterator) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Depth-First Search
@@ -573,6 +574,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Kasa1905/TheDSADiary/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0341-flatten-nested-list-iterator) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
@@ -845,6 +847,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0316-remove-duplicate-letters](https://github.com/Kasa1905/TheDSADiary/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0321-create-maximum-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0341-flatten-nested-list-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/1021-remove-outermost-parentheses) |
@@ -1218,6 +1221,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0295-find-median-from-data-stream](https://github.com/Kasa1905/TheDSADiary/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0304-range-sum-query-2d-immutable) |
+| [0341-flatten-nested-list-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0341-flatten-nested-list-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1262,6 +1266,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0284-peeking-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0341-flatten-nested-list-iterator) |
 ## Database
 |  |
 | ------- |
@@ -1343,6 +1348,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0225-implement-stack-using-queues](https://github.com/Kasa1905/TheDSADiary/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Kasa1905/TheDSADiary/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Kasa1905/TheDSADiary/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0341-flatten-nested-list-iterator) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
