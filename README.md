@@ -305,6 +305,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0326-power-of-three](https://github.com/Kasa1905/TheDSADiary/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/Kasa1905/TheDSADiary/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/Kasa1905/TheDSADiary/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Kasa1905/TheDSADiary/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -384,6 +385,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/Kasa1905/TheDSADiary/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
