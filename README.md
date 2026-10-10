@@ -220,6 +220,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0334-increasing-triplet-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/Kasa1905/TheDSADiary/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -481,6 +482,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0295-find-median-from-data-stream](https://github.com/Kasa1905/TheDSADiary/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Kasa1905/TheDSADiary/tree/master/0332-reconstruct-itinerary) |
+| [0347-top-k-frequent-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -622,6 +624,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0290-word-pattern](https://github.com/Kasa1905/TheDSADiary/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Kasa1905/TheDSADiary/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0347-top-k-frequent-elements) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -928,6 +931,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0169-majority-element](https://github.com/Kasa1905/TheDSADiary/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Kasa1905/TheDSADiary/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/Kasa1905/TheDSADiary/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kasa1905/TheDSADiary/tree/master/3312-sorted-gcd-pair-queries) |
@@ -969,6 +973,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kasa1905/TheDSADiary/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0327-count-of-range-sum) |
+| [0347-top-k-frequent-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -1076,6 +1081,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0264-ugly-number-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Kasa1905/TheDSADiary/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/Kasa1905/TheDSADiary/tree/master/0332-reconstruct-itinerary) |
+| [0347-top-k-frequent-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kasa1905/TheDSADiary/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Game Theory
@@ -1266,6 +1272,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0164-maximum-gap](https://github.com/Kasa1905/TheDSADiary/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -1346,6 +1353,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0347-top-k-frequent-elements) |
 ## Binary Indexed Tree
 |  |
 | ------- |
