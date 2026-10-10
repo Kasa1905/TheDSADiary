@@ -458,6 +458,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0128-longest-consecutive-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Kasa1905/TheDSADiary/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/0200-number-of-islands) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
@@ -631,6 +632,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0347-top-k-frequent-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -776,6 +778,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0327-count-of-range-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kasa1905/TheDSADiary/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1179,6 +1182,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0220-contains-duplicate-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kasa1905/TheDSADiary/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kasa1905/TheDSADiary/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Quicksort
 |  |
@@ -1252,6 +1256,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0304-range-sum-query-2d-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0341-flatten-nested-list-iterator) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1437,6 +1442,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Kasa1905/TheDSADiary/tree/master/0295-find-median-from-data-stream) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
