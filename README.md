@@ -221,6 +221,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0335-self-crossing](https://github.com/Kasa1905/TheDSADiary/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -483,6 +484,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0324-wiggle-sort-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Kasa1905/TheDSADiary/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -625,6 +627,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0299-bulls-and-cows](https://github.com/Kasa1905/TheDSADiary/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0349-intersection-of-two-arrays) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -768,6 +771,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0300-longest-increasing-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kasa1905/TheDSADiary/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0327-count-of-range-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0349-intersection-of-two-arrays) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kasa1905/TheDSADiary/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -837,6 +841,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0321-create-maximum-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0349-intersection-of-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kasa1905/TheDSADiary/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
