@@ -314,6 +314,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0342-power-of-four](https://github.com/Kasa1905/TheDSADiary/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Kasa1905/TheDSADiary/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kasa1905/TheDSADiary/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/Kasa1905/TheDSADiary/tree/master/0365-water-and-jug-problem) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -596,6 +597,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0332-reconstruct-itinerary](https://github.com/Kasa1905/TheDSADiary/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0341-flatten-nested-list-iterator) |
+| [0365-water-and-jug-problem](https://github.com/Kasa1905/TheDSADiary/tree/master/0365-water-and-jug-problem) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
@@ -1148,6 +1150,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0310-minimum-height-trees](https://github.com/Kasa1905/TheDSADiary/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Kasa1905/TheDSADiary/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/Kasa1905/TheDSADiary/tree/master/0365-water-and-jug-problem) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kasa1905/TheDSADiary/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -1296,10 +1299,12 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Kasa1905/TheDSADiary/tree/master/0149-max-points-on-a-line) |
+| [0365-water-and-jug-problem](https://github.com/Kasa1905/TheDSADiary/tree/master/0365-water-and-jug-problem) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Kasa1905/TheDSADiary/tree/master/0149-max-points-on-a-line) |
+| [0365-water-and-jug-problem](https://github.com/Kasa1905/TheDSADiary/tree/master/0365-water-and-jug-problem) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1483,4 +1488,12 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Kasa1905/TheDSADiary/tree/master/0332-reconstruct-itinerary) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Kasa1905/TheDSADiary/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Kasa1905/TheDSADiary/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
