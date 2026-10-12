@@ -223,6 +223,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0347-top-k-frequent-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Kasa1905/TheDSADiary/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -787,6 +788,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0349-intersection-of-two-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Kasa1905/TheDSADiary/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kasa1905/TheDSADiary/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -966,6 +968,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0209-minimum-size-subarray-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Kasa1905/TheDSADiary/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0304-range-sum-query-2d-immutable) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Kasa1905/TheDSADiary/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kasa1905/TheDSADiary/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kasa1905/TheDSADiary/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1018,6 +1021,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0289-game-of-life](https://github.com/Kasa1905/TheDSADiary/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Kasa1905/TheDSADiary/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kasa1905/TheDSADiary/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -1195,6 +1199,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kasa1905/TheDSADiary/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Kasa1905/TheDSADiary/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kasa1905/TheDSADiary/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Quicksort
 |  |
