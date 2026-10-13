@@ -322,6 +322,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0368-largest-divisible-subset](https://github.com/Kasa1905/TheDSADiary/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Kasa1905/TheDSADiary/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/Kasa1905/TheDSADiary/tree/master/0372-super-pow) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -404,6 +405,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0343-integer-break](https://github.com/Kasa1905/TheDSADiary/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kasa1905/TheDSADiary/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Kasa1905/TheDSADiary/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -1136,6 +1138,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
@@ -1185,6 +1188,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Kasa1905/TheDSADiary/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Kasa1905/TheDSADiary/tree/master/1872-stone-game-viii) |
