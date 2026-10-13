@@ -320,6 +320,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0367-valid-perfect-square](https://github.com/Kasa1905/TheDSADiary/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Kasa1905/TheDSADiary/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Kasa1905/TheDSADiary/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/Kasa1905/TheDSADiary/tree/master/0372-super-pow) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -1013,6 +1014,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0324-wiggle-sort-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/Kasa1905/TheDSADiary/tree/master/0372-super-pow) |
 ## Matrix
 |  |
 | ------- |
@@ -1507,4 +1509,12 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Kasa1905/TheDSADiary/tree/master/0365-water-and-jug-problem) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Kasa1905/TheDSADiary/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Kasa1905/TheDSADiary/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
