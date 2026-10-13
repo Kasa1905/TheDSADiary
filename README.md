@@ -227,6 +227,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0368-largest-divisible-subset](https://github.com/Kasa1905/TheDSADiary/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Kasa1905/TheDSADiary/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0376-wiggle-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0376-wiggle-subsequence) |
+| [0377-combination-sum-iv](https://github.com/Kasa1905/TheDSADiary/tree/master/0377-combination-sum-iv) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -408,6 +409,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0368-largest-divisible-subset](https://github.com/Kasa1905/TheDSADiary/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0376-wiggle-subsequence) |
+| [0377-combination-sum-iv](https://github.com/Kasa1905/TheDSADiary/tree/master/0377-combination-sum-iv) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
