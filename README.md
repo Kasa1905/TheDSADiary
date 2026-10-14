@@ -330,6 +330,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kasa1905/TheDSADiary/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kasa1905/TheDSADiary/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/Kasa1905/TheDSADiary/tree/master/0382-linked-list-random-node) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -975,6 +976,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0237-delete-node-in-a-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/Kasa1905/TheDSADiary/tree/master/0355-design-twitter) |
+| [0382-linked-list-random-node](https://github.com/Kasa1905/TheDSADiary/tree/master/0382-linked-list-random-node) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kasa1905/TheDSADiary/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Combinatorics
 |  |
@@ -1550,4 +1552,9 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kasa1905/TheDSADiary/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kasa1905/TheDSADiary/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/Kasa1905/TheDSADiary/tree/master/0382-linked-list-random-node) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Kasa1905/TheDSADiary/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
