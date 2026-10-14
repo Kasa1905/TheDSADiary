@@ -229,6 +229,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0376-wiggle-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Kasa1905/TheDSADiary/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Kasa1905/TheDSADiary/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -326,6 +327,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0371-sum-of-two-integers](https://github.com/Kasa1905/TheDSADiary/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/Kasa1905/TheDSADiary/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Kasa1905/TheDSADiary/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -666,6 +668,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/Kasa1905/TheDSADiary/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Kasa1905/TheDSADiary/tree/master/0380-insert-delete-getrandom-o1) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -1311,6 +1314,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0341-flatten-nested-list-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0341-flatten-nested-list-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/Kasa1905/TheDSADiary/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Kasa1905/TheDSADiary/tree/master/0380-insert-delete-getrandom-o1) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1537,4 +1541,8 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/Kasa1905/TheDSADiary/tree/master/0372-super-pow) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Kasa1905/TheDSADiary/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
