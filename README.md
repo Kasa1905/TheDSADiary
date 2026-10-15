@@ -231,6 +231,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kasa1905/TheDSADiary/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kasa1905/TheDSADiary/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0384-shuffle-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0384-shuffle-an-array) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -331,6 +332,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0380-insert-delete-getrandom-o1](https://github.com/Kasa1905/TheDSADiary/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kasa1905/TheDSADiary/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/Kasa1905/TheDSADiary/tree/master/0382-linked-list-random-node) |
+| [0384-shuffle-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0384-shuffle-an-array) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -1324,6 +1326,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0355-design-twitter](https://github.com/Kasa1905/TheDSADiary/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kasa1905/TheDSADiary/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kasa1905/TheDSADiary/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0384-shuffle-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0384-shuffle-an-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1556,6 +1559,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0380-insert-delete-getrandom-o1](https://github.com/Kasa1905/TheDSADiary/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kasa1905/TheDSADiary/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/Kasa1905/TheDSADiary/tree/master/0382-linked-list-random-node) |
+| [0384-shuffle-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0384-shuffle-an-array) |
 ## Reservoir Sampling
 |  |
 | ------- |
