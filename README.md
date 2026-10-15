@@ -628,6 +628,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0337-house-robber-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/Kasa1905/TheDSADiary/tree/master/0365-water-and-jug-problem) |
+| [0385-mini-parser](https://github.com/Kasa1905/TheDSADiary/tree/master/0385-mini-parser) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
@@ -758,6 +759,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0344-reverse-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Kasa1905/TheDSADiary/tree/master/0383-ransom-note) |
+| [0385-mini-parser](https://github.com/Kasa1905/TheDSADiary/tree/master/0385-mini-parser) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -926,6 +928,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0321-create-maximum-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0321-create-maximum-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0341-flatten-nested-list-iterator) |
+| [0385-mini-parser](https://github.com/Kasa1905/TheDSADiary/tree/master/0385-mini-parser) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/1021-remove-outermost-parentheses) |
