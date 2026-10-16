@@ -679,6 +679,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0380-insert-delete-getrandom-o1](https://github.com/Kasa1905/TheDSADiary/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kasa1905/TheDSADiary/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/Kasa1905/TheDSADiary/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0387-first-unique-character-in-a-string) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -763,6 +764,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0345-reverse-vowels-of-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Kasa1905/TheDSADiary/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/Kasa1905/TheDSADiary/tree/master/0385-mini-parser) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -1004,6 +1006,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0299-bulls-and-cows](https://github.com/Kasa1905/TheDSADiary/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Kasa1905/TheDSADiary/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/Kasa1905/TheDSADiary/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kasa1905/TheDSADiary/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1467,6 +1470,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0232-implement-queue-using-stacks](https://github.com/Kasa1905/TheDSADiary/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Kasa1905/TheDSADiary/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0341-flatten-nested-list-iterator) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
