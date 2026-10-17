@@ -778,6 +778,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0387-first-unique-character-in-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/Kasa1905/TheDSADiary/tree/master/0388-longest-absolute-file-path) |
 | [0392-is-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -949,6 +950,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0341-flatten-nested-list-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/Kasa1905/TheDSADiary/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/Kasa1905/TheDSADiary/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/1021-remove-outermost-parentheses) |
@@ -1115,6 +1117,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0326-power-of-three](https://github.com/Kasa1905/TheDSADiary/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kasa1905/TheDSADiary/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 ## Enumeration
 |  |
