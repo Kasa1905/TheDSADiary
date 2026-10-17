@@ -233,6 +233,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kasa1905/TheDSADiary/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/Kasa1905/TheDSADiary/tree/master/0391-perfect-rectangle) |
+| [0393-utf-8-validation](https://github.com/Kasa1905/TheDSADiary/tree/master/0393-utf-8-validation) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -566,6 +567,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0338-counting-bits](https://github.com/Kasa1905/TheDSADiary/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Kasa1905/TheDSADiary/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Kasa1905/TheDSADiary/tree/master/0371-sum-of-two-integers) |
+| [0393-utf-8-validation](https://github.com/Kasa1905/TheDSADiary/tree/master/0393-utf-8-validation) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kasa1905/TheDSADiary/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
