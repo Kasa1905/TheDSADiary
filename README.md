@@ -335,6 +335,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kasa1905/TheDSADiary/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/Kasa1905/TheDSADiary/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0384-shuffle-an-array) |
+| [0390-elimination-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -1105,6 +1106,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0273-integer-to-english-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Kasa1905/TheDSADiary/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kasa1905/TheDSADiary/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 ## Enumeration
 |  |
