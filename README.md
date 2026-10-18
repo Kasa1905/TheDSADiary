@@ -695,6 +695,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0383-ransom-note](https://github.com/Kasa1905/TheDSADiary/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0387-first-unique-character-in-a-string) |
 | [0391-perfect-rectangle](https://github.com/Kasa1905/TheDSADiary/tree/master/0391-perfect-rectangle) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -784,6 +785,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0388-longest-absolute-file-path](https://github.com/Kasa1905/TheDSADiary/tree/master/0388-longest-absolute-file-path) |
 | [0392-is-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -820,6 +822,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0209-minimum-size-subarray-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0209-minimum-size-subarray-sum) |
 | [0220-contains-duplicate-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Kasa1905/TheDSADiary/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kasa1905/TheDSADiary/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kasa1905/TheDSADiary/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -1074,6 +1077,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0327-count-of-range-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/Kasa1905/TheDSADiary/tree/master/0372-super-pow) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Matrix
 |  |
