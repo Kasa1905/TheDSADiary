@@ -247,6 +247,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Kasa1905/TheDSADiary/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kasa1905/TheDSADiary/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Kasa1905/TheDSADiary/tree/master/1872-stone-game-viii) |
@@ -347,6 +348,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [1406-stone-game-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kasa1905/TheDSADiary/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Kasa1905/TheDSADiary/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kasa1905/TheDSADiary/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Kasa1905/TheDSADiary/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Kasa1905/TheDSADiary/tree/master/1927-sum-game) |
@@ -435,6 +437,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Kasa1905/TheDSADiary/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Kasa1905/TheDSADiary/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kasa1905/TheDSADiary/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Kasa1905/TheDSADiary/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kasa1905/TheDSADiary/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -499,6 +502,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0130-surrounded-regions](https://github.com/Kasa1905/TheDSADiary/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
@@ -605,6 +609,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0341-flatten-nested-list-iterator) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Depth-First Search
@@ -1011,6 +1016,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kasa1905/TheDSADiary/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kasa1905/TheDSADiary/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kasa1905/TheDSADiary/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kasa1905/TheDSADiary/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1068,6 +1074,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0327-count-of-range-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/Kasa1905/TheDSADiary/tree/master/0372-super-pow) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Matrix
 |  |
 | ------- |
@@ -1157,6 +1164,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0337-house-robber-iii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Interactive
 |  |
@@ -1301,6 +1309,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0173-binary-search-tree-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1327,6 +1336,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0140-word-break-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -1598,4 +1608,8 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Kasa1905/TheDSADiary/tree/master/0382-linked-list-random-node) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
