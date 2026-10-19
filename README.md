@@ -236,6 +236,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0393-utf-8-validation](https://github.com/Kasa1905/TheDSADiary/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/Kasa1905/TheDSADiary/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/Kasa1905/TheDSADiary/tree/master/0399-evaluate-division) |
+| [0403-frog-jump](https://github.com/Kasa1905/TheDSADiary/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -435,6 +436,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0377-combination-sum-iv](https://github.com/Kasa1905/TheDSADiary/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Kasa1905/TheDSADiary/tree/master/0396-rotate-function) |
+| [0403-frog-jump](https://github.com/Kasa1905/TheDSADiary/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
