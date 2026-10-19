@@ -343,6 +343,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0390-elimination-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/Kasa1905/TheDSADiary/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/Kasa1905/TheDSADiary/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/Kasa1905/TheDSADiary/tree/master/0398-random-pick-index) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -701,6 +702,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0387-first-unique-character-in-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0387-first-unique-character-in-a-string) |
 | [0391-perfect-rectangle](https://github.com/Kasa1905/TheDSADiary/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0398-random-pick-index](https://github.com/Kasa1905/TheDSADiary/tree/master/0398-random-pick-index) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -1614,10 +1616,12 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kasa1905/TheDSADiary/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/Kasa1905/TheDSADiary/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/Kasa1905/TheDSADiary/tree/master/0398-random-pick-index) |
 ## Reservoir Sampling
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Kasa1905/TheDSADiary/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/Kasa1905/TheDSADiary/tree/master/0398-random-pick-index) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
