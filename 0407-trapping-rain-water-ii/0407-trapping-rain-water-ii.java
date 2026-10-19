@@ -7,6 +7,8 @@ class Solution {
 
         PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> a[0] - b[0]);
         boolean[][] vis = new boolean[n][m];
+
+        // Add first and last column
         for (int i = 0; i < n; i++) {
             vis[i][0] = true;
             vis[i][m - 1] = true;
@@ -14,6 +16,7 @@ class Solution {
             pq.offer(new int[]{height[i][m - 1], i, m - 1});
         }
 
+        // Add first and last row
         for (int i = 0; i < m; i++) {
             vis[0][i] = true;
             vis[n - 1][i] = true;
