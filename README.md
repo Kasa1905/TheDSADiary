@@ -345,6 +345,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0391-perfect-rectangle](https://github.com/Kasa1905/TheDSADiary/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/Kasa1905/TheDSADiary/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Kasa1905/TheDSADiary/tree/master/0398-random-pick-index) |
+| [0400-nth-digit](https://github.com/Kasa1905/TheDSADiary/tree/master/0400-nth-digit) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -868,6 +869,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0367-valid-perfect-square](https://github.com/Kasa1905/TheDSADiary/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Kasa1905/TheDSADiary/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/Kasa1905/TheDSADiary/tree/master/0400-nth-digit) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kasa1905/TheDSADiary/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
