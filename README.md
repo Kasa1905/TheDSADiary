@@ -237,6 +237,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0396-rotate-function](https://github.com/Kasa1905/TheDSADiary/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/Kasa1905/TheDSADiary/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Kasa1905/TheDSADiary/tree/master/0403-frog-jump) |
+| [0406-queue-reconstruction-by-height](https://github.com/Kasa1905/TheDSADiary/tree/master/0406-queue-reconstruction-by-height) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -546,6 +547,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Kasa1905/TheDSADiary/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0406-queue-reconstruction-by-height](https://github.com/Kasa1905/TheDSADiary/tree/master/0406-queue-reconstruction-by-height) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -1209,6 +1211,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0218-the-skyline-problem](https://github.com/Kasa1905/TheDSADiary/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kasa1905/TheDSADiary/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0327-count-of-range-sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/Kasa1905/TheDSADiary/tree/master/0406-queue-reconstruction-by-height) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kasa1905/TheDSADiary/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -1523,6 +1526,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0218-the-skyline-problem](https://github.com/Kasa1905/TheDSADiary/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kasa1905/TheDSADiary/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0327-count-of-range-sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/Kasa1905/TheDSADiary/tree/master/0406-queue-reconstruction-by-height) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Sweep Line
 |  |
