@@ -482,6 +482,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0330-patching-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0376-wiggle-subsequence) |
+| [0402-remove-k-digits](https://github.com/Kasa1905/TheDSADiary/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -799,6 +800,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0394-decode-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/Kasa1905/TheDSADiary/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/Kasa1905/TheDSADiary/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -975,6 +977,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0385-mini-parser](https://github.com/Kasa1905/TheDSADiary/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/Kasa1905/TheDSADiary/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Kasa1905/TheDSADiary/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/1021-remove-outermost-parentheses) |
@@ -990,6 +993,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0084-largest-rectangle-in-histogram](https://github.com/Kasa1905/TheDSADiary/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Kasa1905/TheDSADiary/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0321-create-maximum-number) |
+| [0402-remove-k-digits](https://github.com/Kasa1905/TheDSADiary/tree/master/0402-remove-k-digits) |
 ## Simulation
 |  |
 | ------- |
