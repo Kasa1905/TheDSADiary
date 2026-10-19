@@ -238,6 +238,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0399-evaluate-division](https://github.com/Kasa1905/TheDSADiary/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Kasa1905/TheDSADiary/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/Kasa1905/TheDSADiary/tree/master/0406-queue-reconstruction-by-height) |
+| [0407-trapping-rain-water-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0407-trapping-rain-water-ii) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1131,6 +1132,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Kasa1905/TheDSADiary/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0407-trapping-rain-water-ii) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kasa1905/TheDSADiary/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -1229,6 +1231,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0355-design-twitter](https://github.com/Kasa1905/TheDSADiary/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Kasa1905/TheDSADiary/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0407-trapping-rain-water-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kasa1905/TheDSADiary/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Game Theory
@@ -1270,6 +1273,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0365-water-and-jug-problem](https://github.com/Kasa1905/TheDSADiary/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/Kasa1905/TheDSADiary/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Kasa1905/TheDSADiary/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0407-trapping-rain-water-ii) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kasa1905/TheDSADiary/tree/master/3568-minimum-moves-to-clean-the-classroom) |
