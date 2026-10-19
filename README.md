@@ -488,6 +488,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0334-increasing-triplet-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/Kasa1905/TheDSADiary/tree/master/0402-remove-k-digits) |
+| [0409-longest-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -718,6 +719,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0391-perfect-rectangle](https://github.com/Kasa1905/TheDSADiary/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/Kasa1905/TheDSADiary/tree/master/0398-random-pick-index) |
+| [0409-longest-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0409-longest-palindrome) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -811,6 +813,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0399-evaluate-division](https://github.com/Kasa1905/TheDSADiary/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Kasa1905/TheDSADiary/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Kasa1905/TheDSADiary/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0409-longest-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
