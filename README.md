@@ -240,6 +240,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0406-queue-reconstruction-by-height](https://github.com/Kasa1905/TheDSADiary/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/Kasa1905/TheDSADiary/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -445,6 +446,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0396-rotate-function](https://github.com/Kasa1905/TheDSADiary/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Kasa1905/TheDSADiary/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/Kasa1905/TheDSADiary/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -859,6 +861,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0220-contains-duplicate-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Kasa1905/TheDSADiary/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/Kasa1905/TheDSADiary/tree/master/0413-arithmetic-slices) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kasa1905/TheDSADiary/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kasa1905/TheDSADiary/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
