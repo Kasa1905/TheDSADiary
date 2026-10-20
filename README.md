@@ -245,6 +245,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0416-partition-equal-subset-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Kasa1905/TheDSADiary/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Kasa1905/TheDSADiary/tree/master/0419-battleships-in-a-board) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -608,6 +609,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0393-utf-8-validation](https://github.com/Kasa1905/TheDSADiary/tree/master/0393-utf-8-validation) |
 | [0401-binary-watch](https://github.com/Kasa1905/TheDSADiary/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Kasa1905/TheDSADiary/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kasa1905/TheDSADiary/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -739,6 +741,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/Kasa1905/TheDSADiary/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0409-longest-palindrome) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -1406,6 +1409,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0212-word-search-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0386-lexicographical-numbers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Memoization
 |  |
 | ------- |
