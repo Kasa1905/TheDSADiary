@@ -360,6 +360,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Kasa1905/TheDSADiary/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Kasa1905/TheDSADiary/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/0415-add-strings) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Kasa1905/TheDSADiary/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -742,6 +743,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0398-random-pick-index](https://github.com/Kasa1905/TheDSADiary/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Kasa1905/TheDSADiary/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -839,6 +841,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0412-fizz-buzz](https://github.com/Kasa1905/TheDSADiary/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/Kasa1905/TheDSADiary/tree/master/0420-strong-password-checker) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Kasa1905/TheDSADiary/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
