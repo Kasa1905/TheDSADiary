@@ -242,6 +242,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0410-split-array-largest-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Kasa1905/TheDSADiary/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -449,6 +450,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0403-frog-jump](https://github.com/Kasa1905/TheDSADiary/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Kasa1905/TheDSADiary/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -1606,6 +1608,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0279-perfect-squares](https://github.com/Kasa1905/TheDSADiary/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Kasa1905/TheDSADiary/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1692,4 +1695,8 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Kasa1905/TheDSADiary/tree/master/0399-evaluate-division) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
