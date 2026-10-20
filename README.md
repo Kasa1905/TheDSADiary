@@ -241,6 +241,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0407-trapping-rain-water-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Kasa1905/TheDSADiary/tree/master/0413-arithmetic-slices) |
+| [0414-third-maximum-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -558,6 +559,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0368-largest-divisible-subset](https://github.com/Kasa1905/TheDSADiary/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0406-queue-reconstruction-by-height](https://github.com/Kasa1905/TheDSADiary/tree/master/0406-queue-reconstruction-by-height) |
+| [0414-third-maximum-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
