@@ -247,6 +247,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0419-battleships-in-a-board](https://github.com/Kasa1905/TheDSADiary/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0427-construct-quad-tree) |
+| [0435-non-overlapping-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -457,6 +458,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0410-split-array-largest-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Kasa1905/TheDSADiary/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -508,6 +510,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0409-longest-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/Kasa1905/TheDSADiary/tree/master/0420-strong-password-checker) |
+| [0435-non-overlapping-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -570,6 +573,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0406-queue-reconstruction-by-height](https://github.com/Kasa1905/TheDSADiary/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
