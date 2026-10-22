@@ -750,6 +750,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Kasa1905/TheDSADiary/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kasa1905/TheDSADiary/tree/master/0424-longest-repeating-character-replacement) |
+| [0432-all-oone-data-structure](https://github.com/Kasa1905/TheDSADiary/tree/master/0432-all-oone-data-structure) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -1089,6 +1090,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0355-design-twitter](https://github.com/Kasa1905/TheDSADiary/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/Kasa1905/TheDSADiary/tree/master/0382-linked-list-random-node) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/Kasa1905/TheDSADiary/tree/master/0432-all-oone-data-structure) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kasa1905/TheDSADiary/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Combinatorics
 |  |
@@ -1464,11 +1466,13 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0380-insert-delete-getrandom-o1](https://github.com/Kasa1905/TheDSADiary/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kasa1905/TheDSADiary/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0384-shuffle-an-array) |
+| [0432-all-oone-data-structure](https://github.com/Kasa1905/TheDSADiary/tree/master/0432-all-oone-data-structure) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Kasa1905/TheDSADiary/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/Kasa1905/TheDSADiary/tree/master/0432-all-oone-data-structure) |
 ## Merge Sort
 |  |
 | ------- |
