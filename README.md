@@ -366,6 +366,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0412-fizz-buzz](https://github.com/Kasa1905/TheDSADiary/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Kasa1905/TheDSADiary/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0441-arranging-coins](https://github.com/Kasa1905/TheDSADiary/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -945,6 +946,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0400-nth-digit](https://github.com/Kasa1905/TheDSADiary/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Kasa1905/TheDSADiary/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/Kasa1905/TheDSADiary/tree/master/0441-arranging-coins) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kasa1905/TheDSADiary/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
