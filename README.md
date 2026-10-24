@@ -870,6 +870,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0433-minimum-genetic-mutation](https://github.com/Kasa1905/TheDSADiary/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/Kasa1905/TheDSADiary/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -1025,6 +1026,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0349-intersection-of-two-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Kasa1905/TheDSADiary/tree/master/0443-string-compression) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kasa1905/TheDSADiary/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
