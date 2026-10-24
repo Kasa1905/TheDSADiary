@@ -1450,6 +1450,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0336-palindrome-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Kasa1905/TheDSADiary/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Memoization
 |  |
 | ------- |
