@@ -369,6 +369,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0415-add-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Kasa1905/TheDSADiary/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/Kasa1905/TheDSADiary/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -1060,6 +1061,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0388-longest-absolute-file-path](https://github.com/Kasa1905/TheDSADiary/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Kasa1905/TheDSADiary/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/1021-remove-outermost-parentheses) |
@@ -1120,6 +1122,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0382-linked-list-random-node](https://github.com/Kasa1905/TheDSADiary/tree/master/0382-linked-list-random-node) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Kasa1905/TheDSADiary/tree/master/0432-all-oone-data-structure) |
+| [0445-add-two-numbers-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0445-add-two-numbers-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kasa1905/TheDSADiary/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Combinatorics
 |  |
