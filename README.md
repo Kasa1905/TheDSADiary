@@ -257,6 +257,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/1406-stone-game-iii) |
@@ -544,6 +545,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0200-number-of-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0399-evaluate-division](https://github.com/Kasa1905/TheDSADiary/tree/master/0399-evaluate-division) |
+| [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
@@ -708,6 +710,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0419-battleships-in-a-board](https://github.com/Kasa1905/TheDSADiary/tree/master/0419-battleships-in-a-board) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0437-path-sum-iii) |
+| [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
@@ -1212,6 +1215,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0419-battleships-in-a-board](https://github.com/Kasa1905/TheDSADiary/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0427-construct-quad-tree) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kasa1905/TheDSADiary/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kasa1905/TheDSADiary/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -1359,6 +1363,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0433-minimum-genetic-mutation](https://github.com/Kasa1905/TheDSADiary/tree/master/0433-minimum-genetic-mutation) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kasa1905/TheDSADiary/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
