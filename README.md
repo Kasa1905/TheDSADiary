@@ -589,6 +589,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0435-non-overlapping-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Kasa1905/TheDSADiary/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Kasa1905/TheDSADiary/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -782,6 +783,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Kasa1905/TheDSADiary/tree/master/0451-sort-characters-by-frequency) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -886,6 +888,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Kasa1905/TheDSADiary/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0449-serialize-and-deserialize-bst) |
+| [0451-sort-characters-by-frequency](https://github.com/Kasa1905/TheDSADiary/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -1153,6 +1156,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0347-top-k-frequent-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Kasa1905/TheDSADiary/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Kasa1905/TheDSADiary/tree/master/0451-sort-characters-by-frequency) |
 | [2029-stone-game-ix](https://github.com/Kasa1905/TheDSADiary/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kasa1905/TheDSADiary/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1334,6 +1338,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/Kasa1905/TheDSADiary/tree/master/0420-strong-password-checker) |
+| [0451-sort-characters-by-frequency](https://github.com/Kasa1905/TheDSADiary/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kasa1905/TheDSADiary/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Game Theory
@@ -1560,6 +1565,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0164-maximum-gap](https://github.com/Kasa1905/TheDSADiary/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Kasa1905/TheDSADiary/tree/master/0451-sort-characters-by-frequency) |
 ## Radix Sort
 |  |
 | ------- |
