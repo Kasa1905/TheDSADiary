@@ -675,6 +675,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0450-delete-node-in-a-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -1299,6 +1300,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0404-sum-of-left-leaves](https://github.com/Kasa1905/TheDSADiary/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0450-delete-node-in-a-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Interactive
@@ -1458,6 +1460,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0450-delete-node-in-a-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## DP on Trees
 |  |
