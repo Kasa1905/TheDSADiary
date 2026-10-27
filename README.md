@@ -255,6 +255,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kasa1905/TheDSADiary/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0454-4sum-ii) |
+| [0455-assign-cookies](https://github.com/Kasa1905/TheDSADiary/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -527,6 +528,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0420-strong-password-checker](https://github.com/Kasa1905/TheDSADiary/tree/master/0420-strong-password-checker) |
 | [0435-non-overlapping-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kasa1905/TheDSADiary/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0455-assign-cookies](https://github.com/Kasa1905/TheDSADiary/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -596,6 +598,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Kasa1905/TheDSADiary/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kasa1905/TheDSADiary/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0455-assign-cookies](https://github.com/Kasa1905/TheDSADiary/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -1052,6 +1055,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Kasa1905/TheDSADiary/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/Kasa1905/TheDSADiary/tree/master/0455-assign-cookies) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kasa1905/TheDSADiary/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -1453,6 +1457,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kasa1905/TheDSADiary/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/Kasa1905/TheDSADiary/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
