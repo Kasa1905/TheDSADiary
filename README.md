@@ -257,6 +257,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0454-4sum-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/Kasa1905/TheDSADiary/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Kasa1905/TheDSADiary/tree/master/0456-132-pattern) |
+| [0457-circular-array-loop](https://github.com/Kasa1905/TheDSADiary/tree/master/0457-circular-array-loop) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -795,6 +796,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Kasa1905/TheDSADiary/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0454-4sum-ii) |
+| [0457-circular-array-loop](https://github.com/Kasa1905/TheDSADiary/tree/master/0457-circular-array-loop) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -1058,6 +1060,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0392-is-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Kasa1905/TheDSADiary/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Kasa1905/TheDSADiary/tree/master/0455-assign-cookies) |
+| [0457-circular-array-loop](https://github.com/Kasa1905/TheDSADiary/tree/master/0457-circular-array-loop) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kasa1905/TheDSADiary/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -1524,6 +1527,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0142-linked-list-cycle-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0287-find-the-duplicate-number) |
+| [0457-circular-array-loop](https://github.com/Kasa1905/TheDSADiary/tree/master/0457-circular-array-loop) |
 ## Design
 |  |
 | ------- |
