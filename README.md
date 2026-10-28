@@ -648,6 +648,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0401-binary-watch](https://github.com/Kasa1905/TheDSADiary/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Kasa1905/TheDSADiary/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0461-hamming-distance](https://github.com/Kasa1905/TheDSADiary/tree/master/0461-hamming-distance) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kasa1905/TheDSADiary/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
