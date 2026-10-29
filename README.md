@@ -386,6 +386,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/Kasa1905/TheDSADiary/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0464-can-i-win](https://github.com/Kasa1905/TheDSADiary/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -484,6 +485,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0435-non-overlapping-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/Kasa1905/TheDSADiary/tree/master/0458-poor-pigs) |
+| [0464-can-i-win](https://github.com/Kasa1905/TheDSADiary/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -654,6 +656,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Kasa1905/TheDSADiary/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/Kasa1905/TheDSADiary/tree/master/0461-hamming-distance) |
+| [0464-can-i-win](https://github.com/Kasa1905/TheDSADiary/tree/master/0464-can-i-win) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kasa1905/TheDSADiary/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -1388,6 +1391,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0292-nim-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0464-can-i-win](https://github.com/Kasa1905/TheDSADiary/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
@@ -1541,6 +1545,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0140-word-break-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0464-can-i-win](https://github.com/Kasa1905/TheDSADiary/tree/master/0464-can-i-win) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brute-Force Search
 |  |
@@ -1849,4 +1854,8 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0416-partition-equal-subset-sum) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Kasa1905/TheDSADiary/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
