@@ -309,6 +309,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kasa1905/TheDSADiary/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kasa1905/TheDSADiary/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Kasa1905/TheDSADiary/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -658,6 +659,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kasa1905/TheDSADiary/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Kasa1905/TheDSADiary/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kasa1905/TheDSADiary/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
@@ -697,6 +699,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -742,6 +745,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kasa1905/TheDSADiary/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -938,6 +942,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kasa1905/TheDSADiary/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kasa1905/TheDSADiary/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
@@ -1233,6 +1238,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0427-construct-quad-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0427-construct-quad-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -1352,6 +1358,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1692,6 +1699,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0327-count-of-range-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/Kasa1905/TheDSADiary/tree/master/0406-queue-reconstruction-by-height) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sweep Line
 |  |
 | ------- |
