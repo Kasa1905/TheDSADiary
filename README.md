@@ -926,6 +926,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0459-repeated-substring-pattern](https://github.com/Kasa1905/TheDSADiary/tree/master/0459-repeated-substring-pattern) |
 | [0466-count-the-repetitions](https://github.com/Kasa1905/TheDSADiary/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0468-validate-ip-address](https://github.com/Kasa1905/TheDSADiary/tree/master/0468-validate-ip-address) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
