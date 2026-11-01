@@ -260,6 +260,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0457-circular-array-loop](https://github.com/Kasa1905/TheDSADiary/tree/master/0457-circular-array-loop) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Kasa1905/TheDSADiary/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -490,6 +491,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0464-can-i-win](https://github.com/Kasa1905/TheDSADiary/tree/master/0464-can-i-win) |
 | [0466-count-the-repetitions](https://github.com/Kasa1905/TheDSADiary/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0472-concatenated-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -617,6 +619,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kasa1905/TheDSADiary/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Kasa1905/TheDSADiary/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0472-concatenated-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0472-concatenated-words) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -753,6 +756,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0437-path-sum-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/Kasa1905/TheDSADiary/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0472-concatenated-words) |
 | [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -930,6 +934,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0466-count-the-repetitions](https://github.com/Kasa1905/TheDSADiary/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/Kasa1905/TheDSADiary/tree/master/0468-validate-ip-address) |
+| [0472-concatenated-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0472-concatenated-words) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -1551,6 +1556,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0386-lexicographical-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Kasa1905/TheDSADiary/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0472-concatenated-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0472-concatenated-words) |
 ## Memoization
 |  |
 | ------- |
