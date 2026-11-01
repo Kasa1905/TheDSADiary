@@ -1,12 +1,13 @@
 class Solution {
     public int minMoves(int[] nums) {
-        int minElement = Arrays.stream(nums).min().getAsInt();
-        int moves = 0;
-        
+        int min = nums[0];
+        int sum = 0;
         for (int num : nums) {
-            moves += (num - minElement);
+            if (num < min) {
+                min = num;
+            }
+            sum += num;
         }
-        
-        return moves;
+        return sum - (min * nums.length);
     }
 }
