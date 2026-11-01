@@ -262,6 +262,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0463-island-perimeter](https://github.com/Kasa1905/TheDSADiary/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Kasa1905/TheDSADiary/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/Kasa1905/TheDSADiary/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -494,6 +495,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Kasa1905/TheDSADiary/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/Kasa1905/TheDSADiary/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -938,6 +940,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/Kasa1905/TheDSADiary/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/Kasa1905/TheDSADiary/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -1787,6 +1790,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0279-perfect-squares](https://github.com/Kasa1905/TheDSADiary/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Kasa1905/TheDSADiary/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Kasa1905/TheDSADiary/tree/master/0474-ones-and-zeroes) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1879,6 +1883,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Kasa1905/TheDSADiary/tree/master/0474-ones-and-zeroes) |
 ## Bitmask
 |  |
 | ------- |
