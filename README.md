@@ -263,6 +263,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0472-concatenated-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Kasa1905/TheDSADiary/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Kasa1905/TheDSADiary/tree/master/0474-ones-and-zeroes) |
+| [0475-heaters](https://github.com/Kasa1905/TheDSADiary/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -624,6 +625,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0455-assign-cookies](https://github.com/Kasa1905/TheDSADiary/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0472-concatenated-words) |
+| [0475-heaters](https://github.com/Kasa1905/TheDSADiary/tree/master/0475-heaters) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -1024,6 +1026,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0436-find-right-interval](https://github.com/Kasa1905/TheDSADiary/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/Kasa1905/TheDSADiary/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Kasa1905/TheDSADiary/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/Kasa1905/TheDSADiary/tree/master/0475-heaters) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kasa1905/TheDSADiary/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1104,6 +1107,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0455-assign-cookies](https://github.com/Kasa1905/TheDSADiary/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/Kasa1905/TheDSADiary/tree/master/0457-circular-array-loop) |
 | [0466-count-the-repetitions](https://github.com/Kasa1905/TheDSADiary/tree/master/0466-count-the-repetitions) |
+| [0475-heaters](https://github.com/Kasa1905/TheDSADiary/tree/master/0475-heaters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kasa1905/TheDSADiary/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
