@@ -261,6 +261,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Kasa1905/TheDSADiary/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/Kasa1905/TheDSADiary/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
@@ -492,6 +493,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0466-count-the-repetitions](https://github.com/Kasa1905/TheDSADiary/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/Kasa1905/TheDSADiary/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -665,6 +667,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/Kasa1905/TheDSADiary/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/Kasa1905/TheDSADiary/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/Kasa1905/TheDSADiary/tree/master/0473-matchsticks-to-square) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kasa1905/TheDSADiary/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -1056,6 +1059,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0306-additive-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kasa1905/TheDSADiary/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/Kasa1905/TheDSADiary/tree/master/0401-binary-watch) |
+| [0473-matchsticks-to-square](https://github.com/Kasa1905/TheDSADiary/tree/master/0473-matchsticks-to-square) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
@@ -1879,6 +1883,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Kasa1905/TheDSADiary/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/Kasa1905/TheDSADiary/tree/master/0473-matchsticks-to-square) |
 ## Rejection Sampling
 |  |
 | ------- |
