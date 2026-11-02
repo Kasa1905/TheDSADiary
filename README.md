@@ -396,6 +396,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0470-implement-rand10-using-rand7](https://github.com/Kasa1905/TheDSADiary/tree/master/0470-implement-rand10-using-rand7) |
 | [0477-total-hamming-distance](https://github.com/Kasa1905/TheDSADiary/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Kasa1905/TheDSADiary/tree/master/0478-generate-random-point-in-a-circle) |
+| [0479-largest-palindrome-product](https://github.com/Kasa1905/TheDSADiary/tree/master/0479-largest-palindrome-product) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -1342,6 +1343,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Kasa1905/TheDSADiary/tree/master/0204-count-primes) |
+| [0479-largest-palindrome-product](https://github.com/Kasa1905/TheDSADiary/tree/master/0479-largest-palindrome-product) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3499-maximize-active-section-with-trade-i) |
