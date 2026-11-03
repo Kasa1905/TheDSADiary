@@ -266,6 +266,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0475-heaters](https://github.com/Kasa1905/TheDSADiary/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/Kasa1905/TheDSADiary/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/Kasa1905/TheDSADiary/tree/master/0480-sliding-window-median) |
+| [0485-max-consecutive-ones](https://github.com/Kasa1905/TheDSADiary/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
