@@ -951,6 +951,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0468-validate-ip-address](https://github.com/Kasa1905/TheDSADiary/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Kasa1905/TheDSADiary/tree/master/0474-ones-and-zeroes) |
+| [0481-magical-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0481-magical-string) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -1117,6 +1118,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0457-circular-array-loop](https://github.com/Kasa1905/TheDSADiary/tree/master/0457-circular-array-loop) |
 | [0466-count-the-repetitions](https://github.com/Kasa1905/TheDSADiary/tree/master/0466-count-the-repetitions) |
 | [0475-heaters](https://github.com/Kasa1905/TheDSADiary/tree/master/0475-heaters) |
+| [0481-magical-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0481-magical-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kasa1905/TheDSADiary/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
