@@ -507,6 +507,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0473-matchsticks-to-square](https://github.com/Kasa1905/TheDSADiary/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Kasa1905/TheDSADiary/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
+| [0488-zuma-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0488-zuma-game) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -959,6 +960,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0474-ones-and-zeroes](https://github.com/Kasa1905/TheDSADiary/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Kasa1905/TheDSADiary/tree/master/0482-license-key-formatting) |
+| [0488-zuma-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0488-zuma-game) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -1160,6 +1162,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0402-remove-k-digits](https://github.com/Kasa1905/TheDSADiary/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Kasa1905/TheDSADiary/tree/master/0456-132-pattern) |
+| [0488-zuma-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0488-zuma-game) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/1021-remove-outermost-parentheses) |
@@ -1483,6 +1486,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0433-minimum-genetic-mutation](https://github.com/Kasa1905/TheDSADiary/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/Kasa1905/TheDSADiary/tree/master/0463-island-perimeter) |
+| [0488-zuma-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0488-zuma-game) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
@@ -1599,6 +1603,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0241-different-ways-to-add-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0464-can-i-win](https://github.com/Kasa1905/TheDSADiary/tree/master/0464-can-i-win) |
+| [0488-zuma-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0488-zuma-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brute-Force Search
 |  |
