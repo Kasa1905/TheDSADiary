@@ -269,6 +269,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0485-max-consecutive-ones](https://github.com/Kasa1905/TheDSADiary/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0491-non-decreasing-subsequences) |
+| [0493-reverse-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0493-reverse-pairs) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
@@ -1052,6 +1053,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0456-132-pattern](https://github.com/Kasa1905/TheDSADiary/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Kasa1905/TheDSADiary/tree/master/0475-heaters) |
 | [0483-smallest-good-base](https://github.com/Kasa1905/TheDSADiary/tree/master/0483-smallest-good-base) |
+| [0493-reverse-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0493-reverse-pairs) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kasa1905/TheDSADiary/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1299,6 +1301,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0372-super-pow](https://github.com/Kasa1905/TheDSADiary/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0427-construct-quad-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0427-construct-quad-tree) |
+| [0493-reverse-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0493-reverse-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Matrix
@@ -1419,6 +1422,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kasa1905/TheDSADiary/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/Kasa1905/TheDSADiary/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kasa1905/TheDSADiary/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -1550,6 +1554,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Kasa1905/TheDSADiary/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Kasa1905/TheDSADiary/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kasa1905/TheDSADiary/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Quicksort
 |  |
@@ -1657,6 +1662,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0148-sort-list](https://github.com/Kasa1905/TheDSADiary/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kasa1905/TheDSADiary/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0493-reverse-pairs) |
 ## Geometry
 |  |
 | ------- |
@@ -1774,6 +1780,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kasa1905/TheDSADiary/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/Kasa1905/TheDSADiary/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0493-reverse-pairs) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sweep Line
@@ -1859,6 +1866,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kasa1905/TheDSADiary/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0327-count-of-range-sum) |
 | [0480-sliding-window-median](https://github.com/Kasa1905/TheDSADiary/tree/master/0480-sliding-window-median) |
+| [0493-reverse-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0493-reverse-pairs) |
 ## Eulerian Circuit
 |  |
 | ------- |
