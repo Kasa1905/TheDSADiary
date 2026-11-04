@@ -403,6 +403,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0479-largest-palindrome-product](https://github.com/Kasa1905/TheDSADiary/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/Kasa1905/TheDSADiary/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
+| [0492-construct-the-rectangle](https://github.com/Kasa1905/TheDSADiary/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
