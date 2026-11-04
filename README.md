@@ -268,6 +268,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0480-sliding-window-median](https://github.com/Kasa1905/TheDSADiary/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/Kasa1905/TheDSADiary/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0491-non-decreasing-subsequences) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
@@ -685,6 +686,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0473-matchsticks-to-square](https://github.com/Kasa1905/TheDSADiary/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/Kasa1905/TheDSADiary/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/Kasa1905/TheDSADiary/tree/master/0477-total-hamming-distance) |
+| [0491-non-decreasing-subsequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0491-non-decreasing-subsequences) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kasa1905/TheDSADiary/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -846,6 +848,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0457-circular-array-loop](https://github.com/Kasa1905/TheDSADiary/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/Kasa1905/TheDSADiary/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/Kasa1905/TheDSADiary/tree/master/0480-sliding-window-median) |
+| [0491-non-decreasing-subsequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0491-non-decreasing-subsequences) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -1087,6 +1090,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0357-count-numbers-with-unique-digits](https://github.com/Kasa1905/TheDSADiary/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/Kasa1905/TheDSADiary/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/Kasa1905/TheDSADiary/tree/master/0473-matchsticks-to-square) |
+| [0491-non-decreasing-subsequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0491-non-decreasing-subsequences) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
