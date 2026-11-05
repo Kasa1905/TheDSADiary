@@ -273,6 +273,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0494-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/Kasa1905/TheDSADiary/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Kasa1905/TheDSADiary/tree/master/0496-next-greater-element-i) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Kasa1905/TheDSADiary/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
@@ -409,6 +410,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0483-smallest-good-base](https://github.com/Kasa1905/TheDSADiary/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Kasa1905/TheDSADiary/tree/master/0492-construct-the-rectangle) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Kasa1905/TheDSADiary/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
@@ -1061,6 +1063,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0475-heaters](https://github.com/Kasa1905/TheDSADiary/tree/master/0475-heaters) |
 | [0483-smallest-good-base](https://github.com/Kasa1905/TheDSADiary/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0493-reverse-pairs) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Kasa1905/TheDSADiary/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -1280,6 +1283,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0304-range-sum-query-2d-immutable](https://github.com/Kasa1905/TheDSADiary/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Kasa1905/TheDSADiary/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0410-split-array-largest-sum) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Kasa1905/TheDSADiary/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kasa1905/TheDSADiary/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kasa1905/TheDSADiary/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1568,6 +1572,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Kasa1905/TheDSADiary/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Kasa1905/TheDSADiary/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0493-reverse-pairs) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Kasa1905/TheDSADiary/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kasa1905/TheDSADiary/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Quicksort
 |  |
@@ -1919,11 +1924,13 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0398-random-pick-index](https://github.com/Kasa1905/TheDSADiary/tree/master/0398-random-pick-index) |
 | [0470-implement-rand10-using-rand7](https://github.com/Kasa1905/TheDSADiary/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Kasa1905/TheDSADiary/tree/master/0478-generate-random-point-in-a-circle) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Kasa1905/TheDSADiary/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Reservoir Sampling
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Kasa1905/TheDSADiary/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Kasa1905/TheDSADiary/tree/master/0398-random-pick-index) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Kasa1905/TheDSADiary/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
