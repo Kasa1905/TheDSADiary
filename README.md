@@ -271,6 +271,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0491-non-decreasing-subsequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/Kasa1905/TheDSADiary/tree/master/0495-teemo-attacking) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
@@ -1203,6 +1204,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0289-game-of-life](https://github.com/Kasa1905/TheDSADiary/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Kasa1905/TheDSADiary/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/Kasa1905/TheDSADiary/tree/master/0495-teemo-attacking) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/3498-reverse-degree-of-a-string) |
