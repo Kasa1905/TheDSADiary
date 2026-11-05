@@ -274,6 +274,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0495-teemo-attacking](https://github.com/Kasa1905/TheDSADiary/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Kasa1905/TheDSADiary/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Kasa1905/TheDSADiary/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0498-diagonal-traverse](https://github.com/Kasa1905/TheDSADiary/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
@@ -1212,6 +1213,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0412-fizz-buzz](https://github.com/Kasa1905/TheDSADiary/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/Kasa1905/TheDSADiary/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/Kasa1905/TheDSADiary/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/3498-reverse-degree-of-a-string) |
@@ -1349,6 +1351,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0419-battleships-in-a-board](https://github.com/Kasa1905/TheDSADiary/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/Kasa1905/TheDSADiary/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/Kasa1905/TheDSADiary/tree/master/0498-diagonal-traverse) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
