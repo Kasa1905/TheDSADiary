@@ -277,6 +277,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0498-diagonal-traverse](https://github.com/Kasa1905/TheDSADiary/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Kasa1905/TheDSADiary/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/Kasa1905/TheDSADiary/tree/master/0502-ipo) |
+| [0503-next-greater-element-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
@@ -1197,6 +1198,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0456-132-pattern](https://github.com/Kasa1905/TheDSADiary/tree/master/0456-132-pattern) |
 | [0488-zuma-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0488-zuma-game) |
 | [0496-next-greater-element-i](https://github.com/Kasa1905/TheDSADiary/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/1021-remove-outermost-parentheses) |
@@ -1215,6 +1217,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0402-remove-k-digits](https://github.com/Kasa1905/TheDSADiary/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Kasa1905/TheDSADiary/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Kasa1905/TheDSADiary/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0503-next-greater-element-ii) |
 ## Simulation
 |  |
 | ------- |
