@@ -275,6 +275,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0496-next-greater-element-i](https://github.com/Kasa1905/TheDSADiary/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Kasa1905/TheDSADiary/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/Kasa1905/TheDSADiary/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/Kasa1905/TheDSADiary/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
@@ -863,6 +864,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0480-sliding-window-median](https://github.com/Kasa1905/TheDSADiary/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Kasa1905/TheDSADiary/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Kasa1905/TheDSADiary/tree/master/0500-keyboard-row) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -979,6 +981,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0481-magical-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Kasa1905/TheDSADiary/tree/master/0482-license-key-formatting) |
 | [0488-zuma-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0488-zuma-game) |
+| [0500-keyboard-row](https://github.com/Kasa1905/TheDSADiary/tree/master/0500-keyboard-row) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
