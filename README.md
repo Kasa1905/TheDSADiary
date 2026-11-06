@@ -416,6 +416,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0486-predict-the-winner](https://github.com/Kasa1905/TheDSADiary/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Kasa1905/TheDSADiary/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Kasa1905/TheDSADiary/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0504-base-7](https://github.com/Kasa1905/TheDSADiary/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
@@ -988,6 +989,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0482-license-key-formatting](https://github.com/Kasa1905/TheDSADiary/tree/master/0482-license-key-formatting) |
 | [0488-zuma-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0488-zuma-game) |
 | [0500-keyboard-row](https://github.com/Kasa1905/TheDSADiary/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/Kasa1905/TheDSADiary/tree/master/0504-base-7) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
