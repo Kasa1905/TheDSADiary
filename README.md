@@ -419,6 +419,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0492-construct-the-rectangle](https://github.com/Kasa1905/TheDSADiary/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Kasa1905/TheDSADiary/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/Kasa1905/TheDSADiary/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
