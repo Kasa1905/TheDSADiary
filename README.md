@@ -760,6 +760,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0450-delete-node-in-a-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0508-most-frequent-subtree-sum) |
+| [0513-find-bottom-left-tree-value](https://github.com/Kasa1905/TheDSADiary/tree/master/0513-find-bottom-left-tree-value) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -808,6 +809,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0472-concatenated-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0472-concatenated-words) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0508-most-frequent-subtree-sum) |
+| [0513-find-bottom-left-tree-value](https://github.com/Kasa1905/TheDSADiary/tree/master/0513-find-bottom-left-tree-value) |
 | [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -1457,6 +1459,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0450-delete-node-in-a-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0508-most-frequent-subtree-sum) |
+| [0513-find-bottom-left-tree-value](https://github.com/Kasa1905/TheDSADiary/tree/master/0513-find-bottom-left-tree-value) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Interactive
@@ -1548,6 +1551,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0449-serialize-and-deserialize-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/Kasa1905/TheDSADiary/tree/master/0463-island-perimeter) |
 | [0488-zuma-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0488-zuma-game) |
+| [0513-find-bottom-left-tree-value](https://github.com/Kasa1905/TheDSADiary/tree/master/0513-find-bottom-left-tree-value) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
