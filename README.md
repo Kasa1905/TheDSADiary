@@ -279,6 +279,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0502-ipo](https://github.com/Kasa1905/TheDSADiary/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Kasa1905/TheDSADiary/tree/master/0506-relative-ranks) |
+| [0517-super-washing-machines](https://github.com/Kasa1905/TheDSADiary/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
@@ -588,6 +589,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kasa1905/TheDSADiary/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Kasa1905/TheDSADiary/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Kasa1905/TheDSADiary/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/Kasa1905/TheDSADiary/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
