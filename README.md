@@ -424,6 +424,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0504-base-7](https://github.com/Kasa1905/TheDSADiary/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0509-fibonacci-number) |
+| [0519-random-flip-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0519-random-flip-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
@@ -893,6 +894,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0496-next-greater-element-i](https://github.com/Kasa1905/TheDSADiary/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Kasa1905/TheDSADiary/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0508-most-frequent-subtree-sum) |
+| [0519-random-flip-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0519-random-flip-matrix) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -1987,12 +1989,14 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0470-implement-rand10-using-rand7](https://github.com/Kasa1905/TheDSADiary/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Kasa1905/TheDSADiary/tree/master/0478-generate-random-point-in-a-circle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Kasa1905/TheDSADiary/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0519-random-flip-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0519-random-flip-matrix) |
 ## Reservoir Sampling
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Kasa1905/TheDSADiary/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Kasa1905/TheDSADiary/tree/master/0398-random-pick-index) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Kasa1905/TheDSADiary/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0519-random-flip-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0519-random-flip-matrix) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
