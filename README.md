@@ -280,6 +280,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0503-next-greater-element-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Kasa1905/TheDSADiary/tree/master/0506-relative-ranks) |
 | [0517-super-washing-machines](https://github.com/Kasa1905/TheDSADiary/tree/master/0517-super-washing-machines) |
+| [0518-coin-change-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0518-coin-change-ii) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
@@ -533,6 +534,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0509-fibonacci-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0509-fibonacci-number) |
 | [0514-freedom-trail](https://github.com/Kasa1905/TheDSADiary/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0516-longest-palindromic-subsequence) |
+| [0518-coin-change-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -1913,11 +1915,13 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0416-partition-equal-subset-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Kasa1905/TheDSADiary/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Kasa1905/TheDSADiary/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Kasa1905/TheDSADiary/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0518-coin-change-ii) |
 ## Brainteaser
 |  |
 | ------- |
