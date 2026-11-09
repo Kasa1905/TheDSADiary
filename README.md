@@ -1016,6 +1016,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0514-freedom-trail](https://github.com/Kasa1905/TheDSADiary/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Kasa1905/TheDSADiary/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Kasa1905/TheDSADiary/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
