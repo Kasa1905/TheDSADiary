@@ -281,6 +281,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0506-relative-ranks](https://github.com/Kasa1905/TheDSADiary/tree/master/0506-relative-ranks) |
 | [0517-super-washing-machines](https://github.com/Kasa1905/TheDSADiary/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0518-coin-change-ii) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
@@ -669,6 +670,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0475-heaters](https://github.com/Kasa1905/TheDSADiary/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/Kasa1905/TheDSADiary/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Kasa1905/TheDSADiary/tree/master/0506-relative-ranks) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -895,6 +897,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0500-keyboard-row](https://github.com/Kasa1905/TheDSADiary/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0508-most-frequent-subtree-sum) |
 | [0519-random-flip-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0519-random-flip-matrix) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -1017,6 +1020,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0516-longest-palindromic-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Kasa1905/TheDSADiary/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Kasa1905/TheDSADiary/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -1192,6 +1196,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0466-count-the-repetitions](https://github.com/Kasa1905/TheDSADiary/tree/master/0466-count-the-repetitions) |
 | [0475-heaters](https://github.com/Kasa1905/TheDSADiary/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0481-magical-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
