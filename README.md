@@ -284,6 +284,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Kasa1905/TheDSADiary/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0525-contiguous-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
@@ -905,6 +906,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0519-random-flip-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0525-contiguous-array) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -1346,6 +1348,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0410-split-array-largest-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0410-split-array-largest-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Kasa1905/TheDSADiary/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0525-contiguous-array) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kasa1905/TheDSADiary/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kasa1905/TheDSADiary/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
