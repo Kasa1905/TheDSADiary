@@ -289,6 +289,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0528-random-pick-with-weight](https://github.com/Kasa1905/TheDSADiary/tree/master/0528-random-pick-with-weight) |
 | [0529-minesweeper](https://github.com/Kasa1905/TheDSADiary/tree/master/0529-minesweeper) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/Kasa1905/TheDSADiary/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
@@ -438,6 +439,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0523-continuous-subarray-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/Kasa1905/TheDSADiary/tree/master/0528-random-pick-with-weight) |
 | [0537-complex-number-multiplication](https://github.com/Kasa1905/TheDSADiary/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/Kasa1905/TheDSADiary/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
@@ -689,6 +691,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Kasa1905/TheDSADiary/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/Kasa1905/TheDSADiary/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -1050,6 +1053,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Kasa1905/TheDSADiary/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0537-complex-number-multiplication](https://github.com/Kasa1905/TheDSADiary/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/Kasa1905/TheDSADiary/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
