@@ -291,6 +291,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0532-k-diff-pairs-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Kasa1905/TheDSADiary/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
@@ -554,6 +555,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0516-longest-palindromic-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Kasa1905/TheDSADiary/tree/master/0526-beautiful-arrangement) |
+| [0542-01-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -1451,6 +1453,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0463-island-perimeter](https://github.com/Kasa1905/TheDSADiary/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/Kasa1905/TheDSADiary/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/Kasa1905/TheDSADiary/tree/master/0529-minesweeper) |
+| [0542-01-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0542-01-matrix) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
@@ -1631,6 +1634,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kasa1905/TheDSADiary/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/Kasa1905/TheDSADiary/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0542-01-matrix) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
