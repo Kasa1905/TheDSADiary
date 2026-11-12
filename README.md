@@ -1055,6 +1055,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Kasa1905/TheDSADiary/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0537-complex-number-multiplication](https://github.com/Kasa1905/TheDSADiary/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Kasa1905/TheDSADiary/tree/master/0539-minimum-time-difference) |
+| [0541-reverse-string-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -1238,6 +1239,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Kasa1905/TheDSADiary/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0541-reverse-string-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0541-reverse-string-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
