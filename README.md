@@ -559,6 +559,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0526-beautiful-arrangement](https://github.com/Kasa1905/TheDSADiary/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/Kasa1905/TheDSADiary/tree/master/0546-remove-boxes) |
+| [0552-student-attendance-record-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0552-student-attendance-record-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
