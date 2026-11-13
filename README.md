@@ -1065,6 +1065,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0537-complex-number-multiplication](https://github.com/Kasa1905/TheDSADiary/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Kasa1905/TheDSADiary/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/Kasa1905/TheDSADiary/tree/master/0551-student-attendance-record-i) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
