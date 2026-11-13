@@ -292,6 +292,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0539-minimum-time-difference](https://github.com/Kasa1905/TheDSADiary/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/Kasa1905/TheDSADiary/tree/master/0546-remove-boxes) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
@@ -557,6 +558,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0518-coin-change-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Kasa1905/TheDSADiary/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/Kasa1905/TheDSADiary/tree/master/0546-remove-boxes) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -1769,6 +1771,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0464-can-i-win](https://github.com/Kasa1905/TheDSADiary/tree/master/0464-can-i-win) |
 | [0488-zuma-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0488-zuma-game) |
 | [0509-fibonacci-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0509-fibonacci-number) |
+| [0546-remove-boxes](https://github.com/Kasa1905/TheDSADiary/tree/master/0546-remove-boxes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brute-Force Search
 |  |
