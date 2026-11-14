@@ -1074,6 +1074,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0541-reverse-string-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Kasa1905/TheDSADiary/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0556-next-greater-element-iii) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -1261,6 +1262,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0532-k-diff-pairs-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0556-next-greater-element-iii) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
