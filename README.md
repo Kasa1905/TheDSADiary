@@ -447,6 +447,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0537-complex-number-multiplication](https://github.com/Kasa1905/TheDSADiary/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Kasa1905/TheDSADiary/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/Kasa1905/TheDSADiary/tree/master/0553-optimal-division) |
+| [0556-next-greater-element-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
@@ -1072,6 +1073,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0539-minimum-time-difference](https://github.com/Kasa1905/TheDSADiary/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Kasa1905/TheDSADiary/tree/master/0551-student-attendance-record-i) |
+| [0556-next-greater-element-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -1258,6 +1260,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Kasa1905/TheDSADiary/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0556-next-greater-element-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
