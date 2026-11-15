@@ -816,6 +816,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0543-diameter-of-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0543-diameter-of-binary-tree) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Kasa1905/TheDSADiary/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Kasa1905/TheDSADiary/tree/master/0563-binary-tree-tilt) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -873,6 +874,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0543-diameter-of-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Kasa1905/TheDSADiary/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Kasa1905/TheDSADiary/tree/master/0563-binary-tree-tilt) |
 | [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -1570,6 +1572,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Kasa1905/TheDSADiary/tree/master/0563-binary-tree-tilt) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Interactive
@@ -1770,6 +1773,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0337-house-robber-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Kasa1905/TheDSADiary/tree/master/0563-binary-tree-tilt) |
 ## Bidirectional Search
 |  |
 | ------- |
