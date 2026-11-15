@@ -296,6 +296,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0553-optimal-division](https://github.com/Kasa1905/TheDSADiary/tree/master/0553-optimal-division) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/Kasa1905/TheDSADiary/tree/master/0565-array-nesting) |
+| [0566-reshape-the-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -1344,6 +1345,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0495-teemo-attacking](https://github.com/Kasa1905/TheDSADiary/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/Kasa1905/TheDSADiary/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/Kasa1905/TheDSADiary/tree/master/0537-complex-number-multiplication) |
+| [0566-reshape-the-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kasa1905/TheDSADiary/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -1492,6 +1494,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0498-diagonal-traverse](https://github.com/Kasa1905/TheDSADiary/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/Kasa1905/TheDSADiary/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0566-reshape-the-matrix) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
