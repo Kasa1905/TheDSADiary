@@ -295,6 +295,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0546-remove-boxes](https://github.com/Kasa1905/TheDSADiary/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/Kasa1905/TheDSADiary/tree/master/0553-optimal-division) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
+| [0565-array-nesting](https://github.com/Kasa1905/TheDSADiary/tree/master/0565-array-nesting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -876,6 +877,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0547-number-of-provinces](https://github.com/Kasa1905/TheDSADiary/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Kasa1905/TheDSADiary/tree/master/0563-binary-tree-tilt) |
+| [0565-array-nesting](https://github.com/Kasa1905/TheDSADiary/tree/master/0565-array-nesting) |
 | [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
