@@ -449,6 +449,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0539-minimum-time-difference](https://github.com/Kasa1905/TheDSADiary/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/Kasa1905/TheDSADiary/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0556-next-greater-element-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
@@ -1083,6 +1084,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0551-student-attendance-record-i](https://github.com/Kasa1905/TheDSADiary/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0564-find-the-closest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
