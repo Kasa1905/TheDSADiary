@@ -574,6 +574,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0552-student-attendance-record-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0552-student-attendance-record-ii) |
 | [0553-optimal-division](https://github.com/Kasa1905/TheDSADiary/tree/master/0553-optimal-division) |
 | [0576-out-of-boundary-paths](https://github.com/Kasa1905/TheDSADiary/tree/master/0576-out-of-boundary-paths) |
+| [0583-delete-operation-for-two-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -1098,6 +1099,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -2175,4 +2177,8 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/Kasa1905/TheDSADiary/tree/master/0470-implement-rand10-using-rand7) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/0583-delete-operation-for-two-strings) |
 <!---LeetCode Topics End-->
