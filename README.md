@@ -298,6 +298,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0565-array-nesting](https://github.com/Kasa1905/TheDSADiary/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Kasa1905/TheDSADiary/tree/master/0575-distribute-candies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -634,6 +635,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0502-ipo](https://github.com/Kasa1905/TheDSADiary/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/Kasa1905/TheDSADiary/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -715,6 +717,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0532-k-diff-pairs-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Kasa1905/TheDSADiary/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
@@ -1286,6 +1289,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0556-next-greater-element-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0567-permutation-in-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kasa1905/TheDSADiary/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1322,6 +1326,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0488-zuma-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0488-zuma-game) |
 | [0496-next-greater-element-i](https://github.com/Kasa1905/TheDSADiary/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/1021-remove-outermost-parentheses) |
@@ -1342,6 +1347,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0456-132-pattern](https://github.com/Kasa1905/TheDSADiary/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Kasa1905/TheDSADiary/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kasa1905/TheDSADiary/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Simulation
 |  |
