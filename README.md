@@ -297,6 +297,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0561-array-partition](https://github.com/Kasa1905/TheDSADiary/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/Kasa1905/TheDSADiary/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/Kasa1905/TheDSADiary/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -960,6 +961,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0525-contiguous-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/Kasa1905/TheDSADiary/tree/master/0575-distribute-candies) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
