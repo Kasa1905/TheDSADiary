@@ -457,6 +457,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0564-find-the-closest-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/Kasa1905/TheDSADiary/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Kasa1905/TheDSADiary/tree/master/0592-fraction-addition-and-subtraction) |
+| [0593-valid-square](https://github.com/Kasa1905/TheDSADiary/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
@@ -1904,6 +1905,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0391-perfect-rectangle](https://github.com/Kasa1905/TheDSADiary/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Kasa1905/TheDSADiary/tree/master/0478-generate-random-point-in-a-circle) |
 | [0587-erect-the-fence](https://github.com/Kasa1905/TheDSADiary/tree/master/0587-erect-the-fence) |
+| [0593-valid-square](https://github.com/Kasa1905/TheDSADiary/tree/master/0593-valid-square) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Kasa1905/TheDSADiary/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Euclidean Algorithm
 |  |
