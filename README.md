@@ -1107,6 +1107,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0564-find-the-closest-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/0583-delete-operation-for-two-strings) |
+| [0591-tag-validator](https://github.com/Kasa1905/TheDSADiary/tree/master/0591-tag-validator) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -1340,6 +1341,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0591-tag-validator](https://github.com/Kasa1905/TheDSADiary/tree/master/0591-tag-validator) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/1021-remove-outermost-parentheses) |
