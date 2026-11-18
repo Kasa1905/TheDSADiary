@@ -839,6 +839,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0572-subtree-of-another-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0606-construct-string-from-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0606-construct-string-from-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -901,6 +902,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0572-subtree-of-another-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0606-construct-string-from-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0606-construct-string-from-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -1117,6 +1119,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0583-delete-operation-for-two-strings](https://github.com/Kasa1905/TheDSADiary/tree/master/0583-delete-operation-for-two-strings) |
 | [0591-tag-validator](https://github.com/Kasa1905/TheDSADiary/tree/master/0591-tag-validator) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Kasa1905/TheDSADiary/tree/master/0592-fraction-addition-and-subtraction) |
+| [0606-construct-string-from-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0606-construct-string-from-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -1626,6 +1629,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0543-diameter-of-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Kasa1905/TheDSADiary/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0606-construct-string-from-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Interactive
