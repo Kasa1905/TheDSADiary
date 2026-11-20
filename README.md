@@ -308,6 +308,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0622-design-circular-queue](https://github.com/Kasa1905/TheDSADiary/tree/master/0622-design-circular-queue) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0630-course-schedule-iii) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -658,6 +659,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0611-valid-triangle-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Kasa1905/TheDSADiary/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0624-maximum-distance-in-arrays) |
+| [0630-course-schedule-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0630-course-schedule-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -745,6 +747,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0611-valid-triangle-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Kasa1905/TheDSADiary/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0630-course-schedule-iii) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -1701,6 +1704,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0502-ipo](https://github.com/Kasa1905/TheDSADiary/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Kasa1905/TheDSADiary/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Kasa1905/TheDSADiary/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0630-course-schedule-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kasa1905/TheDSADiary/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Kasa1905/TheDSADiary/tree/master/1882-process-tasks-using-servers) |
