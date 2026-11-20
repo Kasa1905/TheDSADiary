@@ -306,6 +306,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0611-valid-triangle-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Kasa1905/TheDSADiary/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Kasa1905/TheDSADiary/tree/master/0622-design-circular-queue) |
+| [0624-maximum-distance-in-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
@@ -655,6 +656,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Kasa1905/TheDSADiary/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
