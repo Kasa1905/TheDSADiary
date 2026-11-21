@@ -598,6 +598,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Kasa1905/TheDSADiary/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0629-k-inverse-pairs-array) |
 | [0638-shopping-offers](https://github.com/Kasa1905/TheDSADiary/tree/master/0638-shopping-offers) |
+| [0639-decode-ways-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0639-decode-ways-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -1162,6 +1163,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0592-fraction-addition-and-subtraction](https://github.com/Kasa1905/TheDSADiary/tree/master/0592-fraction-addition-and-subtraction) |
 | [0606-construct-string-from-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0606-construct-string-from-binary-tree) |
 | [0609-find-duplicate-file-in-system](https://github.com/Kasa1905/TheDSADiary/tree/master/0609-find-duplicate-file-in-system) |
+| [0639-decode-ways-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0639-decode-ways-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
