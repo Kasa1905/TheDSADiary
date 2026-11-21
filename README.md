@@ -472,6 +472,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0593-valid-square](https://github.com/Kasa1905/TheDSADiary/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kasa1905/TheDSADiary/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -1259,6 +1260,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0532-k-diff-pairs-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0633-sum-of-square-numbers) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -1354,6 +1356,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0567-permutation-in-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kasa1905/TheDSADiary/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
