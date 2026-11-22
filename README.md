@@ -312,6 +312,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0636-exclusive-time-of-functions](https://github.com/Kasa1905/TheDSADiary/tree/master/0636-exclusive-time-of-functions) |
 | [0638-shopping-offers](https://github.com/Kasa1905/TheDSADiary/tree/master/0638-shopping-offers) |
+| [0641-design-circular-deque](https://github.com/Kasa1905/TheDSADiary/tree/master/0641-design-circular-deque) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -1489,6 +1490,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0445-add-two-numbers-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/Kasa1905/TheDSADiary/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/Kasa1905/TheDSADiary/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Kasa1905/TheDSADiary/tree/master/0641-design-circular-deque) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kasa1905/TheDSADiary/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Combinatorics
 |  |
@@ -1964,6 +1966,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0449-serialize-and-deserialize-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/Kasa1905/TheDSADiary/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/Kasa1905/TheDSADiary/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Kasa1905/TheDSADiary/tree/master/0641-design-circular-deque) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -2119,6 +2122,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0341-flatten-nested-list-iterator](https://github.com/Kasa1905/TheDSADiary/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Kasa1905/TheDSADiary/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Kasa1905/TheDSADiary/tree/master/0641-design-circular-deque) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kasa1905/TheDSADiary/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
