@@ -313,6 +313,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0636-exclusive-time-of-functions](https://github.com/Kasa1905/TheDSADiary/tree/master/0636-exclusive-time-of-functions) |
 | [0638-shopping-offers](https://github.com/Kasa1905/TheDSADiary/tree/master/0638-shopping-offers) |
 | [0641-design-circular-deque](https://github.com/Kasa1905/TheDSADiary/tree/master/0641-design-circular-deque) |
+| [0643-maximum-average-subarray-i](https://github.com/Kasa1905/TheDSADiary/tree/master/0643-maximum-average-subarray-i) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -1221,6 +1222,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0567-permutation-in-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/Kasa1905/TheDSADiary/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kasa1905/TheDSADiary/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/Kasa1905/TheDSADiary/tree/master/2747-count-zero-request-servers) |
