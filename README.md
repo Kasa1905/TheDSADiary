@@ -475,6 +475,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0598-range-addition-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0633-sum-of-square-numbers) |
+| [0640-solve-the-equation](https://github.com/Kasa1905/TheDSADiary/tree/master/0640-solve-the-equation) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kasa1905/TheDSADiary/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -1164,6 +1165,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0606-construct-string-from-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0606-construct-string-from-binary-tree) |
 | [0609-find-duplicate-file-in-system](https://github.com/Kasa1905/TheDSADiary/tree/master/0609-find-duplicate-file-in-system) |
 | [0639-decode-ways-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0639-decode-ways-ii) |
+| [0640-solve-the-equation](https://github.com/Kasa1905/TheDSADiary/tree/master/0640-solve-the-equation) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -1445,6 +1447,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0537-complex-number-multiplication](https://github.com/Kasa1905/TheDSADiary/tree/master/0537-complex-number-multiplication) |
 | [0566-reshape-the-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0566-reshape-the-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Kasa1905/TheDSADiary/tree/master/0592-fraction-addition-and-subtraction) |
+| [0640-solve-the-equation](https://github.com/Kasa1905/TheDSADiary/tree/master/0640-solve-the-equation) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kasa1905/TheDSADiary/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -2293,4 +2296,8 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/Kasa1905/TheDSADiary/tree/master/0587-erect-the-fence) |
+## Linear Algebra
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/Kasa1905/TheDSADiary/tree/master/0640-solve-the-equation) |
 <!---LeetCode Topics End-->
