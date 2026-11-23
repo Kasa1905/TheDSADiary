@@ -316,6 +316,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0643-maximum-average-subarray-i](https://github.com/Kasa1905/TheDSADiary/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Kasa1905/TheDSADiary/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kasa1905/TheDSADiary/tree/master/0646-maximum-length-of-pair-chain) |
+| [0648-replace-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0648-replace-words) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -1039,6 +1040,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0621-task-scheduler](https://github.com/Kasa1905/TheDSADiary/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/Kasa1905/TheDSADiary/tree/master/0645-set-mismatch) |
+| [0648-replace-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0648-replace-words) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -1180,6 +1182,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0639-decode-ways-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0639-decode-ways-ii) |
 | [0640-solve-the-equation](https://github.com/Kasa1905/TheDSADiary/tree/master/0640-solve-the-equation) |
 | [0647-palindromic-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/0647-palindromic-substrings) |
+| [0648-replace-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -1934,6 +1937,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Kasa1905/TheDSADiary/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0472-concatenated-words) |
+| [0648-replace-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0648-replace-words) |
 ## Memoization
 |  |
 | ------- |
