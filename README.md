@@ -679,6 +679,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0630-course-schedule-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kasa1905/TheDSADiary/tree/master/0646-maximum-length-of-pair-chain) |
+| [0649-dota2-senate](https://github.com/Kasa1905/TheDSADiary/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -1183,6 +1184,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0640-solve-the-equation](https://github.com/Kasa1905/TheDSADiary/tree/master/0640-solve-the-equation) |
 | [0647-palindromic-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0648-replace-words) |
+| [0649-dota2-senate](https://github.com/Kasa1905/TheDSADiary/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -2144,6 +2146,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0387-first-unique-character-in-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Kasa1905/TheDSADiary/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Kasa1905/TheDSADiary/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/Kasa1905/TheDSADiary/tree/master/0649-dota2-senate) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kasa1905/TheDSADiary/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
