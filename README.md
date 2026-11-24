@@ -318,6 +318,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0646-maximum-length-of-pair-chain](https://github.com/Kasa1905/TheDSADiary/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0654-maximum-binary-tree) |
+| [0658-find-k-closest-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0658-find-k-closest-elements) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -777,6 +778,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/Kasa1905/TheDSADiary/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kasa1905/TheDSADiary/tree/master/0646-maximum-length-of-pair-chain) |
+| [0658-find-k-closest-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0658-find-k-closest-elements) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -1252,6 +1254,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0594-longest-harmonious-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Kasa1905/TheDSADiary/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0658-find-k-closest-elements) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kasa1905/TheDSADiary/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/Kasa1905/TheDSADiary/tree/master/2747-count-zero-request-servers) |
@@ -1305,6 +1308,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0540-single-element-in-a-sorted-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0658-find-k-closest-elements) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -1403,6 +1407,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0611-valid-triangle-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0658-find-k-closest-elements) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kasa1905/TheDSADiary/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -1777,6 +1782,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0621-task-scheduler](https://github.com/Kasa1905/TheDSADiary/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Kasa1905/TheDSADiary/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kasa1905/TheDSADiary/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Kasa1905/TheDSADiary/tree/master/1882-process-tasks-using-servers) |
