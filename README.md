@@ -317,6 +317,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0645-set-mismatch](https://github.com/Kasa1905/TheDSADiary/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kasa1905/TheDSADiary/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0648-replace-words) |
+| [0654-maximum-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0654-maximum-binary-tree) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -894,6 +895,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0623-add-one-row-to-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Kasa1905/TheDSADiary/tree/master/0652-find-duplicate-subtrees) |
+| [0654-maximum-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0654-maximum-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -1441,6 +1443,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Kasa1905/TheDSADiary/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0591-tag-validator](https://github.com/Kasa1905/TheDSADiary/tree/master/0591-tag-validator) |
 | [0636-exclusive-time-of-functions](https://github.com/Kasa1905/TheDSADiary/tree/master/0636-exclusive-time-of-functions) |
+| [0654-maximum-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/1021-remove-outermost-parentheses) |
@@ -1462,6 +1465,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0496-next-greater-element-i](https://github.com/Kasa1905/TheDSADiary/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0654-maximum-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0654-maximum-binary-tree) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kasa1905/TheDSADiary/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Simulation
 |  |
@@ -1599,6 +1603,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0427-construct-quad-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0427-construct-quad-tree) |
 | [0493-reverse-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0493-reverse-pairs) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Kasa1905/TheDSADiary/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
+| [0654-maximum-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0654-maximum-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Matrix
@@ -1725,6 +1730,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0623-add-one-row-to-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Kasa1905/TheDSADiary/tree/master/0652-find-duplicate-subtrees) |
+| [0654-maximum-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0654-maximum-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Interactive
@@ -2341,4 +2347,8 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0640-solve-the-equation](https://github.com/Kasa1905/TheDSADiary/tree/master/0640-solve-the-equation) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
