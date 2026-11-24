@@ -893,6 +893,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0617-merge-two-binary-trees](https://github.com/Kasa1905/TheDSADiary/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Kasa1905/TheDSADiary/tree/master/0652-find-duplicate-subtrees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -960,6 +961,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0617-merge-two-binary-trees](https://github.com/Kasa1905/TheDSADiary/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Kasa1905/TheDSADiary/tree/master/0652-find-duplicate-subtrees) |
 | [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -1047,6 +1049,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/Kasa1905/TheDSADiary/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0648-replace-words) |
+| [0652-find-duplicate-subtrees](https://github.com/Kasa1905/TheDSADiary/tree/master/0652-find-duplicate-subtrees) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -1721,6 +1724,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0617-merge-two-binary-trees](https://github.com/Kasa1905/TheDSADiary/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Kasa1905/TheDSADiary/tree/master/0652-find-duplicate-subtrees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Interactive
