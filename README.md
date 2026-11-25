@@ -907,6 +907,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0652-find-duplicate-subtrees](https://github.com/Kasa1905/TheDSADiary/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0655-print-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0669-trim-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -976,6 +977,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Kasa1905/TheDSADiary/tree/master/0652-find-duplicate-subtrees) |
 | [0655-print-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0655-print-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0669-trim-a-binary-search-tree) |
 | [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -1752,6 +1754,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0652-find-duplicate-subtrees](https://github.com/Kasa1905/TheDSADiary/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0655-print-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0669-trim-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Interactive
@@ -1953,6 +1956,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0501-find-mode-in-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0669-trim-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## DP on Trees
 |  |
