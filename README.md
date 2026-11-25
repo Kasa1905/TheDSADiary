@@ -392,6 +392,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [3886-sum-of-sortable-integers](https://github.com/Kasa1905/TheDSADiary/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Kasa1905/TheDSADiary/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Kasa1905/TheDSADiary/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Math
 |  |
@@ -1082,6 +1083,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kasa1905/TheDSADiary/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kasa1905/TheDSADiary/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kasa1905/TheDSADiary/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3934-smallest-unique-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -1322,6 +1324,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [3312-sorted-gcd-pair-queries](https://github.com/Kasa1905/TheDSADiary/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/3934-smallest-unique-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -2090,6 +2093,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0214-shortest-palindrome) |
+| [3934-smallest-unique-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
@@ -2097,6 +2101,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0214-shortest-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0336-palindrome-pairs) |
 | [0572-subtree-of-another-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0572-subtree-of-another-tree) |
+| [3934-smallest-unique-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/3934-smallest-unique-subarray) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -2365,4 +2370,8 @@ Each problem folder typically includes the accepted Java solution, problem notes
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0654-maximum-binary-tree) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Kasa1905/TheDSADiary/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
