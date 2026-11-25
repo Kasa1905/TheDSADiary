@@ -320,6 +320,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0654-maximum-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0665-non-decreasing-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0665-non-decreasing-array) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
