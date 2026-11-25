@@ -491,6 +491,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0640-solve-the-equation](https://github.com/Kasa1905/TheDSADiary/tree/master/0640-solve-the-equation) |
 | [0650-2-keys-keyboard](https://github.com/Kasa1905/TheDSADiary/tree/master/0650-2-keys-keyboard) |
 | [0667-beautiful-arrangement-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0667-beautiful-arrangement-ii) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Kasa1905/TheDSADiary/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kasa1905/TheDSADiary/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -1319,6 +1320,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0611-valid-triangle-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0658-find-k-closest-elements) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Kasa1905/TheDSADiary/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kasa1905/TheDSADiary/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
