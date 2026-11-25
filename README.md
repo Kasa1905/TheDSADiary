@@ -617,6 +617,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0646-maximum-length-of-pair-chain](https://github.com/Kasa1905/TheDSADiary/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/Kasa1905/TheDSADiary/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/Kasa1905/TheDSADiary/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -1204,6 +1205,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0647-palindromic-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/Kasa1905/TheDSADiary/tree/master/0649-dota2-senate) |
+| [0664-strange-printer](https://github.com/Kasa1905/TheDSADiary/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
