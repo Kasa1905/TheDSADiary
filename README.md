@@ -324,6 +324,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0667-beautiful-arrangement-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0667-beautiful-arrangement-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Kasa1905/TheDSADiary/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -1672,6 +1673,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0529-minesweeper](https://github.com/Kasa1905/TheDSADiary/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0566-reshape-the-matrix) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Kasa1905/TheDSADiary/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
@@ -1814,6 +1816,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Kasa1905/TheDSADiary/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kasa1905/TheDSADiary/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kasa1905/TheDSADiary/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Kasa1905/TheDSADiary/tree/master/1882-process-tasks-using-servers) |
@@ -1880,6 +1883,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0655-print-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0672-bulb-switcher-ii) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Kasa1905/TheDSADiary/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
