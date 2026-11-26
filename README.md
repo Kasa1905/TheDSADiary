@@ -492,6 +492,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0650-2-keys-keyboard](https://github.com/Kasa1905/TheDSADiary/tree/master/0650-2-keys-keyboard) |
 | [0667-beautiful-arrangement-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0667-beautiful-arrangement-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Kasa1905/TheDSADiary/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0670-maximum-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0670-maximum-swap) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kasa1905/TheDSADiary/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -696,6 +697,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0646-maximum-length-of-pair-chain](https://github.com/Kasa1905/TheDSADiary/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/Kasa1905/TheDSADiary/tree/master/0649-dota2-senate) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0670-maximum-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
