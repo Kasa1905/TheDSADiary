@@ -322,6 +322,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0665-non-decreasing-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0665-non-decreasing-array) |
 | [0667-beautiful-arrangement-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0667-beautiful-arrangement-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -625,6 +626,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0647-palindromic-substrings](https://github.com/Kasa1905/TheDSADiary/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/Kasa1905/TheDSADiary/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Kasa1905/TheDSADiary/tree/master/0664-strange-printer) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -1780,6 +1782,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0327-count-of-range-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/Kasa1905/TheDSADiary/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kasa1905/TheDSADiary/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kasa1905/TheDSADiary/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -2187,6 +2190,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0327-count-of-range-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/Kasa1905/TheDSADiary/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sweep Line
@@ -2278,6 +2282,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0300-longest-increasing-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0334-increasing-triplet-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kasa1905/TheDSADiary/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Treap
 |  |
 | ------- |
