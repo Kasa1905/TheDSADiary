@@ -493,6 +493,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0667-beautiful-arrangement-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0667-beautiful-arrangement-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Kasa1905/TheDSADiary/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0670-maximum-swap) |
+| [0672-bulb-switcher-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0672-bulb-switcher-ii) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kasa1905/TheDSADiary/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -844,6 +845,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0526-beautiful-arrangement](https://github.com/Kasa1905/TheDSADiary/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Kasa1905/TheDSADiary/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/Kasa1905/TheDSADiary/tree/master/0645-set-mismatch) |
+| [0672-bulb-switcher-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0672-bulb-switcher-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kasa1905/TheDSADiary/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -983,6 +985,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0655-print-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0655-print-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0672-bulb-switcher-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0672-bulb-switcher-ii) |
 | [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -1872,6 +1875,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0623-add-one-row-to-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0655-print-binary-tree) |
+| [0672-bulb-switcher-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0672-bulb-switcher-ii) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
