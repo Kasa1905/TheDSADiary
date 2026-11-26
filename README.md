@@ -990,6 +990,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0669-trim-a-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0672-bulb-switcher-ii) |
+| [0676-implement-magic-dictionary](https://github.com/Kasa1905/TheDSADiary/tree/master/0676-implement-magic-dictionary) |
 | [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -1079,6 +1080,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0648-replace-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0648-replace-words) |
 | [0652-find-duplicate-subtrees](https://github.com/Kasa1905/TheDSADiary/tree/master/0652-find-duplicate-subtrees) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0676-implement-magic-dictionary](https://github.com/Kasa1905/TheDSADiary/tree/master/0676-implement-magic-dictionary) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -1224,6 +1226,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0648-replace-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/Kasa1905/TheDSADiary/tree/master/0649-dota2-senate) |
 | [0664-strange-printer](https://github.com/Kasa1905/TheDSADiary/tree/master/0664-strange-printer) |
+| [0676-implement-magic-dictionary](https://github.com/Kasa1905/TheDSADiary/tree/master/0676-implement-magic-dictionary) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
@@ -2004,6 +2007,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Kasa1905/TheDSADiary/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/Kasa1905/TheDSADiary/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/Kasa1905/TheDSADiary/tree/master/0676-implement-magic-dictionary) |
 ## Memoization
 |  |
 | ------- |
@@ -2053,6 +2057,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0460-lfu-cache](https://github.com/Kasa1905/TheDSADiary/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/Kasa1905/TheDSADiary/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Kasa1905/TheDSADiary/tree/master/0641-design-circular-deque) |
+| [0676-implement-magic-dictionary](https://github.com/Kasa1905/TheDSADiary/tree/master/0676-implement-magic-dictionary) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
