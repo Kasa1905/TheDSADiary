@@ -325,6 +325,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Kasa1905/TheDSADiary/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0679-24-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0679-24-game) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -498,6 +499,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Kasa1905/TheDSADiary/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0672-bulb-switcher-ii) |
+| [0679-24-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0679-24-game) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kasa1905/TheDSADiary/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -1388,6 +1390,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0494-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Kasa1905/TheDSADiary/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Kasa1905/TheDSADiary/tree/master/0638-shopping-offers) |
+| [0679-24-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0679-24-game) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
