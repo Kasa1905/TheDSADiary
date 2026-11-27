@@ -740,6 +740,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Kasa1905/TheDSADiary/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0399-evaluate-division](https://github.com/Kasa1905/TheDSADiary/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Kasa1905/TheDSADiary/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Kasa1905/TheDSADiary/tree/master/0684-redundant-connection) |
 | [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -998,6 +999,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0672-bulb-switcher-ii) |
 | [0676-implement-magic-dictionary](https://github.com/Kasa1905/TheDSADiary/tree/master/0676-implement-magic-dictionary) |
+| [0684-redundant-connection](https://github.com/Kasa1905/TheDSADiary/tree/master/0684-redundant-connection) |
 | [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -1901,6 +1903,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0655-print-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0655-print-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0672-bulb-switcher-ii) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Kasa1905/TheDSADiary/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0684-redundant-connection](https://github.com/Kasa1905/TheDSADiary/tree/master/0684-redundant-connection) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
@@ -1917,6 +1920,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0332-reconstruct-itinerary](https://github.com/Kasa1905/TheDSADiary/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Kasa1905/TheDSADiary/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Kasa1905/TheDSADiary/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Kasa1905/TheDSADiary/tree/master/0684-redundant-connection) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Kasa1905/TheDSADiary/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Minimax
