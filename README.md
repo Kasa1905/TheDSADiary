@@ -1242,6 +1242,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0677-map-sum-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/Kasa1905/TheDSADiary/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/1021-remove-outermost-parentheses) |
@@ -2167,10 +2168,12 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0187-repeated-dna-sequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Kasa1905/TheDSADiary/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Kasa1905/TheDSADiary/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0187-repeated-dna-sequences) |
+| [0686-repeated-string-match](https://github.com/Kasa1905/TheDSADiary/tree/master/0686-repeated-string-match) |
 ## Primality Test
 |  |
 | ------- |
@@ -2201,6 +2204,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0214-shortest-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Kasa1905/TheDSADiary/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0572-subtree-of-another-tree) |
+| [0686-repeated-string-match](https://github.com/Kasa1905/TheDSADiary/tree/master/0686-repeated-string-match) |
 ## Manacher
 |  |
 | ------- |
@@ -2210,6 +2214,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Kasa1905/TheDSADiary/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Kasa1905/TheDSADiary/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Kasa1905/TheDSADiary/tree/master/0686-repeated-string-match) |
 ## Quickselect
 |  |
 | ------- |
