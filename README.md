@@ -326,6 +326,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Kasa1905/TheDSADiary/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0679-24-game) |
+| [0682-baseball-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0682-baseball-game) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -1493,6 +1494,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0636-exclusive-time-of-functions](https://github.com/Kasa1905/TheDSADiary/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
@@ -1530,6 +1532,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0566-reshape-the-matrix](https://github.com/Kasa1905/TheDSADiary/tree/master/0566-reshape-the-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Kasa1905/TheDSADiary/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/Kasa1905/TheDSADiary/tree/master/0640-solve-the-equation) |
+| [0682-baseball-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Kasa1905/TheDSADiary/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kasa1905/TheDSADiary/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Kasa1905/TheDSADiary/tree/master/2243-calculate-digit-sum-of-a-string) |
