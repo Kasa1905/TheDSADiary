@@ -329,6 +329,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0682-baseball-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0690-employee-importance](https://github.com/Kasa1905/TheDSADiary/tree/master/0690-employee-importance) |
+| [0691-stickers-to-spell-word](https://github.com/Kasa1905/TheDSADiary/tree/master/0691-stickers-to-spell-word) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -639,6 +640,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/Kasa1905/TheDSADiary/tree/master/0688-knight-probability-in-chessboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0691-stickers-to-spell-word](https://github.com/Kasa1905/TheDSADiary/tree/master/0691-stickers-to-spell-word) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
@@ -866,6 +868,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0638-shopping-offers](https://github.com/Kasa1905/TheDSADiary/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/Kasa1905/TheDSADiary/tree/master/0645-set-mismatch) |
 | [0672-bulb-switcher-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0672-bulb-switcher-ii) |
+| [0691-stickers-to-spell-word](https://github.com/Kasa1905/TheDSADiary/tree/master/0691-stickers-to-spell-word) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kasa1905/TheDSADiary/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -1105,6 +1108,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0676-implement-magic-dictionary](https://github.com/Kasa1905/TheDSADiary/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0677-map-sum-pairs) |
 | [0690-employee-importance](https://github.com/Kasa1905/TheDSADiary/tree/master/0690-employee-importance) |
+| [0691-stickers-to-spell-word](https://github.com/Kasa1905/TheDSADiary/tree/master/0691-stickers-to-spell-word) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -1255,6 +1259,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/Kasa1905/TheDSADiary/tree/master/0686-repeated-string-match) |
+| [0691-stickers-to-spell-word](https://github.com/Kasa1905/TheDSADiary/tree/master/0691-stickers-to-spell-word) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kasa1905/TheDSADiary/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Kasa1905/TheDSADiary/tree/master/1021-remove-outermost-parentheses) |
@@ -1412,6 +1417,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0526-beautiful-arrangement](https://github.com/Kasa1905/TheDSADiary/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Kasa1905/TheDSADiary/tree/master/0638-shopping-offers) |
 | [0679-24-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0679-24-game) |
+| [0691-stickers-to-spell-word](https://github.com/Kasa1905/TheDSADiary/tree/master/0691-stickers-to-spell-word) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
@@ -2062,6 +2068,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0509-fibonacci-number](https://github.com/Kasa1905/TheDSADiary/tree/master/0509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/Kasa1905/TheDSADiary/tree/master/0546-remove-boxes) |
 | [0638-shopping-offers](https://github.com/Kasa1905/TheDSADiary/tree/master/0638-shopping-offers) |
+| [0691-stickers-to-spell-word](https://github.com/Kasa1905/TheDSADiary/tree/master/0691-stickers-to-spell-word) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brute-Force Search
 |  |
@@ -2425,6 +2432,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0473-matchsticks-to-square](https://github.com/Kasa1905/TheDSADiary/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Kasa1905/TheDSADiary/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Kasa1905/TheDSADiary/tree/master/0638-shopping-offers) |
+| [0691-stickers-to-spell-word](https://github.com/Kasa1905/TheDSADiary/tree/master/0691-stickers-to-spell-word) |
 ## Rejection Sampling
 |  |
 | ------- |
