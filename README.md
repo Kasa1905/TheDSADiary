@@ -327,6 +327,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0675-cut-off-trees-for-golf-event](https://github.com/Kasa1905/TheDSADiary/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0682-baseball-game) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -636,6 +637,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Kasa1905/TheDSADiary/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Kasa1905/TheDSADiary/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/Kasa1905/TheDSADiary/tree/master/0688-knight-probability-in-chessboard) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
@@ -1304,6 +1306,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kasa1905/TheDSADiary/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Kasa1905/TheDSADiary/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Kasa1905/TheDSADiary/tree/master/0658-find-k-closest-elements) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kasa1905/TheDSADiary/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/Kasa1905/TheDSADiary/tree/master/2747-count-zero-request-servers) |
@@ -1627,6 +1630,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0523-continuous-subarray-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Kasa1905/TheDSADiary/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/Kasa1905/TheDSADiary/tree/master/0528-random-pick-with-weight) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1140-stone-game-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1140-stone-game-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Kasa1905/TheDSADiary/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kasa1905/TheDSADiary/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
