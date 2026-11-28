@@ -328,6 +328,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0679-24-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Kasa1905/TheDSADiary/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0690-employee-importance](https://github.com/Kasa1905/TheDSADiary/tree/master/0690-employee-importance) |
 | [0835-image-overlap](https://github.com/Kasa1905/TheDSADiary/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kasa1905/TheDSADiary/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
@@ -934,6 +935,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0669-trim-a-binary-search-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Kasa1905/TheDSADiary/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/Kasa1905/TheDSADiary/tree/master/0690-employee-importance) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kasa1905/TheDSADiary/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -1010,6 +1012,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0684-redundant-connection](https://github.com/Kasa1905/TheDSADiary/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0685-redundant-connection-ii) |
 | [0687-longest-univalue-path](https://github.com/Kasa1905/TheDSADiary/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/Kasa1905/TheDSADiary/tree/master/0690-employee-importance) |
 | [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kasa1905/TheDSADiary/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Kasa1905/TheDSADiary/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -1101,6 +1104,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Kasa1905/TheDSADiary/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0676-implement-magic-dictionary](https://github.com/Kasa1905/TheDSADiary/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Kasa1905/TheDSADiary/tree/master/0677-map-sum-pairs) |
+| [0690-employee-importance](https://github.com/Kasa1905/TheDSADiary/tree/master/0690-employee-importance) |
 | [0888-fair-candy-swap](https://github.com/Kasa1905/TheDSADiary/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kasa1905/TheDSADiary/tree/master/1386-cinema-seat-allocation) |
@@ -1920,6 +1924,7 @@ Each problem folder typically includes the accepted Java solution, problem notes
 | [0675-cut-off-trees-for-golf-event](https://github.com/Kasa1905/TheDSADiary/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0684-redundant-connection](https://github.com/Kasa1905/TheDSADiary/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/0685-redundant-connection-ii) |
+| [0690-employee-importance](https://github.com/Kasa1905/TheDSADiary/tree/master/0690-employee-importance) |
 | [1096-brace-expansion-ii](https://github.com/Kasa1905/TheDSADiary/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Kasa1905/TheDSADiary/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Kasa1905/TheDSADiary/tree/master/3310-remove-methods-from-project) |
